@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/domains.list": {
-        "1520766464": [
-            "006.freecounters.co.uk",
+        "1520892914": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "1.adbrite.com",
@@ -135,7 +134,9 @@
             "acvs.mediaonenetwork.net",
             "acvsrv.mediaonenetwork.net",
             "acyclovir.1.p2l.info",
-            "ad-411.com",
+            "ad-411.com"
+        ],
+        "to_test": [
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
             "ad-servicestats.net",
@@ -5895,8 +5896,8 @@
             "protection.scpolice.com",
             "protection.sdpolice.com",
             "protection.tnpolice.com",
-            "www.csgo-house.com"
-        ],
-        "to_test": []
+            "www.csgo-house.com",
+            "006.freecounters.co.uk"
+        ]
     }
 }
