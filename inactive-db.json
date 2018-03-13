@@ -828,9 +828,7 @@
             "ads.websponsors.com",
             "ads.weissinc.com",
             "ads.wfmz.com",
-            "ads.whi.co.nz"
-        ],
-        "to_test": [
+            "ads.whi.co.nz",
             "ads.wnd.com",
             "ads.wunderground.com",
             "ads.x10.com",
@@ -1053,7 +1051,9 @@
             "adserver.journalinteractive.com",
             "adserver.kcilink.com",
             "adserver.lanepress.com",
-            "adserver.latimes.com",
+            "adserver.latimes.com"
+        ],
+        "to_test": [
             "adserver.linktrader.co.uk",
             "adserver.lostreality.com",
             "adserver.m2kcore.com",
