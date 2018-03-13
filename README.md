@@ -1,8 +1,10 @@
-# About [Michael_Trimms_Hosts]
+# About Michael_Trimms_Hosts
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts)
 
-[Description]
+```
+Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.
+```
 
 --------------------------------------------------------------------------------
 
