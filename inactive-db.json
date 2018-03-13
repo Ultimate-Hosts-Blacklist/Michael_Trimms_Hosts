@@ -328,9 +328,7 @@
             "adj16.thruport.com",
             "adj16r1.thruport.com",
             "adj17.thruport.com",
-            "adj18.thruport.com"
-        ],
-        "to_test": [
+            "adj18.thruport.com",
             "adj19.thruport.com",
             "adj2.thruport.com",
             "adj22.thruport.com",
@@ -443,6 +441,7 @@
             "ads.adwitserver.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
+            "ads.affbuzzads.com",
             "ads.ah-ha.com",
             "ads.aintitcool.com",
             "ads.airamericaradio.com",
@@ -516,7 +515,9 @@
             "ads.cpsgsoftware.com",
             "ads.crapville.com",
             "ads.currantbun.com",
-            "ads.cyberfight.ru",
+            "ads.cyberfight.ru"
+        ],
+        "to_test": [
             "ads.cybertrader.com",
             "ads.danworld.net",
             "ads.darkhardware.com",
