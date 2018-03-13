@@ -1051,9 +1051,7 @@
             "adserver.journalinteractive.com",
             "adserver.kcilink.com",
             "adserver.lanepress.com",
-            "adserver.latimes.com"
-        ],
-        "to_test": [
+            "adserver.latimes.com",
             "adserver.linktrader.co.uk",
             "adserver.lostreality.com",
             "adserver.m2kcore.com",
@@ -1071,7 +1069,6 @@
             "adserver.pollstar.com",
             "adserver.prodigy.net",
             "adserver.ratestar.net",
-            "adserver.realhomesex.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -1134,6 +1131,7 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1187,7 +1185,9 @@
             "adverts.im4ges.com",
             "adverts.novatv.bg",
             "advicepl.adocean.pl",
-            "advision.webevents.yahoo.com",
+            "advision.webevents.yahoo.com"
+        ],
+        "to_test": [
             "adware.kogaryu.com",
             "adwords.google.lloymlincs.com",
             "adworx.at",
@@ -5889,7 +5889,6 @@
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
             "zyrtec.4.p2l.info",
-            "adspiro.pl",
             "kazaa.adserver.co.il",
             "protection.gapolice.com",
             "protection.mepolice.com",
