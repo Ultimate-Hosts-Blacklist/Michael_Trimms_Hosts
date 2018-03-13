@@ -4374,9 +4374,7 @@
             "srv.overlay-ad.com",
             "srv1.wa.marketingsolutions.yahoo.com",
             "srv2.wa.marketingsolutions.yahoo.com",
-            "srv3.wa.marketingsolutions.yahoo.com"
-        ],
-        "to_test": [
+            "srv3.wa.marketingsolutions.yahoo.com",
             "ss.tiscali.com",
             "ssads.osdn.com",
             "ssl-hints.netflame.cc",
@@ -4493,7 +4491,9 @@
             "subad-server.com",
             "subtracts.userplane.com",
             "successful-marketing-now.com",
-            "sunny.oewabox.at",
+            "sunny.oewabox.at"
+        ],
+        "to_test": [
             "super.oewabox.at",
             "superegler.net",
             "supermed.oewabox.at",
