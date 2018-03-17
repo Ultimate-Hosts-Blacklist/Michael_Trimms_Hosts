@@ -2898,9 +2898,7 @@
             "m.adbridge.de",
             "m.de.2mdn.net",
             "m.fr.2mdn.net",
-            "m.uk.2mdn.net"
-        ],
-        "to_test": [
+            "m.uk.2mdn.net",
             "m.webtrends.com",
             "m01.webwise.com",
             "m02.webwise.com",
@@ -3154,8 +3152,8 @@
             "mb.5.p2l.info",
             "mba-online.petrovka.info",
             "mbox2.offermatica.com",
-            "MCOpolice.com",
             "mcopolice.com",
+            "MCOpolice.com",
             "md.5.p2l.info",
             "mde.ubid.com",
             "mdr.ivwbox.de",
@@ -3281,7 +3279,9 @@
             "medusa.reklamlab.com",
             "medya.e-kolay.net",
             "megaplex.oewabox.at",
-            "melding-technology.com",
+            "melding-technology.com"
+        ],
+        "to_test": [
             "mens.1.p2l.info",
             "mepra.blautechnology.cl",
             "meridia.1.p2l.info",
