@@ -4921,9 +4921,7 @@
             "w29.am15.net",
             "w3.am15.net",
             "w3.extreme-dm.com",
-            "w30.am15.net"
-        ],
-        "to_test": [
+            "w30.am15.net",
             "w31.am15.net",
             "w32.am15.net",
             "w33.am15.net",
@@ -4946,6 +4944,7 @@
             "w47.am15.net",
             "w48.am15.net",
             "w49.am15.net",
+            "w4988.nb.host127-0-0-1.com",
             "w5.extreme-dm.com",
             "w51.am15.net",
             "w52.am15.net",
@@ -4959,6 +4958,7 @@
             "w6.am15.net",
             "w6.extreme-dm.com",
             "w61.am15.net",
+            "w612.nb.host127-0-0-1.com",
             "w62.am15.net",
             "w63.am15.net",
             "w64.am15.net",
@@ -5094,7 +5094,9 @@
             "www.ad-clix.com",
             "www.ad.tgdaily.com",
             "www.adbanner.ro",
-            "www.addfreecounter.com",
+            "www.addfreecounter.com"
+        ],
+        "to_test": [
             "www.adlimg03.com",
             "www.admedien.com",
             "www.admin.iesnare.co.uk",
