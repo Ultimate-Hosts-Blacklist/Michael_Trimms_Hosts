@@ -1046,9 +1046,7 @@
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
             "adserver.ifmagazine.com",
-            "adserver.ign.com"
-        ],
-        "to_test": [
+            "adserver.ign.com",
             "adserver.ilounge.com",
             "adserver.infinit.net",
             "adserver.ixm.co.uk",
@@ -1183,7 +1181,9 @@
             "adv758968.ru",
             "adveraction.pl",
             "advert.istanbul.net",
-            "advert.uzmantv.com",
+            "advert.uzmantv.com"
+        ],
+        "to_test": [
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
             "adverts.digitalspy.co.uk",
