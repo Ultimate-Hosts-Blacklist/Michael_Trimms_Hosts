@@ -4139,9 +4139,7 @@
             "s.weheartstats.com",
             "s.xbox.com",
             "s1.buysellads.com",
-            "s1.thecounter.com"
-        ],
-        "to_test": [
+            "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -4241,7 +4239,9 @@
             "servedby.revcontent.com",
             "servedby.valuead.com",
             "server-ca.imrworldwide.com",
-            "server-za.imrworldwide.com",
+            "server-za.imrworldwide.com"
+        ],
+        "to_test": [
             "server.popads.net",
             "server.zoiets.be",
             "server01.popupmoney.com",
