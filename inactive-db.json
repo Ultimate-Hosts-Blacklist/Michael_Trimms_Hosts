@@ -4309,9 +4309,7 @@
             "slf5cyd.info",
             "slider.plugrush.com",
             "sls.update.microsoft.com.akadns.net",
-            "sma.punto.net"
-        ],
-        "to_test": [
+            "sma.punto.net",
             "smart.besonders.ru",
             "smartadserver",
             "smartshare.lgtvsdp.com",
@@ -4321,8 +4319,8 @@
             "smm.sitescout.com",
             "sn.baventures.com",
             "snowplow-collector.sugarops.com",
-            "sO.2mdn.net",
             "so.2mdn.net",
+            "sO.2mdn.net",
             "sobartop.baidu.com",
             "social.bidsystem.com",
             "soclone.com",
@@ -4374,8 +4372,8 @@
             "ssads.osdn.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
-            "ssl-nl.persgroep.edgekey.neto",
             "ssl-nl.persgroep.edgekey.netO",
+            "ssl-nl.persgroep.edgekey.neto",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4431,7 +4429,9 @@
             "stats.absol.co.za",
             "stats.adbrite.com",
             "stats.articlesbase.com",
-            "stats.big-boards.com",
+            "stats.big-boards.com"
+        ],
+        "to_test": [
             "stats.bonzaii.no",
             "stats.cts-bv.nl",
             "stats.darkbluesea.com",
