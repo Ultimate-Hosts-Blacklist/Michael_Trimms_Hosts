@@ -821,9 +821,7 @@
             "ads.vs.com",
             "ads.waframedia1.com",
             "ads.wanadooregie.com",
-            "ads.watershed-publishing.com"
-        ],
-        "to_test": [
+            "ads.watershed-publishing.com",
             "ads.weather.com",
             "ads.weatherflow.com",
             "ads.web.alwayson-network.com",
@@ -1025,7 +1023,6 @@
             "adserver.conjelco.com",
             "adserver.developersnetwork.com",
             "adserver.devx.com",
-            "adserver.digitoday.com",
             "adserver.directforce.net",
             "adserver.dotcommedia.de",
             "adserver.eham.net",
@@ -1049,7 +1046,9 @@
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
             "adserver.ifmagazine.com",
-            "adserver.ign.com",
+            "adserver.ign.com"
+        ],
+        "to_test": [
             "adserver.ilounge.com",
             "adserver.infinit.net",
             "adserver.ixm.co.uk",
