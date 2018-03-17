@@ -4429,9 +4429,7 @@
             "stats.absol.co.za",
             "stats.adbrite.com",
             "stats.articlesbase.com",
-            "stats.big-boards.com"
-        ],
-        "to_test": [
+            "stats.big-boards.com",
             "stats.bonzaii.no",
             "stats.cts-bv.nl",
             "stats.darkbluesea.com",
@@ -4584,7 +4582,9 @@
             "techasiamusicsvr.com",
             "techlifeconnected.com",
             "technicalconsumerreports.com",
-            "techreview-images.adbureau.net",
+            "techreview-images.adbureau.net"
+        ],
+        "to_test": [
             "techreview.adbureau.net",
             "tecnocuer.com",
             "tel.geenstijl.nl",
