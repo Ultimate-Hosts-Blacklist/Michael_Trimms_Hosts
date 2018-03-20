@@ -309,9 +309,7 @@
             "adimage.asiaone.com",
             "adimage.asiaone.com.sg",
             "adimages.earthweb.com",
-            "adimages.watchmygf.net"
-        ],
-        "to_test": [
+            "adimages.watchmygf.net",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
             "adipex.1.p2l.info",
@@ -377,7 +375,6 @@
             "adland.medialand.ru",
             "adlantic.nl",
             "adm.shacknews.com",
-            "adm.xmfish.com",
             "adman.in.gr",
             "admanager1.collegepublisher.com",
             "admanager2.broadbandpublisher.com",
@@ -455,7 +452,6 @@
             "ads.anm.co.uk",
             "ads.anvato.com",
             "ads.aol.com",
-            "ads.apn.co.za",
             "ads.appleinsider.com",
             "ads.arcadechain.com",
             "ads.arkitera.net",
@@ -516,7 +512,9 @@
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
-            "ads.coopson.com",
+            "ads.coopson.com"
+        ],
+        "to_test": [
             "ads.cpsgsoftware.com",
             "ads.crapville.com",
             "ads.currantbun.com",
