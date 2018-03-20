@@ -512,9 +512,7 @@
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
-            "ads.coopson.com"
-        ],
-        "to_test": [
+            "ads.coopson.com",
             "ads.cpsgsoftware.com",
             "ads.crapville.com",
             "ads.currantbun.com",
@@ -522,7 +520,6 @@
             "ads.cybertrader.com",
             "ads.danworld.net",
             "ads.darkhardware.com",
-            "ads.datingyes.com",
             "ads.dbforums.com",
             "ads.ddj.com",
             "ads.dealnews.com",
@@ -608,6 +605,7 @@
             "ads.infospace.com",
             "ads.insidehighered.com",
             "ads.intellicast.com",
+            "ads.inthesidebar.com",
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
@@ -673,7 +671,9 @@
             "ads.nativeinstruments.de",
             "ads.neoseeker.com",
             "ads.neowin.net",
-            "ads.nerve.com",
+            "ads.nerve.com"
+        ],
+        "to_test": [
             "ads.net-ad-vantage.com",
             "ads.netclusive.de",
             "ads.nethaber.com",
