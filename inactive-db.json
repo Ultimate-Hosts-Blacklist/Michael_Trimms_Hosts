@@ -816,9 +816,7 @@
             "ads.vs.co",
             "ads.vs.com",
             "ads.waframedia1.com",
-            "ads.wanadooregie.com"
-        ],
-        "to_test": [
+            "ads.wanadooregie.com",
             "ads.watershed-publishing.com",
             "ads.weather.com",
             "ads.weatherflow.com",
@@ -1037,7 +1035,9 @@
             "adserver.garden.com",
             "adserver.gecce.com",
             "adserver.gr",
-            "adserver.gunaxin.com",
+            "adserver.gunaxin.com"
+        ],
+        "to_test": [
             "adserver.harvestadsdepot.com",
             "adserver.hi-m.de",
             "adserver.hipertextual.com",
