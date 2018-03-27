@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/domains.list": {
-        "1522065880": [
+        "1522152954": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "1.adbrite.com",
@@ -100,7 +100,6 @@
             "a1.opentracker.net",
             "a15172379.alturo-server.de",
             "a2.mediagra.com",
-            "006.freecounters.co.uk",
             "a2.websponsors.com",
             "a200.yieldoptimizer.com",
             "a3.cdnpark.com",
@@ -137,19 +136,7 @@
             "acyclovir.1.p2l.info",
             "ad-411.com",
             "ad-images.suntimes.com",
-            "ad-incisive.grapeshot.co.uk",
-            "ad-servicestats.net",
-            "ad-uk.tiscali.com",
-            "ad-us-east-1.pxlad.io",
-            "ad-yt-bfp.doubleclick.net",
-            "ad.3au.doubleclick.net",
-            "ad.980x.com",
-            "ad.about.com",
-            "ad.aboutit.de",
-            "ad.accessmediaproductions.com",
-            "ad.adbull.com",
-            "ad.adfunky.com",
-            "ad.admarketplace.net"
+            "ad-incisive.grapeshot.co.uk"
         ],
         "to_test": [
             "e.as-eu.falkag.net",
@@ -5896,7 +5883,20 @@
             "ds.amateurmatch.com",
             "dsa.csdata1.com",
             "dt.linkpulse.com",
-            "dubstep.onedumb.com"
+            "dubstep.onedumb.com",
+            "ad-servicestats.net",
+            "ad-uk.tiscali.com",
+            "ad-us-east-1.pxlad.io",
+            "ad-yt-bfp.doubleclick.net",
+            "ad.3au.doubleclick.net",
+            "ad.980x.com",
+            "ad.about.com",
+            "ad.aboutit.de",
+            "ad.accessmediaproductions.com",
+            "ad.adbull.com",
+            "ad.adfunky.com",
+            "ad.admarketplace.net",
+            "006.freecounters.co.uk"
         ]
     }
 }
