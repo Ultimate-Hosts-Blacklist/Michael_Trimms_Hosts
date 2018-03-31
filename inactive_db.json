@@ -4382,9 +4382,7 @@
             "sports-bonuspath.com",
             "sports-fitness-rewardpath.com",
             "sports-offer.net",
-            "sports-premiumblvd.com"
-        ],
-        "to_test": [
+            "sports-premiumblvd.com",
             "sports.smartlivegaming.com",
             "sportsbook.kingdomcasino.com",
             "sprinks-clicks.about.com",
@@ -4401,8 +4399,8 @@
             "ssads.osdn.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
-            "ssl-nl.persgroep.edgekey.netO",
             "ssl-nl.persgroep.edgekey.neto",
+            "ssl-nl.persgroep.edgekey.netO",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4492,7 +4490,9 @@
             "stats.video.search.yahoo.com",
             "stats.yourminis.com",
             "stats1.in",
-            "stats2.dooyoo.com",
+            "stats2.dooyoo.com"
+        ],
+        "to_test": [
             "stats2.rte.ie",
             "stats2.unrulymedia.com",
             "stats5.lightningcast.com",
