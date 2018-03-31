@@ -3360,9 +3360,7 @@
             "mmv.admob.com",
             "mn.5.p2l.info",
             "mo.5.p2l.info",
-            "mob.adwhirl.com"
-        ],
-        "to_test": [
+            "mob.adwhirl.com",
             "mobile.ivwbox.de",
             "mobile.plugrush.com",
             "mobileanalytics.us-east-2.amazonaws.com",
@@ -3515,7 +3513,9 @@
             "nysubwayoffer.com",
             "o.admob.com",
             "oas-1.rmuk.co.uk",
-            "oas-central.east.realmedia.com",
+            "oas-central.east.realmedia.com"
+        ],
+        "to_test": [
             "oas-central.realmedia.com",
             "oas-eu.247realmedia.com",
             "oas.adservingml.com",
