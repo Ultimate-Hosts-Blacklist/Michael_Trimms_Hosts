@@ -5794,9 +5794,7 @@
             "www12.ad.tomshardware.com",
             "www13.ad.tomshardware.com",
             "www14.ad.tomshardware.com",
-            "www15.ad.tomshardware.com"
-        ],
-        "to_test": [
+            "www15.ad.tomshardware.com",
             "www2.ad.tomshardware.com",
             "www2.bannerspace.com",
             "www2.drunkenstepfather.com",
@@ -5925,7 +5923,9 @@
             "zyprexa.about-tabs.com",
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
-            "zyrtec.4.p2l.info",
+            "zyrtec.4.p2l.info"
+        ],
+        "to_test": [
             "006.freecounters.co.uk"
         ]
     }
