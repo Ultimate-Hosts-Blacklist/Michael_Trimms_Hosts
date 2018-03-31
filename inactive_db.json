@@ -4074,9 +4074,7 @@
             "red03.as-us.falkag.net",
             "red04.as-eu.falkag.net",
             "red04.as-us.falkag.net",
-            "redherring.ngadcenter.net"
-        ],
-        "to_test": [
+            "redherring.ngadcenter.net",
             "reedbusiness.com.invalid",
             "regio.adlink.de",
             "reklam-1.com",
@@ -4143,8 +4141,8 @@
             "rubylan.net",
             "rubytag.net",
             "RUSpolice.com",
-            "RUSpolice.net",
             "ruspolice.net",
+            "RUSpolice.net",
             "russ-shalavy.ru",
             "s.adklik.com.tr",
             "s.admob.com",
@@ -4167,7 +4165,9 @@
             "s2.buysellads.com",
             "s2.youtube.com",
             "s201.indexstats.com",
-            "s32.bilsay.com",
+            "s32.bilsay.com"
+        ],
+        "to_test": [
             "safari-critical-alert.com",
             "safedownloadnow.work",
             "safenyplanet.in",
