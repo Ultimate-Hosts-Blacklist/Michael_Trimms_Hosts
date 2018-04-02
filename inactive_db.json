@@ -849,9 +849,7 @@
             "ads.xbox-scene.com",
             "ads.xboxic.com",
             "ads.xposed.com",
-            "ads.xtramsn.co.nz"
-        ],
-        "to_test": [
+            "ads.xtramsn.co.nz",
             "ads.yashi.com",
             "ads.youporn.com",
             "ads.zap2it.com",
@@ -912,6 +910,7 @@
             "ads2.advance.net",
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
+            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -1088,7 +1087,9 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
-            "adserver.smashtv.com",
+            "adserver.smashtv.com"
+        ],
+        "to_test": [
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
