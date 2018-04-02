@@ -1087,9 +1087,7 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
-            "adserver.smashtv.com"
-        ],
-        "to_test": [
+            "adserver.smashtv.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -1145,7 +1143,6 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1218,7 +1215,9 @@
             "aff4.gittigidiyor.com",
             "affiliate.7host.com",
             "affiliate.a4dtracker.com",
-            "affiliate.aol.com",
+            "affiliate.aol.com"
+        ],
+        "to_test": [
             "affiliate.cfdebt.com",
             "affiliate.hbytracker.com",
             "affiliate.kitapyurdu.com",
