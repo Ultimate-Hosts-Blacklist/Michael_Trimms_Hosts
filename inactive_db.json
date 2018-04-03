@@ -4162,9 +4162,7 @@
             "s.weheartstats.com",
             "s.xbox.com",
             "s1.buysellads.com",
-            "s1.thecounter.com"
-        ],
-        "to_test": [
+            "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -4295,7 +4293,9 @@
             "service00x.adtech.de",
             "services.adtech.de",
             "services.picadmedia.com",
-            "services1.adtech.de",
+            "services1.adtech.de"
+        ],
+        "to_test": [
             "session.owneriq.net",
             "sexaddpro.de",
             "sexymarissa.net",
