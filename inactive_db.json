@@ -4354,9 +4354,7 @@
             "software-updates.co",
             "softwarepiset.com",
             "sokrates.adtech.de",
-            "sol-images.adbureau.net"
-        ],
-        "to_test": [
+            "sol-images.adbureau.net",
             "sol.adbureau.net",
             "solveseek.com",
             "soma.1.p2l.info",
@@ -4402,8 +4400,8 @@
             "ssads.osdn.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
-            "ssl-nl.persgroep.edgekey.neto",
             "ssl-nl.persgroep.edgekey.netO",
+            "ssl-nl.persgroep.edgekey.neto",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4438,6 +4436,7 @@
             "static.admaximize.com",
             "static.adsonar.com",
             "static.adtaily.pl",
+            "static.affiliation-france.com",
             "static.carbonads.com",
             "static.cdn.gtsmobi.com",
             "static.crowdscience.com",
@@ -4477,7 +4476,9 @@
             "stats.millanusa.com",
             "stats.nowpublic.com",
             "stats.reinvigorate.net",
-            "stats.revenue.net",
+            "stats.revenue.net"
+        ],
+        "to_test": [
             "stats.searchles.com",
             "stats.slashgear.com",
             "stats.space-es.com",
