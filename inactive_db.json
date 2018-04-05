@@ -1077,9 +1077,7 @@
             "adserver.newmassmedia.net",
             "adserver.news-journalonline.com",
             "adserver.newtimes.com",
-            "adserver.nzoom.com"
-        ],
-        "to_test": [
+            "adserver.nzoom.com",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
@@ -1206,7 +1204,9 @@
             "adworx.at",
             "adx.adosx.com",
             "adx.adrenalinesk.sk",
-            "adx.bixee.com",
+            "adx.bixee.com"
+        ],
+        "to_test": [
             "adx.gainesvillesun.com",
             "adx.heraldtribune.com",
             "adz.afterdawn.net",
