@@ -844,9 +844,7 @@
             "ads.weissinc.com",
             "ads.wfmz.com",
             "ads.whi.co.nz",
-            "ads.wnd.com"
-        ],
-        "to_test": [
+            "ads.wnd.com",
             "ads.wunderground.com",
             "ads.x10.com",
             "ads.x10.net",
@@ -888,6 +886,7 @@
             "ads1.theglobeandmail.com",
             "ads1.ucomics.com",
             "ads1.udc.advance.net",
+            "ads1.updated.com",
             "ads1.virtumundo.com",
             "ads1.zdnet.com",
             "ads10.hyperbanner.net",
@@ -914,7 +913,6 @@
             "ads2.advance.net",
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
-            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -1079,7 +1077,9 @@
             "adserver.newmassmedia.net",
             "adserver.news-journalonline.com",
             "adserver.newtimes.com",
-            "adserver.nzoom.com",
+            "adserver.nzoom.com"
+        ],
+        "to_test": [
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
