@@ -4321,9 +4321,7 @@
             "show.buzzcity.net",
             "show.communiad.com",
             "sifomedia.thelocal.se",
-            "signup.advance.net"
-        ],
-        "to_test": [
+            "signup.advance.net",
             "single-online.petrovka.info",
             "site.puritan.com",
             "sitefinder-idn.verisign.com",
@@ -4356,8 +4354,8 @@
             "smm.sitescout.com",
             "sn.baventures.com",
             "snowplow-collector.sugarops.com",
-            "sO.2mdn.net",
             "so.2mdn.net",
+            "sO.2mdn.net",
             "sobartop.baidu.com",
             "social.bidsystem.com",
             "soclone.com",
@@ -4389,7 +4387,9 @@
             "sponsors.behance.com",
             "sponsors.ezgreen.com",
             "sport-betting-online.hitslog.net",
-            "sport.count.brat-online.ro",
+            "sport.count.brat-online.ro"
+        ],
+        "to_test": [
             "sports-bonuspath.com",
             "sports-fitness-rewardpath.com",
             "sports-offer.net",
