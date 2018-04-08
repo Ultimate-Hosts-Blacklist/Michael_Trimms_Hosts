@@ -3500,9 +3500,7 @@
             "ns2.lalibco.com",
             "ns2.primeinteractive.net",
             "ns2.webwise.com",
-            "ns2.youcanoptout.com"
-        ],
-        "to_test": [
+            "ns2.youcanoptout.com",
             "nsads.us.publicus.com",
             "nsads4.us.publicus.com",
             "nstat.tudou.com",
@@ -3729,7 +3727,9 @@
             "oralse.ca",
             "orange-fr.adinfuse.com",
             "orange.fr-enqueteannuelle.xyz",
-            "orange.fr-enqueteofficielle.online",
+            "orange.fr-enqueteofficielle.online"
+        ],
+        "to_test": [
             "orange.fr-enqueteofficielle2015.xyz",
             "orange.fr-felicitations.xyz",
             "orange.fr-votre-opinion.xyz",
