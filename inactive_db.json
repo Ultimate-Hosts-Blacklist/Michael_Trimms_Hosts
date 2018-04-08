@@ -906,9 +906,7 @@
             "ads16.advance.net",
             "ads16.hyperbanner.net",
             "ads16.udc.advance.net",
-            "ads17.hyperbanner.net"
-        ],
-        "to_test": [
+            "ads17.hyperbanner.net",
             "ads18.hyperbanner.net",
             "ads2.ad-flow.com",
             "ads2.adbrite.com",
@@ -1141,7 +1139,9 @@
             "adservingcentral.com",
             "adserwer.intercon.pl",
             "adserwer.o2.pl",
-            "adsformula.sitescout.com",
+            "adsformula.sitescout.com"
+        ],
+        "to_test": [
             "adshufffle.com",
             "adsintl.starwave.com",
             "adsm.soush.com",
