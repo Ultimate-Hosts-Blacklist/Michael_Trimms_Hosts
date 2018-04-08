@@ -4503,9 +4503,7 @@
             "stats1.in",
             "stats2.dooyoo.com",
             "stats2.rte.ie",
-            "stats2.unrulymedia.com"
-        ],
-        "to_test": [
+            "stats2.unrulymedia.com",
             "stats5.lightningcast.com",
             "stats6.lightningcast.net",
             "status.addthis.com",
@@ -4668,7 +4666,9 @@
             "tn.adserve.com",
             "toads.osdn.com",
             "token.boomerang.com.au",
-            "toolbar.adperium.com",
+            "toolbar.adperium.com"
+        ],
+        "to_test": [
             "toolbar.startnow.com",
             "toolbarpartner.com",
             "top-casting-termine.de",
