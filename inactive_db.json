@@ -702,9 +702,7 @@
             "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
-            "ads.okazii.ro"
-        ],
-        "to_test": [
+            "ads.okazii.ro",
             "ads.onlineathens.com",
             "ads.onlinevenditatio.space",
             "ads.ookla.com",
@@ -908,7 +906,9 @@
             "ads16.advance.net",
             "ads16.hyperbanner.net",
             "ads16.udc.advance.net",
-            "ads17.hyperbanner.net",
+            "ads17.hyperbanner.net"
+        ],
+        "to_test": [
             "ads18.hyperbanner.net",
             "ads2.ad-flow.com",
             "ads2.adbrite.com",
