@@ -535,9 +535,7 @@
             "ads.dealnews.com",
             "ads.dedicatedmedia.com",
             "ads.deliads.com",
-            "ads.designboom.com"
-        ],
-        "to_test": [
+            "ads.designboom.com",
             "ads.developershed.com",
             "ads.didactic.ro",
             "ads.digitalacre.com",
@@ -637,6 +635,7 @@
             "ads.lavoix.com",
             "ads.leo.org",
             "ads.lilengine.com",
+            "ads.linuxjournal.com",
             "ads.list-universe.com",
             "ads.ljworld.com",
             "ads.lmmob.com",
@@ -677,7 +676,6 @@
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
-            "ads.myjizztube.com",
             "ads.n-ws.org",
             "ads.nandomedia.com",
             "ads.nationalreview.com",
@@ -694,7 +692,9 @@
             "ads.newsbtc.com",
             "ads.newsminerextra.com",
             "ads.newsquest.co.uk",
-            "ads.newtention.net",
+            "ads.newtention.net"
+        ],
+        "to_test": [
             "ads.newtimes.com",
             "ads.ngenuity.com",
             "ads.npr.valueclick.net",
