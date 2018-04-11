@@ -851,9 +851,7 @@
             "ads.xbox-scene.com",
             "ads.xboxic.com",
             "ads.xposed.com",
-            "ads.xtramsn.co.nz"
-        ],
-        "to_test": [
+            "ads.xtramsn.co.nz",
             "ads.yashi.com",
             "ads.youporn.com",
             "ads.zap2it.com",
@@ -1094,7 +1092,9 @@
             "adserver.smashtv.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
-            "adserver.telalink.net",
+            "adserver.telalink.net"
+        ],
+        "to_test": [
             "adserver.teracent.net",
             "adserver.thisislondon.co.uk",
             "adserver.tilted.net",
