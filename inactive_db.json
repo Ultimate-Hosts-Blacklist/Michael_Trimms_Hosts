@@ -693,9 +693,7 @@
             "ads.newsquest.co.uk",
             "ads.newtention.net",
             "ads.newtimes.com",
-            "ads.ngenuity.com"
-        ],
-        "to_test": [
+            "ads.ngenuity.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.nudecards.com",
@@ -861,7 +859,9 @@
             "ads001.stickam.com",
             "ads01.hyperbanner.net",
             "ads02.hyperbanner.net",
-            "ads03.hyperbanner.net",
+            "ads03.hyperbanner.net"
+        ],
+        "to_test": [
             "ads04.hyperbanner.net",
             "ads05.hyperbanner.net",
             "ads06.hyperbanner.net",
