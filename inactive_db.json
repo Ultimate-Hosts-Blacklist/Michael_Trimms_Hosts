@@ -1115,21 +1115,16 @@
             "adserver1.adtech.com.tr",
             "adserver1.economist.com",
             "adserver1.isohunt.com",
-            "adserver1.mediainsight.de"
-        ],
-        "to_test": [
+            "adserver1.mediainsight.de",
             "adserver1.mokono.com",
             "adserver1.teracent.net",
             "adserver2.adserver.com.pl",
             "adserver2.christianitytoday.com",
             "adserver2.condenast.co.uk",
-            "adserver2.eudora.com",
             "adserver2.mediainsight.de",
             "adserver2.news-journalonline.com",
             "adserver2.popdata.de",
             "adserver2.teracent.net",
-            "adserver3.eudora.com",
-            "adserver4.eudora.com",
             "adserverb.conjelco.com",
             "adservices.google.com",
             "adservices.picadmedia.com",
@@ -1222,7 +1217,9 @@
             "affiliate.hbytracker.com",
             "affiliate.kitapyurdu.com",
             "affiliates.devilfishpartners.com",
-            "affiliates.ige.com",
+            "affiliates.ige.com"
+        ],
+        "to_test": [
             "afp.qiyi.com",
             "ag1.hitbox.com",
             "aguileranude.1stOK.com",
