@@ -859,9 +859,7 @@
             "ads001.stickam.com",
             "ads01.hyperbanner.net",
             "ads02.hyperbanner.net",
-            "ads03.hyperbanner.net"
-        ],
-        "to_test": [
+            "ads03.hyperbanner.net",
             "ads04.hyperbanner.net",
             "ads05.hyperbanner.net",
             "ads06.hyperbanner.net",
@@ -875,7 +873,6 @@
             "ads1.advertwizard.com",
             "ads1.blogadvertising.me",
             "ads1.destructoid.com",
-            "ads1.eudora.com",
             "ads1.globeandmail.com",
             "ads1.itadnetwork.co.uk",
             "ads1.jev.co.za",
@@ -1039,7 +1036,6 @@
             "adserver.eham.net",
             "adserver.emapadserver.com",
             "adserver.emporis.com",
-            "adserver.eudora.com",
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
@@ -1078,6 +1074,7 @@
             "adserver.newmassmedia.net",
             "adserver.news-journalonline.com",
             "adserver.newtimes.com",
+            "adserver.ngz-network.de",
             "adserver.nzoom.com",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
@@ -1117,9 +1114,10 @@
             "adserver1.adserver.com.pl",
             "adserver1.adtech.com.tr",
             "adserver1.economist.com",
-            "adserver1.eudora.com",
             "adserver1.isohunt.com",
-            "adserver1.mediainsight.de",
+            "adserver1.mediainsight.de"
+        ],
+        "to_test": [
             "adserver1.mokono.com",
             "adserver1.teracent.net",
             "adserver2.adserver.com.pl",
