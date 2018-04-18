@@ -844,9 +844,7 @@
             "ads.websponsors.com",
             "ads.weissinc.com",
             "ads.wfmz.com",
-            "ads.whi.co.nz"
-        ],
-        "to_test": [
+            "ads.whi.co.nz",
             "ads.wnd.com",
             "ads.wunderground.com",
             "ads.x10.com",
@@ -1026,7 +1024,6 @@
             "adserver.billiger-telefonieren.de",
             "adserver.bluereactor.net",
             "adserver.bluewin.ch",
-            "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
             "adserver.clubic.com",
@@ -1069,7 +1066,9 @@
             "adserver.latimes.com",
             "adserver.linktrader.co.uk",
             "adserver.lostreality.com",
-            "adserver.m2kcore.com",
+            "adserver.m2kcore.com"
+        ],
+        "to_test": [
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
             "adserver.motonews.pl",
