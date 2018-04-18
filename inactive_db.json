@@ -523,9 +523,7 @@
             "ads.cnngo.com",
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
-            "ads.comicbookresources.com"
-        ],
-        "to_test": [
+            "ads.comicbookresources.com",
             "ads.coopson.com",
             "ads.cpsgsoftware.com",
             "ads.crapville.com",
@@ -686,7 +684,9 @@
             "ads.neoseeker.com",
             "ads.neowin.net",
             "ads.nerve.com",
-            "ads.net-ad-vantage.com",
+            "ads.net-ad-vantage.com"
+        ],
+        "to_test": [
             "ads.netclusive.de",
             "ads.nethaber.com",
             "ads.networldmedia.net",
