@@ -319,9 +319,7 @@
             "adimages.omroepzeeland.nl",
             "adimages.watchmygf.net",
             "adincl.gopher.com",
-            "adindex.ocweekly.com"
-        ],
-        "to_test": [
+            "adindex.ocweekly.com",
             "adipex.1.p2l.info",
             "adipex.3.p2l.info",
             "adipex.4.p2l.info",
@@ -525,7 +523,9 @@
             "ads.cnngo.com",
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
-            "ads.comicbookresources.com",
+            "ads.comicbookresources.com"
+        ],
+        "to_test": [
             "ads.coopson.com",
             "ads.cpsgsoftware.com",
             "ads.crapville.com",
