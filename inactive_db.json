@@ -1066,9 +1066,7 @@
             "adserver.latimes.com",
             "adserver.linktrader.co.uk",
             "adserver.lostreality.com",
-            "adserver.m2kcore.com"
-        ],
-        "to_test": [
+            "adserver.m2kcore.com",
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
             "adserver.motonews.pl",
@@ -1079,6 +1077,7 @@
             "adserver.newtimes.com",
             "adserver.ngz-network.de",
             "adserver.nzoom.com",
+            "adserver.omroepzeeland.nl",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
@@ -1139,6 +1138,7 @@
             "adsformula.sitescout.com",
             "adshufffle.com",
             "adsintl.starwave.com",
+            "adsk2.co",
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
@@ -1168,6 +1168,7 @@
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
             "adtology3.com",
+            "adtracker.inmobi.com",
             "adtracker.meinungsstudie.de",
             "adtrading.de",
             "adtxt.prbn.ru",
@@ -1175,6 +1176,7 @@
             "adv.440net.com",
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
+            "adv.deltanews.bg",
             "adv.federalpost.ru",
             "adv.lampsplus.com",
             "adv.magna.ru",
@@ -1196,7 +1198,9 @@
             "adverts.im4ges.com",
             "adverts.novatv.bg",
             "advicepl.adocean.pl",
-            "advision.webevents.yahoo.com",
+            "advision.webevents.yahoo.com"
+        ],
+        "to_test": [
             "adware.kogaryu.com",
             "adwords.google.lloymlincs.com",
             "adworx.at",
