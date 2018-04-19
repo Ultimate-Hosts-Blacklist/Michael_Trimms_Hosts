@@ -3461,9 +3461,7 @@
             "netadsrv.iworld.com",
             "network-ca.247realmedia.com",
             "network.business.com",
-            "network.realmedia.com"
-        ],
-        "to_test": [
+            "network.realmedia.com",
             "network.realtechnetwork.net",
             "networkads.net",
             "netzmarkt.ivwbox.de",
@@ -3556,6 +3554,7 @@
             "oascentral.alanicnewsnet.ca",
             "oascentral.alanticnewsnet.ca",
             "oascentral.americanheritage.com",
+            "oascentral.artistdirect.com",
             "oascentral.artistirect.com",
             "oascentral.askmen.com",
             "oascentral.aviationnow.com",
@@ -3676,7 +3675,9 @@
             "ok.5.p2l.info",
             "old-darkroast.adknowledge.com",
             "on.5.p2l.info",
-            "onefm.count.brat-online.ro",
+            "onefm.count.brat-online.ro"
+        ],
+        "to_test": [
             "online-antispym4.com",
             "online-auto-insurance.petrovka.info",
             "online-bingo.petrovka.info",
