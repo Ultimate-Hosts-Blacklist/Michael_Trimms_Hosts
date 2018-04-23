@@ -822,9 +822,7 @@
             "ads.unixathome.org",
             "ads.update.com",
             "ads.us.e-planning.ne",
-            "ads.userfriendly.org"
-        ],
-        "to_test": [
+            "ads.userfriendly.org",
             "ads.verkata.com",
             "ads.vesperexchange.com",
             "ads.vg.basefarm.net",
@@ -1066,7 +1064,9 @@
             "adserver.janes.net",
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
-            "adserver.kcilink.com",
+            "adserver.kcilink.com"
+        ],
+        "to_test": [
             "adserver.lanepress.com",
             "adserver.latimes.com",
             "adserver.linktrader.co.uk",
