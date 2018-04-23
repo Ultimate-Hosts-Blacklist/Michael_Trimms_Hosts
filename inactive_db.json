@@ -1883,9 +1883,7 @@
             "click.buzzcity.net",
             "click.fivemtn.com",
             "click.go2net.com",
-            "click.investopedia.com"
-        ],
-        "to_test": [
+            "click.investopedia.com",
             "click.maxxandmore.com",
             "click.pulse360.com",
             "click1.rbc.magna.ru",
@@ -1992,7 +1990,9 @@
             "counter.uq.edu.au",
             "counter.webcom.com",
             "counter.webtrends.com",
-            "counter.webtrends.net",
+            "counter.webtrends.net"
+        ],
+        "to_test": [
             "counterad.de",
             "counteraport.spylog.com",
             "counters.gigya.com",
