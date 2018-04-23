@@ -4015,9 +4015,7 @@
             "protectionupdatecenter.com",
             "proximityads.flipcorp.com",
             "proxy.blogads.com",
-            "proxy.ia2.marketscore.com"
-        ],
-        "to_test": [
+            "proxy.ia2.marketscore.com",
             "proxy.ia3.marketscore.com",
             "proxy.ia4.marketscore.com",
             "proxy.or3.marketscore.com",
@@ -4139,7 +4137,9 @@
             "rl8vd.kikul.com",
             "rm-admin-demo.iovation.com",
             "rm.myoc.com",
-            "rma-api.gravity.com",
+            "rma-api.gravity.com"
+        ],
+        "to_test": [
             "rms.admeta.com",
             "ro.bbelements.com",
             "roifmd.info",
