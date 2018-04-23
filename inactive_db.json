@@ -2866,9 +2866,7 @@
             "ldimage01.adtech.de",
             "ldimage02.adtech.de",
             "ldserv01.adtech.de",
-            "ldserv02.adtech.de"
-        ],
-        "to_test": [
+            "ldserv02.adtech.de",
             "legal-rewardpath.com",
             "leisure-offer.com",
             "lesbian-erotica.hitbox.com",
@@ -3190,8 +3188,8 @@
             "mb.5.p2l.info",
             "mba-online.petrovka.info",
             "mbox2.offermatica.com",
-            "MCOpolice.com",
             "mcopolice.com",
+            "MCOpolice.com",
             "md.5.p2l.info",
             "mde.ubid.com",
             "mdr.ivwbox.de",
@@ -3200,7 +3198,9 @@
             "media.adshadow.net",
             "media.betburdaaffiliates.com",
             "media.customeracquisitionsite.com",
-            "media.elb-kind.de",
+            "media.elb-kind.de"
+        ],
+        "to_test": [
             "media.markethealth.com",
             "media.opencandy.com",
             "media.struq.com",
