@@ -669,9 +669,7 @@
             "ads.mmediatags.com",
             "ads.mndaily.com",
             "ads.mobgold.com",
-            "ads.mobiledia.com"
-        ],
-        "to_test": [
+            "ads.mobiledia.com",
             "ads.mobygames.com",
             "ads.modbee.com",
             "ads.monster.com",
@@ -689,6 +687,7 @@
             "ads.net-ad-vantage.com",
             "ads.netclusive.de",
             "ads.nethaber.com",
+            "ads.netmechanic.com",
             "ads.networldmedia.net",
             "ads.newcity.com",
             "ads.newcitynet.com",
@@ -749,6 +748,7 @@
             "ads.realmedia.de",
             "ads.realtechnetwork.net",
             "ads.reason.com",
+            "ads.redorbit.com",
             "ads.reklamlar.net",
             "ads.revenews.com",
             "ads.revenue.net",
@@ -806,6 +806,7 @@
             "ads.tnt.tv",
             "ads.top-banners.com",
             "ads.top500.org",
+            "ads.tracfonewireless.com",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -821,7 +822,9 @@
             "ads.unixathome.org",
             "ads.update.com",
             "ads.us.e-planning.ne",
-            "ads.userfriendly.org",
+            "ads.userfriendly.org"
+        ],
+        "to_test": [
             "ads.verkata.com",
             "ads.vesperexchange.com",
             "ads.vg.basefarm.net",
