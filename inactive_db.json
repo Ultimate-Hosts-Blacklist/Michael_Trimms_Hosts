@@ -855,9 +855,7 @@
             "ads.x10.net",
             "ads.xbox-scene.com",
             "ads.xboxic.com",
-            "ads.xposed.com"
-        ],
-        "to_test": [
+            "ads.xposed.com",
             "ads.xtramsn.co.nz",
             "ads.yashi.com",
             "ads.youporn.com",
@@ -934,6 +932,7 @@
             "ads2.revenue.net",
             "ads2.theglobeandmail.com",
             "ads2.udc.advance.net",
+            "ads2.victoriaadvocate.com",
             "ads2.virtumundo.com",
             "ads2.zdnet.com",
             "ads3.ad-flow.com",
@@ -1030,6 +1029,7 @@
             "adserver.billiger-telefonieren.de",
             "adserver.bluereactor.net",
             "adserver.bluewin.ch",
+            "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
             "adserver.clubic.com",
@@ -1064,7 +1064,6 @@
             "adserver.ilounge.com",
             "adserver.infinit.net",
             "adserver.ixm.co.uk",
-            "adserver.janes.net",
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
             "adserver.kcilink.com",
@@ -1095,7 +1094,9 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
-            "adserver.smashtv.com",
+            "adserver.smashtv.com"
+        ],
+        "to_test": [
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
