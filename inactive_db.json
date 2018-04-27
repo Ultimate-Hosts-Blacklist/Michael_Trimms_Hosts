@@ -321,9 +321,7 @@
             "adimages.omroepzeeland.nl",
             "adimages.watchmygf.net",
             "adincl.gopher.com",
-            "adindex.ocweekly.com"
-        ],
-        "to_test": [
+            "adindex.ocweekly.com",
             "adipex.1.p2l.info",
             "adipex.3.p2l.info",
             "adipex.4.p2l.info",
@@ -471,9 +469,9 @@
             "ads.arkitera.net",
             "ads.as4x.tmcs.ticketmaster.ca",
             "ads.asia1.com",
+            "ads.asia1.com.sg",
             "ads.asp.net",
             "ads.associatedcontent.com",
-            "ads.astalavista.us",
             "ads.atlantamotorspeedway.com",
             "ads.atomex.net",
             "ads.augusta.com",
@@ -498,7 +496,6 @@
             "ads.bootcampmedia.com",
             "ads.box.sk",
             "ads.brain.pk",
-            "ads.breakthru.com",
             "ads.britishexpats.com",
             "ads.burstnet.com",
             "ads.buzzcity.net",
@@ -532,7 +529,9 @@
             "ads.crapville.com",
             "ads.currantbun.com",
             "ads.cyberfight.ru",
-            "ads.cybertrader.com",
+            "ads.cybertrader.com"
+        ],
+        "to_test": [
             "ads.danworld.net",
             "ads.darkhardware.com",
             "ads.dbforums.com",
