@@ -2701,9 +2701,7 @@
             "images-cdn.azoogleads.com",
             "images.blogads.com",
             "images.bluetime.com",
-            "images.clickfinders.com"
-        ],
-        "to_test": [
+            "images.clickfinders.com",
             "images.emapadserver.com",
             "images.enhance.com",
             "images.itchydawg.com",
@@ -2713,7 +2711,16 @@
             "images.tumri.net",
             "imageserv.adtech.de",
             "imageserver1.thruport.com",
+            "img.ads.huntmad.com",
             "img.ads.kompas.com",
+            "img.ads.mobilefuse.net",
+            "img.ads.mocean.mobi",
+            "img.ads.sanomamobileads.nl",
+            "img.ads.taptapnetworks.com",
+            "img.ads1.mocean.mobi",
+            "img.ads2.mocean.mobi",
+            "img.ads3.mocean.mobi",
+            "img.ads4.mocean.mobi",
             "img.blogads.com",
             "img.hitexchange.net",
             "img.sn00.net",
@@ -2829,7 +2836,9 @@
             "k.admob.com",
             "k5ads.osdn.com",
             "kansas.valueclick.com",
-            "katu.adbureau.net",
+            "katu.adbureau.net"
+        ],
+        "to_test": [
             "kczambians.com",
             "kentsucks.youcanoptout.com",
             "kermit.macnn.com",
