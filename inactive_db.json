@@ -1094,9 +1094,7 @@
             "adserver.scmp.com",
             "adserver.securityfocus.com",
             "adserver.singnet.com",
-            "adserver.smashtv.com"
-        ],
-        "to_test": [
+            "adserver.smashtv.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -1148,6 +1146,7 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1187,7 +1186,6 @@
             "adv.merlin.co.il",
             "adv.netmedia.bg",
             "adv.netshelter.net",
-            "adv.rockstar.bg",
             "adv.surinter.net",
             "adv.svd.se",
             "adv0005.247realmedia.com",
@@ -1211,7 +1209,9 @@
             "adx.adrenalinesk.sk",
             "adx.bixee.com",
             "adx.gainesvillesun.com",
-            "adx.heraldtribune.com",
+            "adx.heraldtribune.com"
+        ],
+        "to_test": [
             "adz.afterdawn.net",
             "adzone.stltoday.com",
             "adzservice.theday.com",
