@@ -4064,9 +4064,7 @@
             "proxy.or4.marketscore.com",
             "proxy.sj3.marketscore.com",
             "proxy.sj4.marketscore.com",
-            "proxycfg.marketscore.com"
-        ],
-        "to_test": [
+            "proxycfg.marketscore.com",
             "ptewh.iptvdeals.com",
             "ptreklam.com",
             "ptreklam.com.tr",
@@ -4153,6 +4151,7 @@
             "reklam.ebiuniverse.com",
             "reklam.memurlar.net",
             "reklam.vogel.com.tr",
+            "reklam.yonlendir.com",
             "reklama.bgads.net",
             "reklama.topnovini.bg",
             "reklama.vaseporno.eu",
@@ -4189,7 +4188,9 @@
             "roitrack.cptgt.com",
             "romdiscover.com",
             "romvarimarton.hu",
-            "root.dns.bz",
+            "root.dns.bz"
+        ],
+        "to_test": [
             "roskatrack.roskadirect.com",
             "rotate.infowars.com",
             "rotator.adjuggler.com",
