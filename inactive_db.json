@@ -3436,9 +3436,7 @@
             "msn.oewabox.at",
             "msn.uvwbox.de",
             "msnsearch.srv.girafa.com",
-            "mt.5.p2l.info"
-        ],
-        "to_test": [
+            "mt.5.p2l.info",
             "mtrics.cdc.gov",
             "mtv.247realmedia.com",
             "mtv.count.brat-online.ro",
@@ -3572,6 +3570,7 @@
             "oas-eu.247realmedia.com",
             "oas.adservingml.com",
             "oas.adx.nu",
+            "oas.autotrader.co.uk",
             "oas.dispatch.com",
             "oas.dn.se",
             "oas.greensboro.com",
@@ -3603,7 +3602,9 @@
             "oascentral.aviationnow.com",
             "oascentral.blogher.org",
             "oascentral.bostonherald.com",
-            "oascentral.bostonphoenix.com",
+            "oascentral.bostonphoenix.com"
+        ],
+        "to_test": [
             "oascentral.businessinsider.com",
             "oascentral.clearchannel.com",
             "oascentral.covers.com",
