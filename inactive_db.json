@@ -4250,9 +4250,7 @@
             "s.weheartstats.com",
             "s.xbox.com",
             "s1.buysellads.com",
-            "s1.delfilt.adocean.pl"
-        ],
-        "to_test": [
+            "s1.delfilt.adocean.pl",
             "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.youtube.com",
@@ -4288,6 +4286,7 @@
             "scream.garudamp3.com",
             "script.yeb.biz",
             "scripts.linkz.net",
+            "scripts.mofos.com",
             "scripts.verticalacuity.com",
             "scrooge.channelcincinnati.com",
             "scrooge.channeloklahoma.com",
@@ -4360,7 +4359,9 @@
             "server-ssl.yieldmanaged.com",
             "server-za.imrworldwide.com",
             "server.popads.net",
-            "server.zoiets.be",
+            "server.zoiets.be"
+        ],
+        "to_test": [
             "server01.popupmoney.com",
             "server1.adpolestar.net",
             "server12.opentracker.net",
