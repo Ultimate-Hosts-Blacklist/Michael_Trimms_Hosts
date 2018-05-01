@@ -1064,9 +1064,7 @@
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
-            "adserver.infinit.net"
-        ],
-        "to_test": [
+            "adserver.infinit.net",
             "adserver.ixm.co.uk",
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
@@ -1099,6 +1097,7 @@
             "adserver.securityfocus.com",
             "adserver.singnet.com",
             "adserver.smashtv.com",
+            "adserver.softwareonline.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -1150,7 +1149,6 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1197,7 +1195,9 @@
             "adv758968.ru",
             "adveraction.pl",
             "advert.istanbul.net",
-            "advert.uzmantv.com",
+            "advert.uzmantv.com"
+        ],
+        "to_test": [
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
             "adverts.digitalspy.co.uk",
