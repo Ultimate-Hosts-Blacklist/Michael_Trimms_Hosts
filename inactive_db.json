@@ -828,9 +828,7 @@
             "ads.victoriaadvocate.com",
             "ads.viddler.com",
             "ads.videobash.com",
-            "ads.viewlondon.co.uk"
-        ],
-        "to_test": [
+            "ads.viewlondon.co.uk",
             "ads.vnuemedia.com",
             "ads.vreme.bg",
             "ads.vs.co",
@@ -980,6 +978,7 @@
             "adsentnetwork.com",
             "adserer.ihigh.com",
             "adserv.aip.org",
+            "adserv.bulletinmarketing.com",
             "adserv.entriq.net",
             "adserv.free6.com",
             "adserv.geocomm.com",
@@ -1001,6 +1000,7 @@
             "adservant.guj.de",
             "adserve.canadawidemagazines.com",
             "adserve.mizzenmedia.com",
+            "adserve.podaddies.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
             "adserver-live.yoc.mobi",
@@ -1047,6 +1047,7 @@
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
+            "adserver.finditquick.com",
             "adserver.fmpub.net",
             "adserver.fr.adtech.de",
             "adserver.freenet.de",
@@ -1063,7 +1064,9 @@
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
-            "adserver.infinit.net",
+            "adserver.infinit.net"
+        ],
+        "to_test": [
             "adserver.ixm.co.uk",
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
