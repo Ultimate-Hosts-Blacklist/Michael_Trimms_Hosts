@@ -318,9 +318,7 @@
             "adimage.asiaone.com.sg",
             "adimages.earthweb.com",
             "adimages.omroepzeeland.nl",
-            "adimages.watchmygf.net"
-        ],
-        "to_test": [
+            "adimages.watchmygf.net",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
             "adipex.1.p2l.info",
@@ -514,7 +512,9 @@
             "ads.cimedia.com",
             "ads.cjonline.com",
             "ads.clamav.net",
-            "ads.clara.net",
+            "ads.clara.net"
+        ],
+        "to_test": [
             "ads.clickhouse.com",
             "ads.clickthru.net",
             "ads.cluster01.oasis.zmh.zope.net",
