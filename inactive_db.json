@@ -512,9 +512,7 @@
             "ads.cimedia.com",
             "ads.cjonline.com",
             "ads.clamav.net",
-            "ads.clara.net"
-        ],
-        "to_test": [
+            "ads.clara.net",
             "ads.clickhouse.com",
             "ads.clickthru.net",
             "ads.cluster01.oasis.zmh.zope.net",
@@ -676,7 +674,9 @@
             "ads.moceanads.com",
             "ads.modbee.com",
             "ads.monster.com",
-            "ads.morningstar.com",
+            "ads.morningstar.com"
+        ],
+        "to_test": [
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
