@@ -4253,9 +4253,7 @@
             "s.sa.aol.com",
             "s.statistici.ro",
             "s.stats.wordpress.com",
-            "s.svtrd.com"
-        ],
-        "to_test": [
+            "s.svtrd.com",
             "s.weheartstats.com",
             "s.xbox.com",
             "s1.buysellads.com",
@@ -4364,7 +4362,9 @@
             "servedby.precisionclick.com",
             "servedby.revcontent.com",
             "servedby.valuead.com",
-            "server-ca.imrworldwide.com",
+            "server-ca.imrworldwide.com"
+        ],
+        "to_test": [
             "server-ssl.yieldmanaged.com",
             "server-za.imrworldwide.com",
             "server.popads.net",
