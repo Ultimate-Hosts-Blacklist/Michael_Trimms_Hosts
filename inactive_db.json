@@ -4561,9 +4561,7 @@
             "stats.articlesbase.com",
             "stats.big-boards.com",
             "stats.bonzaii.no",
-            "stats.cts-bv.nl"
-        ],
-        "to_test": [
+            "stats.cts-bv.nl",
             "stats.darkbluesea.com",
             "stats.f-secure.com",
             "stats.foxcounter.com",
@@ -4649,7 +4647,6 @@
             "t.cpmadvisors.com",
             "t.medialytics.com",
             "t.mtagmonetizationa.com",
-            "t.mtagmonetizationc.com",
             "t.tellapart.com",
             "t.trrker.com",
             "t4.liverail.com",
@@ -4719,7 +4716,9 @@
             "techlifeconnected.com",
             "technicalconsumerreports.com",
             "techreview-images.adbureau.net",
-            "techreview.adbureau.net",
+            "techreview.adbureau.net"
+        ],
+        "to_test": [
             "tecnocuer.com",
             "tel.geenstijl.nl",
             "telecommand.telemetry.microsoft.com.nsatc.net",
