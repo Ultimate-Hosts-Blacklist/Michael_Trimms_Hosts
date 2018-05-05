@@ -5926,9 +5926,7 @@
             "www1.zapadserver1.com",
             "www10.ad.tomshardware.com",
             "www11.ad.tomshardware.com",
-            "www12.ad.tomshardware.com"
-        ],
-        "to_test": [
+            "www12.ad.tomshardware.com",
             "www13.ad.tomshardware.com",
             "www14.ad.tomshardware.com",
             "www15.ad.tomshardware.com",
@@ -6007,7 +6005,6 @@
             "xml.intelligenttrafficsystem.com",
             "xpcs.ads.yahoo.com",
             "xponlinescanner.com",
-            "xtds.info",
             "xxyyzz.youcanoptout.com",
             "y.admob.com",
             "y2k.hitbox.com",
@@ -6060,10 +6057,11 @@
             "zyban.1.p2l.info",
             "zyban.about-tabs.com",
             "zyprexa.about-tabs.com",
-            "zyrdu.cruisingsmallship.com",
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
-            "zyrtec.4.p2l.info",
+            "zyrtec.4.p2l.info"
+        ],
+        "to_test": [
             "006.freecounters.co.uk"
         ]
     }
