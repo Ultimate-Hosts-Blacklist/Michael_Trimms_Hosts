@@ -1081,9 +1081,7 @@
             "adserver.latimes.com",
             "adserver.linktrader.co.uk",
             "adserver.lostreality.com",
-            "adserver.m2kcore.com"
-        ],
-        "to_test": [
+            "adserver.m2kcore.com",
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
             "adserver.motonews.pl",
@@ -1159,6 +1157,7 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1211,7 +1210,9 @@
             "adverts.digitalspy.co.uk",
             "adverts.ecn.co.uk",
             "adverts.im4ges.com",
-            "adverts.novatv.bg",
+            "adverts.novatv.bg"
+        ],
+        "to_test": [
             "advicepl.adocean.pl",
             "advision.webevents.yahoo.com",
             "adware.kogaryu.com",
