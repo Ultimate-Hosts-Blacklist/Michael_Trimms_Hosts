@@ -507,9 +507,7 @@
             "ads.casino.com",
             "ads.cdfreaks.com",
             "ads.cdnow.com",
-            "ads.chalomumbai.com"
-        ],
-        "to_test": [
+            "ads.chalomumbai.com",
             "ads.checkm8.co.za",
             "ads.chipcenter.com",
             "ads.cimedia.com",
@@ -597,6 +595,7 @@
             "ads.hamptonroads.com",
             "ads.hardwaresecrets.com",
             "ads.hardwarezone.com",
+            "ads.healthline.com",
             "ads.herald-mail.com",
             "ads.heraldnet.com",
             "ads.heraldonline.com",
@@ -677,7 +676,9 @@
             "ads.moceanads.com",
             "ads.modbee.com",
             "ads.monster.com",
-            "ads.morningstar.com",
+            "ads.morningstar.com"
+        ],
+        "to_test": [
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
