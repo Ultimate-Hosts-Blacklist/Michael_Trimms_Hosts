@@ -676,9 +676,7 @@
             "ads.moceanads.com",
             "ads.modbee.com",
             "ads.monster.com",
-            "ads.morningstar.com"
-        ],
-        "to_test": [
+            "ads.morningstar.com",
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
@@ -838,7 +836,9 @@
             "ads.vs.co",
             "ads.vs.com",
             "ads.waframedia1.com",
-            "ads.wanadooregie.com",
+            "ads.wanadooregie.com"
+        ],
+        "to_test": [
             "ads.watershed-publishing.com",
             "ads.weather.com",
             "ads.weatherflow.com",
