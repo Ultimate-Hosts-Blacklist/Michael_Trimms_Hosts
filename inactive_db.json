@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/domains.list": {
-        "1525519982": [
+        "1525779234": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
@@ -37,6 +37,7 @@
             "2a86.v.fwmrm.net",
             "3.adbrite.com",
             "3.bluepointmortgage.com",
+            "3.cennter.com",
             "312.1d27c9b8fb.com",
             "3ad.doubleclick.net",
             "3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net",
@@ -122,7 +123,9 @@
             "ab.usageload32.com",
             "abcnews.footprint.net",
             "above.e-rezerwacje24.pl",
-            "abrogatesdv.info",
+            "abrogatesdv.info"
+        ],
+        "to_test": [
             "absurdity.flarelight.com",
             "ac.eu.enecto.com",
             "ac2.valuead.com",
@@ -6059,9 +6062,7 @@
             "zyprexa.about-tabs.com",
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
-            "zyrtec.4.p2l.info"
-        ],
-        "to_test": [
+            "zyrtec.4.p2l.info",
             "006.freecounters.co.uk"
         ]
     }
