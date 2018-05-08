@@ -488,9 +488,7 @@
             "ads.beenetworks.net",
             "ads.beta.itravel2000.com",
             "ads.bfast.com",
-            "ads.bfm.valueclick.net"
-        ],
-        "to_test": [
+            "ads.bfm.valueclick.net",
             "ads.bigcitytools.com",
             "ads.billiton.de",
             "ads.bitsonthewire.com",
@@ -564,6 +562,7 @@
             "ads.ezboard.com",
             "ads.fark.com",
             "ads.fayettevillenc.com",
+            "ads.fiat-bg.org",
             "ads.flabber.nl",
             "ads.fmwinc.com",
             "ads.football24.bg",
@@ -638,7 +637,9 @@
             "ads.kickasstorrents.video",
             "ads.kixer.com",
             "ads.kleinman.com",
-            "ads.kokteyl.com",
+            "ads.kokteyl.com"
+        ],
+        "to_test": [
             "ads.lavoix.com",
             "ads.leo.org",
             "ads.lilengine.com",
