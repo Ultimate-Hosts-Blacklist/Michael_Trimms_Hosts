@@ -792,9 +792,7 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.svatbata.org",
-            "ads.switchboard.com"
-        ],
-        "to_test": [
+            "ads.switchboard.com",
             "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
@@ -1012,7 +1010,6 @@
             "adservant.guj.de",
             "adserve.canadawidemagazines.com",
             "adserve.mizzenmedia.com",
-            "adserve.podaddies.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
             "adserver-live.yoc.mobi",
@@ -1026,7 +1023,9 @@
             "adserver.adserver.com.pl",
             "adserver.adsimsar.net",
             "adserver.adsincontext.com",
-            "adserver.affiliation.com",
+            "adserver.affiliation.com"
+        ],
+        "to_test": [
             "adserver.aim4media.com",
             "adserver.akqa.net",
             "adserver.allheadlinenews.com",
