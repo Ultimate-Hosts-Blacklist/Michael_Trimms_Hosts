@@ -4170,9 +4170,7 @@
             "red03.as-us.falkag.net",
             "red04.as-eu.falkag.net",
             "red04.as-us.falkag.net",
-            "redherring.ngadcenter.net"
-        ],
-        "to_test": [
+            "redherring.ngadcenter.net",
             "reedbusiness.com.invalid",
             "regio.adlink.de",
             "reklam-1.com",
@@ -4267,7 +4265,9 @@
             "s2.youtube.com",
             "s201.indexstats.com",
             "s32.bilsay.com",
-            "s4d.in",
+            "s4d.in"
+        ],
+        "to_test": [
             "sa.jumptap.com",
             "safari-critical-alert.com",
             "safedownloadnow.work",
