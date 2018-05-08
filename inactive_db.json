@@ -637,9 +637,7 @@
             "ads.kickasstorrents.video",
             "ads.kixer.com",
             "ads.kleinman.com",
-            "ads.kokteyl.com"
-        ],
-        "to_test": [
+            "ads.kokteyl.com",
             "ads.lavoix.com",
             "ads.leo.org",
             "ads.lilengine.com",
@@ -794,7 +792,9 @@
             "ads.stupid.com",
             "ads.sumotorrent.com",
             "ads.svatbata.org",
-            "ads.switchboard.com",
+            "ads.switchboard.com"
+        ],
+        "to_test": [
             "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
