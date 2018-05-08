@@ -2531,9 +2531,7 @@
             "geo-um.btrll.com",
             "geo.precisionclick.com",
             "geoads.osdn.com",
-            "geoiplookup.wikimedia.org"
-        ],
-        "to_test": [
+            "geoiplookup.wikimedia.org",
             "GEOpolice.com",
             "geoservice.webengage.com",
             "getacoollaptop.com",
@@ -2662,7 +2660,9 @@
             "homeelectronicproducts.com",
             "homehre.ifrance.com",
             "homesupplementsale.ru",
-            "hoodia.kogaryu.com",
+            "hoodia.kogaryu.com"
+        ],
+        "to_test": [
             "hostedaje14.thruport.com",
             "hot-product-hangout.com",
             "hotbar.dgndesign.com",
