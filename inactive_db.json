@@ -1023,9 +1023,7 @@
             "adserver.adserver.com.pl",
             "adserver.adsimsar.net",
             "adserver.adsincontext.com",
-            "adserver.affiliation.com"
-        ],
-        "to_test": [
+            "adserver.affiliation.com",
             "adserver.aim4media.com",
             "adserver.akqa.net",
             "adserver.allheadlinenews.com",
@@ -1109,7 +1107,6 @@
             "adserver.securityfocus.com",
             "adserver.singnet.com",
             "adserver.smashtv.com",
-            "adserver.softwareonline.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -1183,6 +1180,7 @@
             "adsy.lsipack.com",
             "adsyndication.yelldirect.com",
             "adsystem.adbull.com",
+            "adtag.asiaone.com",
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
@@ -1195,7 +1193,10 @@
             "adv.440net.com",
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
-            "adv.federalpost.ru",
+            "adv.casinopays.com",
+            "adv.federalpost.ru"
+        ],
+        "to_test": [
             "adv.lampsplus.com",
             "adv.magna.ru",
             "adv.merlin.co.il",
