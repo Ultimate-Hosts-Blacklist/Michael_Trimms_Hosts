@@ -3599,9 +3599,7 @@
             "oas.greensboro.com",
             "oas.guardian.co.uk",
             "oas.guardiannews.com",
-            "oas.heise.de"
-        ],
-        "to_test": [
+            "oas.heise.de",
             "oas.ibnlive.com",
             "oas.lee.net",
             "oas.nrjlink.fr",
@@ -3844,7 +3842,9 @@
             "ox-d.zenoviagroup.com",
             "ox.affiliation-int.com",
             "ox.forexbrokerz.com",
-            "oz.valueclick.com",
+            "oz.valueclick.com"
+        ],
+        "to_test": [
             "ozonemedia.adbureau.net",
             "p.admob.com",
             "p.iovation.com",
