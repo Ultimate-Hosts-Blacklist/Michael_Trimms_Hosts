@@ -3606,9 +3606,7 @@
             "oas.guardiannews.com",
             "oas.heise.de",
             "oas.ibnlive.com",
-            "oas.lee.net"
-        ],
-        "to_test": [
+            "oas.lee.net",
             "oas.nrjlink.fr",
             "oas.nzz.ch",
             "oas.portland.com",
@@ -3860,7 +3858,9 @@
             "p.twitter.com",
             "p1.adhitzads.com",
             "p1937.ic-live.com",
-            "p3p.alibaba.com",
+            "p3p.alibaba.com"
+        ],
+        "to_test": [
             "pa.5.p2l.info",
             "pacific-poker.e-online-poker-4u.net",
             "pacman.gkgar.com",
