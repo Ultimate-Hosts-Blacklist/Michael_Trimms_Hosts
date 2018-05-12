@@ -3220,9 +3220,7 @@
             "mac-os.apple.com-secured.online",
             "mac-protection.info",
             "macaddictads.snv.futurenet.com",
-            "machine.fairfaxbm.co.nz"
-        ],
-        "to_test": [
+            "machine.fairfaxbm.co.nz",
             "mail.youcanoptout.com",
             "mail.youcanoptout.net",
             "mail.youcanoptout.org",
@@ -3445,11 +3443,12 @@
             "mobileanalytics.us-east-2.amazonaws.com",
             "mobileanalytics.us-west-1.amazonaws.com",
             "mobileanalytics.us-west-2.amazonaws.com",
-            "mobscan.info",
             "moc.silk.com",
             "molla.gato1000.cl",
             "monk.sitescoutadserver.com",
-            "monstersandcritics.advertserve.com",
+            "monstersandcritics.advertserve.com"
+        ],
+        "to_test": [
             "motorl.oewabox.at",
             "moucitons.com",
             "movies.701pages.com",
