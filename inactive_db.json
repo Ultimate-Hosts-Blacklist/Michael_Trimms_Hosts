@@ -1053,9 +1053,7 @@
             "adserver.dotcommedia.de",
             "adserver.eham.net",
             "adserver.emapadserver.com",
-            "adserver.emporis.com"
-        ],
-        "to_test": [
+            "adserver.emporis.com",
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
@@ -1074,6 +1072,7 @@
             "adserver.hipertextual.com",
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
+            "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
@@ -1103,6 +1102,7 @@
             "adserver.pollstar.com",
             "adserver.prodigy.net",
             "adserver.ratestar.net",
+            "adserver.realhomesex.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -1204,7 +1204,9 @@
             "adv.netmedia.bg",
             "adv.netshelter.net",
             "adv.surinter.net",
-            "adv.svd.se",
+            "adv.svd.se"
+        ],
+        "to_test": [
             "adv0005.247realmedia.com",
             "adv0035.247realmedia.com",
             "adv758968.ru",
