@@ -813,9 +813,7 @@
             "ads.top500.org",
             "ads.treehugger.com",
             "ads.tricityherald.com",
-            "ads.trinitymirror.co.uk"
-        ],
-        "to_test": [
+            "ads.trinitymirror.co.uk",
             "ads.tritonmedia.com",
             "ads.trutv.com",
             "ads.tucows.com",
@@ -924,6 +922,7 @@
             "ads2.advance.net",
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
+            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -1054,7 +1053,9 @@
             "adserver.dotcommedia.de",
             "adserver.eham.net",
             "adserver.emapadserver.com",
-            "adserver.emporis.com",
+            "adserver.emporis.com"
+        ],
+        "to_test": [
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
