@@ -4504,13 +4504,11 @@
             "srv2.wa.marketingsolutions.yahoo.com",
             "srv3.wa.marketingsolutions.yahoo.com",
             "ss.tiscali.com",
-            "ssads.osdn.com"
-        ],
-        "to_test": [
+            "ssads.osdn.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
-            "ssl-nl.persgroep.edgekey.netO",
             "ssl-nl.persgroep.edgekey.neto",
+            "ssl-nl.persgroep.edgekey.netO",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4635,7 +4633,9 @@
             "survey1-au.imrworldwide.com",
             "sverd.net",
             "sview.avenuea.com",
-            "svision-online.de",
+            "svision-online.de"
+        ],
+        "to_test": [
             "swappit.tapad.com",
             "sweet55ium55.com",
             "switch.hitbox.com",
