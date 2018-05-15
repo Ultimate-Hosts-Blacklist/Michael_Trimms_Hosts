@@ -4561,9 +4561,7 @@
             "static.carbonads.com",
             "static.cdn.gtsmobi.com",
             "static.crowdscience.com",
-            "static.firehunt.com"
-        ],
-        "to_test": [
+            "static.firehunt.com",
             "static.hitfarm.com",
             "static.ku6.com",
             "static.l3.cdn.adsucks.com",
@@ -4692,7 +4690,9 @@
             "tamiflu-purchase.asian-flu-vaccine.com",
             "tamiflu-without-prescription.asian-flu-vaccine.com",
             "taobaoafp.allyes.cn",
-            "taobaoafp.allyes.com",
+            "taobaoafp.allyes.com"
+        ],
+        "to_test": [
             "tas.orangeads.fr",
             "tattooshaha.info",
             "taxi-petr.by",
