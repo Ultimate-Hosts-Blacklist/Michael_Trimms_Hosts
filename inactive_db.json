@@ -1078,9 +1078,7 @@
             "adserver.hk.outblaze.com",
             "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
-            "adserver.ign.com"
-        ],
-        "to_test": [
+            "adserver.ign.com",
             "adserver.ilounge.com",
             "adserver.infinit.net",
             "adserver.ixm.co.uk",
@@ -1108,7 +1106,6 @@
             "adserver.pollstar.com",
             "adserver.prodigy.net",
             "adserver.ratestar.net",
-            "adserver.realhomesex.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -1218,7 +1215,9 @@
             "advert.istanbul.net",
             "advert.uzmantv.com",
             "advertising.guildlaunch.net",
-            "advertising.ninemsn.com.au",
+            "advertising.ninemsn.com.au"
+        ],
+        "to_test": [
             "advertising.zenit.org",
             "adverts.digitalspy.co.uk",
             "adverts.ecn.co.uk",
