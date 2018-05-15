@@ -828,9 +828,7 @@
             "ads.uigc.net",
             "ads.ultimatesurrender.com",
             "ads.unixathome.org",
-            "ads.update.com"
-        ],
-        "to_test": [
+            "ads.update.com",
             "ads.us.e-planning.ne",
             "ads.userfriendly.org",
             "ads.verkata.com",
@@ -1080,7 +1078,9 @@
             "adserver.hk.outblaze.com",
             "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
-            "adserver.ign.com",
+            "adserver.ign.com"
+        ],
+        "to_test": [
             "adserver.ilounge.com",
             "adserver.infinit.net",
             "adserver.ixm.co.uk",
