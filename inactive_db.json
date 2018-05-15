@@ -501,9 +501,7 @@
             "ads.box.sk",
             "ads.brain.pk",
             "ads.britishexpats.com",
-            "ads.burstnet.com"
-        ],
-        "to_test": [
+            "ads.burstnet.com",
             "ads.buzzcity.net",
             "ads.buzzlamp.com",
             "ads.calgarysun.com",
@@ -543,6 +541,7 @@
             "ads.ddj.com",
             "ads.dealnews.com",
             "ads.dedicatedmedia.com",
+            "ads.delfin.bg",
             "ads.deliads.com",
             "ads.designboom.com",
             "ads.developershed.com",
@@ -569,7 +568,6 @@
             "ads.fayettevillenc.com",
             "ads.flabber.nl",
             "ads.fmwinc.com",
-            "ads.fool.com",
             "ads.football24.bg",
             "ads.foxkidseurope.net",
             "ads.fresnobee.com",
@@ -674,7 +672,9 @@
             "ads.minireklam.com",
             "ads.mircx.com",
             "ads.mixi.jp",
-            "ads.mm.ap.org",
+            "ads.mm.ap.org"
+        ],
+        "to_test": [
             "ads.mmediatags.com",
             "ads.mndaily.com",
             "ads.mobgold.com",
