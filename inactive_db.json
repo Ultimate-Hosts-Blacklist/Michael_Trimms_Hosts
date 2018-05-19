@@ -193,9 +193,7 @@
             "ads.bitsonthewire.com",
             "ads.blitz.bg",
             "ads.blp.calueclick.net",
-            "ads.blp.valueclick.net"
-        ],
-        "to_test": [
+            "ads.blp.valueclick.net",
             "ads.bootcampmedia.com",
             "ads.box.sk",
             "ads.brain.pk",
@@ -355,7 +353,9 @@
             "ads.macnews.de",
             "ads.macupdate.com",
             "ads.madison.com",
-            "ads.madisonavenue.com",
+            "ads.madisonavenue.com"
+        ],
+        "to_test": [
             "ads.mail.com",
             "ads.mail3x.com",
             "ads.maksimum.net",
