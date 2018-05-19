@@ -1201,9 +1201,7 @@
             "banners.looksmart.com",
             "banners.mymedia.bg",
             "banners.netcraft.com",
-            "banners.newsru.com"
-        ],
-        "to_test": [
+            "banners.newsru.com",
             "banners.primaryclick.com",
             "banners.romania-insider.com",
             "banners.rspworldwide.com",
@@ -1363,6 +1361,7 @@
             "buy-hydrocodone.petrovka.info",
             "buy-hydrocodone.polybuild.ru",
             "buy-hydrocodone.quesaudade.net",
+            "buy-hydrocodone.scromble.com",
             "buy-levitra-cheap-levitra-online.info",
             "buy-lortab-cheap-lortab-online.com",
             "buy-phentermine-cheap-phentermine-online.com",
@@ -1400,7 +1399,9 @@
             "c.adroll.com",
             "c.am10.ru",
             "c.as-us.falkag.net",
-            "c.baidu.com",
+            "c.baidu.com"
+        ],
+        "to_test": [
             "c.blogads.com",
             "c.compete.com",
             "c.enhance.com",
