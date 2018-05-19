@@ -754,9 +754,7 @@
             "adserver.dotcommedia.de",
             "adserver.eham.net",
             "adserver.emapadserver.com",
-            "adserver.emporis.com"
-        ],
-        "to_test": [
+            "adserver.emporis.com",
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
@@ -863,7 +861,6 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -880,7 +877,6 @@
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
-            "adstreams.org",
             "adsweb.tiscali.cz",
             "adsy.lsipack.com",
             "adsyndication.yelldirect.com",
@@ -910,7 +906,9 @@
             "adv0005.247realmedia.com",
             "adv0035.247realmedia.com",
             "adv758968.ru",
-            "adveraction.pl",
+            "adveraction.pl"
+        ],
+        "to_test": [
             "advert.istanbul.net",
             "advert.uzmantv.com",
             "advertising.guildlaunch.net",
