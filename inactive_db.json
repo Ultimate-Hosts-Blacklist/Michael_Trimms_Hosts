@@ -3972,9 +3972,7 @@
             "s.baidu.com",
             "s.boom.ro",
             "s.clicktale.net",
-            "s.clx.ru"
-        ],
-        "to_test": [
+            "s.clx.ru",
             "s.fl-ads.com",
             "s.krebsonsecurity.com",
             "s.megaclick.com",
@@ -3989,8 +3987,10 @@
             "s1.delfilt.adocean.pl",
             "s1.thecounter.com",
             "s2.buysellads.com",
+            "s2.trafficmaxx.de",
             "s2.youtube.com",
             "s201.indexstats.com",
+            "s3.trafficmaxx.de",
             "s32.bilsay.com",
             "s4d.in",
             "sa.jumptap.com",
@@ -4084,7 +4084,9 @@
             "servads.aip.org",
             "serve.adplxmd.com",
             "serve.mediayan.com",
-            "servedby.bigfineads.com",
+            "servedby.bigfineads.com"
+        ],
+        "to_test": [
             "servedby.dm3adserver.com",
             "servedby.integraclick.com",
             "servedby.netshelter.net",
