@@ -617,9 +617,7 @@
             "ads.ihaberadserver.com",
             "ads.imdb.com",
             "ads.imposibil.ro",
-            "ads.incmd10.com"
-        ],
-        "to_test": [
+            "ads.incmd10.com",
             "ads.indya.com",
             "ads.inedomedia.com",
             "ads.inetdirectories.com",
@@ -726,6 +724,7 @@
             "ads.pdxguide.com",
             "ads.peninsulaclarion.com",
             "ads.pennyweb.com",
+            "ads.people.com.cn",
             "ads.pg.valueclick.net",
             "ads.pheedo.com",
             "ads.phillyburbs.com",
@@ -779,7 +778,9 @@
             "ads.sift.co.uk",
             "ads.sify.com",
             "ads.simtel.com",
-            "ads.simtel.net",
+            "ads.simtel.net"
+        ],
+        "to_test": [
             "ads.sixapart.com",
             "ads.sl.interpals.net",
             "ads.smartclicks.net",
