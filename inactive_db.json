@@ -292,9 +292,7 @@
             "adcodes.aim4media.com",
             "adcontent.videoegg.com",
             "adcontrol.tudou.com",
-            "adcontroller.unicast.com"
-        ],
-        "to_test": [
+            "adcontroller.unicast.com",
             "adcount.ohmynews.com",
             "adcounter.globeandmail.com",
             "adcreative.tribuneinteractive.com",
@@ -481,7 +479,9 @@
             "ads.atomex.net",
             "ads.augusta.com",
             "ads.aversion2.com",
-            "ads.aws.sitepoint.com",
+            "ads.aws.sitepoint.com"
+        ],
+        "to_test": [
             "ads.banner.t-online.de",
             "ads.barnonedrinks.com",
             "ads.batpmturner.com",
