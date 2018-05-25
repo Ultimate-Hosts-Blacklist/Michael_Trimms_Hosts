@@ -942,9 +942,7 @@
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
-            "ads2.firingsquad.com"
-        ],
-        "to_test": [
+            "ads2.firingsquad.com",
             "ads2.ihaberadserver.com",
             "ads2.iweb.cortica.com",
             "ads2.ljworld.com",
@@ -1009,6 +1007,7 @@
             "adserv.aip.org",
             "adserv.bulletinmarketing.com",
             "adserv.entriq.net",
+            "adserv.evo-x.de",
             "adserv.free6.com",
             "adserv.geocomm.com",
             "adserv.internetfuel.com",
@@ -1114,12 +1113,12 @@
             "adserver.newtimes.com",
             "adserver.ngz-network.de",
             "adserver.nzoom.com",
+            "adserver.omroepflevoland.nl",
             "adserver.omroepzeeland.nl",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
             "adserver.prodigy.net",
-            "adserver.ratestar.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -1172,7 +1171,9 @@
             "adservingcentral.com",
             "adserwer.intercon.pl",
             "adserwer.o2.pl",
-            "adsformula.sitescout.com",
+            "adsformula.sitescout.com"
+        ],
+        "to_test": [
             "adshufffle.com",
             "adsintl.starwave.com",
             "adsm.soush.com",
