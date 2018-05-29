@@ -4491,9 +4491,7 @@
             "site.puritan.com",
             "sitefinder-idn.verisign.com",
             "sitefinder.verisign.com",
-            "sitemerkezi.net"
-        ],
-        "to_test": [
+            "sitemerkezi.net",
             "sitestat3.sport1.de",
             "sixapart.adbureau.net",
             "sjguild.com",
@@ -4521,8 +4519,8 @@
             "smm.sitescout.com",
             "sn.baventures.com",
             "snowplow-collector.sugarops.com",
-            "so.2mdn.net",
             "sO.2mdn.net",
+            "so.2mdn.net",
             "sobartop.baidu.com",
             "social.bidsystem.com",
             "soclone.com",
@@ -4554,7 +4552,9 @@
             "sponsors.behance.com",
             "sponsors.ezgreen.com",
             "sport-betting-online.hitslog.net",
-            "sport.count.brat-online.ro",
+            "sport.count.brat-online.ro"
+        ],
+        "to_test": [
             "sports-bonuspath.com",
             "sports-fitness-rewardpath.com",
             "sports-offer.com",
