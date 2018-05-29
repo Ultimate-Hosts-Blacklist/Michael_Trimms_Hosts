@@ -490,9 +490,7 @@
             "ads.baventures.com",
             "ads.beeb.com",
             "ads.beenetworks.net",
-            "ads.beta.itravel2000.com"
-        ],
-        "to_test": [
+            "ads.beta.itravel2000.com",
             "ads.bfast.com",
             "ads.bfm.valueclick.net",
             "ads.bigcitytools.com",
@@ -560,6 +558,7 @@
             "ads.drivelinemedia.com",
             "ads.dumpalink.com",
             "ads.ecosalon.com",
+            "ads.edipresse.pl",
             "ads.edirectme.com",
             "ads.einmedia.com",
             "ads.emeraldcoast.com",
@@ -574,6 +573,7 @@
             "ads.fmwinc.com",
             "ads.football24.bg",
             "ads.foxkidseurope.net",
+            "ads.fresh.bg",
             "ads.fresnobee.com",
             "ads.futurenet.com",
             "ads.fuzzster.com",
@@ -627,7 +627,9 @@
             "ads.inedomedia.com",
             "ads.inetdirectories.com",
             "ads.infospace.com",
-            "ads.insidehighered.com",
+            "ads.insidehighered.com"
+        ],
+        "to_test": [
             "ads.intellicast.com",
             "ads.ireport.com",
             "ads.isat-tech.com",
