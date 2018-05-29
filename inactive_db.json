@@ -627,9 +627,7 @@
             "ads.inedomedia.com",
             "ads.inetdirectories.com",
             "ads.infospace.com",
-            "ads.insidehighered.com"
-        ],
-        "to_test": [
+            "ads.insidehighered.com",
             "ads.intellicast.com",
             "ads.ireport.com",
             "ads.isat-tech.com",
@@ -644,12 +642,12 @@
             "ads.juneauempire.com",
             "ads.jwtt3.com",
             "ads.kazaa.com",
-            "ads.kickasstorrents.video",
             "ads.kixer.com",
             "ads.kleinman.com",
             "ads.kokteyl.com",
             "ads.lavoix.com",
             "ads.leo.org",
+            "ads.lesbianpersonals.com",
             "ads.lilengine.com",
             "ads.linuxjournal.com",
             "ads.list-universe.com",
@@ -673,6 +671,7 @@
             "ads.meredithads.com",
             "ads.meropar.jp",
             "ads.mezimedia.com",
+            "ads.millionairemate.com",
             "ads.mindsetnetwork.com",
             "ads.miniclip.com",
             "ads.mininova.org",
@@ -777,7 +776,9 @@
             "ads.savannahnow.com",
             "ads.savvyads.com",
             "ads.saymedia.com",
-            "ads.schwabtrader.com",
+            "ads.schwabtrader.com"
+        ],
+        "to_test": [
             "ads.sextvx.com",
             "ads.shoppingads.com",
             "ads.shoutfile.com",
