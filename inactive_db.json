@@ -820,9 +820,7 @@
             "ads.tnt.tv",
             "ads.top-banners.com",
             "ads.top500.org",
-            "ads.treehugger.com"
-        ],
-        "to_test": [
+            "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
             "ads.tripican.com",
@@ -1067,7 +1065,9 @@
             "adserver.eham.net",
             "adserver.emapadserver.com",
             "adserver.emporis.com",
-            "adserver.eva2000.com",
+            "adserver.eva2000.com"
+        ],
+        "to_test": [
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
             "adserver.finditquick.com",
