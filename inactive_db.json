@@ -171,9 +171,7 @@
             "ad.designtaxi.com",
             "ad.dic.nicovideo.jp",
             "ad.directmirror.com",
-            "ad.directrev.com"
-        ],
-        "to_test": [
+            "ad.directrev.com",
             "ad.download.net",
             "ad.espn.starwave.com",
             "ad.favod.net",
@@ -246,6 +244,7 @@
             "ad.vurts.com",
             "ad.watch.impress.co.jp",
             "ad.webprovider.com",
+            "ad.where.com",
             "ad.wiredvision.jp",
             "ad.yabuka.com",
             "ad.zaman.com",
@@ -275,7 +274,9 @@
             "ad2.sbisec.co.jp",
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
-            "ad2.ycasmd.info",
+            "ad2.ycasmd.info"
+        ],
+        "to_test": [
             "ad234.prbn.ru",
             "ad3.l3go.com",
             "ad3.lbn.ru",
