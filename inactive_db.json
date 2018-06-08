@@ -3657,9 +3657,7 @@
             "oas.publicitas.ch",
             "oas.sciencemag.org",
             "oas.signonsandiego.com",
-            "oas.startribune.com"
-        ],
-        "to_test": [
+            "oas.startribune.com",
             "oas.theguardian.com",
             "oasads.whitepages.com",
             "oasc02.247realmedia.com",
@@ -3891,6 +3889,7 @@
             "ox-d.motogp.com",
             "ox-d.nydailynews.servedbyopenx.com",
             "ox-d.philly.servedbyopenx.com",
+            "ox-d.publisherdesk.servedbyopenx.com",
             "ox-d.ranker.servedbyopenx.com",
             "ox-d.realtor.servedbyopenx.com",
             "ox-d.wahwahnetworks.com",
@@ -3899,7 +3898,9 @@
             "ox.affiliation-int.com",
             "ox.forexbrokerz.com",
             "oz.valueclick.com",
-            "ozonemedia.adbureau.net",
+            "ozonemedia.adbureau.net"
+        ],
+        "to_test": [
             "p.adframesrc.com",
             "p.admob.com",
             "p.iovation.com",
