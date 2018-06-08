@@ -825,9 +825,7 @@
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
-            "ads.tripican.com"
-        ],
-        "to_test": [
+            "ads.tripican.com",
             "ads.tritonmedia.com",
             "ads.trutv.com",
             "ads.tucows.com",
@@ -1056,7 +1054,9 @@
             "adserver.bluereactor.net",
             "adserver.bluewin.ch",
             "adserver.buttonware.com",
-            "adserver.buttonware.net",
+            "adserver.buttonware.net"
+        ],
+        "to_test": [
             "adserver.cheatplanet.com",
             "adserver.clubic.com",
             "adserver.colleges.com",
