@@ -1,11 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/domains.list": {
-        "1528458488": [
+        "1528717811": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
             "1.adbrite.com",
             "1.forgetstore.com",
+            "1.googlenews.xorg.pl",
             "1.httpads.com",
             "100.mbn.com.ua",
             "1000ps.oewabox.at",
@@ -24,6 +25,7 @@
             "1und1.ivwbox.de",
             "2-art-coliseum.com",
             "2.adbrite.com",
+            "2.googlenews.xorg.pl",
             "2.marketbanker.com",
             "20-yrs-1.info",
             "2001-007.com",
@@ -38,6 +40,7 @@
             "2a86.v.fwmrm.net",
             "3.adbrite.com",
             "3.bluepointmortgage.com",
+            "3.googlenews.xorg.pl",
             "312.1d27c9b8fb.com",
             "3ad.doubleclick.net",
             "3bc3fd26-91cf-46b2-8ec6-b1559ada0079.statcamp.net",
@@ -45,11 +48,13 @@
             "3ps.go.com",
             "4-counter.com",
             "4.adbrite.com",
+            "4.googlenews.xorg.pl",
             "4.newenergydata.biz",
             "4.newenergydata.info",
             "4.periziavela.com",
             "4.pianetapollo.com",
             "48.2mydns.net",
+            "5.googlenews.xorg.pl",
             "50efa6486f1ef.skydivesolutions.be",
             "55.2myip.com",
             "59nmk4u.tech",
@@ -89,7 +94,9 @@
             "a.rad.live.com",
             "a.rad.msn.com",
             "a.ss34.on9mail.com",
-            "a.submityourflicks.com",
+            "a.submityourflicks.com"
+        ],
+        "to_test": [
             "a.tfag.de",
             "a.total-media.net",
             "a.triggit.com",
@@ -6145,9 +6152,7 @@
             "zyprexa.about-tabs.com",
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
-            "zyrtec.4.p2l.info"
-        ],
-        "to_test": [
+            "zyrtec.4.p2l.info",
             "006.freecounters.co.uk"
         ]
     }
