@@ -949,9 +949,7 @@
             "ads2.mediaarmor.com",
             "ads2.mediashakers.com",
             "ads2.mojiva.com",
-            "ads2.newtimes.com"
-        ],
-        "to_test": [
+            "ads2.newtimes.com",
             "ads2.osdn.com",
             "ads2.radiocompanion.com",
             "ads2.revenue.net",
@@ -1080,7 +1078,6 @@
             "adserver.fmpub.net",
             "adserver.fr.adtech.de",
             "adserver.freenet.de",
-            "adserver.gallerytrafficservice.com",
             "adserver.gamesquad.net",
             "adserver.garden.com",
             "adserver.gecce.com",
@@ -1169,7 +1166,9 @@
             "adservices.google.com",
             "adservices.picadmedia.com",
             "adservices02.picadmedia.com",
-            "adserving.cpxinteractive.com",
+            "adserving.cpxinteractive.com"
+        ],
+        "to_test": [
             "adservingcentral.com",
             "adserwer.intercon.pl",
             "adserwer.o2.pl",
