@@ -1166,9 +1166,7 @@
             "adservices.google.com",
             "adservices.picadmedia.com",
             "adservices02.picadmedia.com",
-            "adserving.cpxinteractive.com"
-        ],
-        "to_test": [
+            "adserving.cpxinteractive.com",
             "adservingcentral.com",
             "adserwer.intercon.pl",
             "adserwer.o2.pl",
@@ -1179,6 +1177,7 @@
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1259,7 +1258,9 @@
             "affiliate.hbytracker.com",
             "affiliate.kitapyurdu.com",
             "affiliates.devilfishpartners.com",
-            "affiliates.ige.com",
+            "affiliates.ige.com"
+        ],
+        "to_test": [
             "afp.qiyi.com",
             "ag1.hitbox.com",
             "aguileranude.1stOK.com",
