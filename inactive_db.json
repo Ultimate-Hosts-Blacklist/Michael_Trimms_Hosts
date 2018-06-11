@@ -438,9 +438,7 @@
             "ads-rouge.haber7.com",
             "ads-verify.com",
             "ads-web.mail.com",
-            "ads.3bay.bg"
-        ],
-        "to_test": [
+            "ads.3bay.bg",
             "ads.7days.ae",
             "ads.9mp.ro",
             "ads.abs-cbn.com",
@@ -576,7 +574,6 @@
             "ads.ezboard.com",
             "ads.fark.com",
             "ads.fayettevillenc.com",
-            "ads.fiat-bg.org",
             "ads.flabber.nl",
             "ads.fmwinc.com",
             "ads.football24.bg",
@@ -585,7 +582,9 @@
             "ads.fresnobee.com",
             "ads.futurenet.com",
             "ads.fuzzster.com",
-            "ads.g-media.com",
+            "ads.g-media.com"
+        ],
+        "to_test": [
             "ads.gamblinghit.com",
             "ads.gameforgeads.de",
             "ads.gameinformer.com",
