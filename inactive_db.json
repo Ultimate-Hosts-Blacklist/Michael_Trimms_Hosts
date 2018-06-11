@@ -582,9 +582,7 @@
             "ads.fresnobee.com",
             "ads.futurenet.com",
             "ads.fuzzster.com",
-            "ads.g-media.com"
-        ],
-        "to_test": [
+            "ads.g-media.com",
             "ads.gamblinghit.com",
             "ads.gameforgeads.de",
             "ads.gameinformer.com",
@@ -747,7 +745,9 @@
             "ads.planet-f1.com",
             "ads.planet49.com",
             "ads.plantyours.com",
-            "ads.pno.net",
+            "ads.pno.net"
+        ],
+        "to_test": [
             "ads.popfolkstars.com",
             "ads.popularno.mk",
             "ads.portlandmercury.com",
