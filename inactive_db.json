@@ -1924,9 +1924,7 @@
             "s.xbox.com",
             "s1.buysellads.com",
             "s1.delfilt.adocean.pl",
-            "s1.thecounter.com"
-        ],
-        "to_test": [
+            "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.trafficmaxx.de",
             "s2.youtube.com",
@@ -2054,7 +2052,9 @@
             "server8.opentracker.net",
             "server821.com",
             "server9.opentracker.net",
-            "service.adtech.de",
+            "service.adtech.de"
+        ],
+        "to_test": [
             "service001.adtech.de",
             "service002.adtech.de",
             "service003.adtech.de",
