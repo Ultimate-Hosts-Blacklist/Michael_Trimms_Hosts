@@ -1244,9 +1244,7 @@
             "oas.guardiannews.com",
             "oas.heise.de",
             "oas.ibnlive.com",
-            "oas.lee.net"
-        ],
-        "to_test": [
+            "oas.lee.net",
             "oas.nrjlink.fr",
             "oas.nzz.ch",
             "oas.portland.com",
@@ -1470,6 +1468,7 @@
             "outlets-online.pl",
             "ox-d.blogtalkradio.com",
             "ox-d.boston.servedbyopenx.com",
+            "ox-d.buddytv.com",
             "ox-d.curse.servedbyopenx.com",
             "ox-d.eluniversal.com",
             "ox-d.footballmedia.com",
@@ -1484,6 +1483,7 @@
             "ox-d.mirror-digital.com",
             "ox-d.motogp.com",
             "ox-d.nydailynews.servedbyopenx.com",
+            "ox-d.officer.com",
             "ox-d.philly.servedbyopenx.com",
             "ox-d.publisherdesk.servedbyopenx.com",
             "ox-d.ranker.servedbyopenx.com",
@@ -1492,7 +1492,9 @@
             "ox-d.washingtonpost.servedbyopenx.com",
             "ox-d.zenoviagroup.com",
             "ox.affiliation-int.com",
-            "ox.forexbrokerz.com",
+            "ox.forexbrokerz.com"
+        ],
+        "to_test": [
             "oz.valueclick.com",
             "ozonemedia.adbureau.net",
             "p.adframesrc.com",
