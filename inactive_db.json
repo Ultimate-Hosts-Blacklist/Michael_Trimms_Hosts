@@ -1095,9 +1095,7 @@
             "msalt.mysearch.com",
             "msn.allyes.com",
             "msn.oewabox.at",
-            "msn.uvwbox.de"
-        ],
-        "to_test": [
+            "msn.uvwbox.de",
             "msnsearch.srv.girafa.com",
             "mt.5.p2l.info",
             "mtldesigns.ca",
@@ -1246,7 +1244,9 @@
             "oas.guardiannews.com",
             "oas.heise.de",
             "oas.ibnlive.com",
-            "oas.lee.net",
+            "oas.lee.net"
+        ],
+        "to_test": [
             "oas.nrjlink.fr",
             "oas.nzz.ch",
             "oas.portland.com",
