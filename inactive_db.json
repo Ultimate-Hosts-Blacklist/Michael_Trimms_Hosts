@@ -2052,9 +2052,7 @@
             "server8.opentracker.net",
             "server821.com",
             "server9.opentracker.net",
-            "service.adtech.de"
-        ],
-        "to_test": [
+            "service.adtech.de",
             "service001.adtech.de",
             "service002.adtech.de",
             "service003.adtech.de",
@@ -2114,7 +2112,9 @@
             "smedizin.oewabox.at",
             "smile.modchipstore.com",
             "smilll.depozit.hr",
-            "smm.sitescout.com",
+            "smm.sitescout.com"
+        ],
+        "to_test": [
             "sn.baventures.com",
             "snowplow-collector.sugarops.com",
             "so.2mdn.net",
