@@ -745,9 +745,7 @@
             "ads.popfolkstars.com",
             "ads.popularno.mk",
             "ads.portlandmercury.com",
-            "ads.postimees.ee"
-        ],
-        "to_test": [
+            "ads.postimees.ee",
             "ads.premiership.bg",
             "ads.premiumnetwork.com",
             "ads.primaryclick.com",
@@ -896,6 +894,7 @@
             "ads1.advance.net",
             "ads1.advertwizard.com",
             "ads1.blogadvertising.me",
+            "ads1.cricbuzz.com",
             "ads1.destructoid.com",
             "ads1.globeandmail.com",
             "ads1.itadnetwork.co.uk",
@@ -939,7 +938,9 @@
             "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
-            "ads2.emeraldcoast.com",
+            "ads2.emeraldcoast.com"
+        ],
+        "to_test": [
             "ads2.firingsquad.com",
             "ads2.ihaberadserver.com",
             "ads2.iweb.cortica.com",
