@@ -288,9 +288,7 @@
             "ad5.liverail.com",
             "ad6.horvitznewspapers.net",
             "ad6.liverail.com",
-            "adbnr.ru"
-        ],
-        "to_test": [
+            "adbnr.ru",
             "adcenter.in2.com",
             "adclient.rottentomatoes.com",
             "adcodes.aim4media.com",
@@ -436,7 +434,6 @@
             "ads-rouge.haber7.com",
             "ads-verify.com",
             "ads-web.mail.com",
-            "ads.3bay.bg",
             "ads.7days.ae",
             "ads.9mp.ro",
             "ads.abs-cbn.com",
@@ -458,7 +455,9 @@
             "ads.adplxmd.com",
             "ads.adroar.com",
             "ads.adsag.com",
-            "ads.adsrvr.org",
+            "ads.adsrvr.org"
+        ],
+        "to_test": [
             "ads.adultswim.com",
             "ads.advolume.com",
             "ads.adwitserver.com",
