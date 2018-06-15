@@ -455,9 +455,7 @@
             "ads.adplxmd.com",
             "ads.adroar.com",
             "ads.adsag.com",
-            "ads.adsrvr.org"
-        ],
-        "to_test": [
+            "ads.adsrvr.org",
             "ads.adultswim.com",
             "ads.advolume.com",
             "ads.adwitserver.com",
@@ -595,7 +593,9 @@
             "ads.gmg.valueclick.net",
             "ads.god.co.uk",
             "ads.godlikeproductions.com",
-            "ads.gomonews.com",
+            "ads.gomonews.com"
+        ],
+        "to_test": [
             "ads.granadamedia.com",
             "ads.greenerworldmedia.com",
             "ads.groundspeak.com",
