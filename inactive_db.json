@@ -1151,9 +1151,7 @@
             "adserver1.isohunt.com",
             "adserver1.mediainsight.de",
             "adserver1.mokono.com",
-            "adserver1.teracent.net"
-        ],
-        "to_test": [
+            "adserver1.teracent.net",
             "adserver2.adserver.com.pl",
             "adserver2.christianitytoday.com",
             "adserver2.condenast.co.uk",
@@ -1210,7 +1208,6 @@
             "adv.440net.com",
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
-            "adv.casinopays.com",
             "adv.federalpost.ru",
             "adv.lampsplus.com",
             "adv.magna.ru",
@@ -1256,7 +1253,9 @@
             "affiliate.cfdebt.com",
             "affiliate.hbytracker.com",
             "affiliate.kitapyurdu.com",
-            "affiliates.devilfishpartners.com",
+            "affiliates.devilfishpartners.com"
+        ],
+        "to_test": [
             "affiliates.ige.com",
             "afp.qiyi.com",
             "ag1.hitbox.com",
