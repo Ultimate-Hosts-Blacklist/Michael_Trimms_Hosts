@@ -1026,9 +1026,7 @@
             "adserve.canadawidemagazines.com",
             "adserve.mizzenmedia.com",
             "adserve.splicetoday.com",
-            "adserveonline.biz"
-        ],
-        "to_test": [
+            "adserveonline.biz",
             "adserver-live.yoc.mobi",
             "adserver-static1.iweb.cortica.com",
             "adserver.163.com",
@@ -1087,7 +1085,6 @@
             "adserver.hipertextual.com",
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
-            "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
@@ -1201,7 +1198,9 @@
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
-            "adtology3.com",
+            "adtology3.com"
+        ],
+        "to_test": [
             "adtracker.inmobi.com",
             "adtracker.meinungsstudie.de",
             "adtrading.de",
