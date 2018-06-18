@@ -2909,9 +2909,7 @@
             "jupiter1.appads.com",
             "jupiter2.appads.com",
             "jupiter3.appads.com",
-            "k.admob.com"
-        ],
-        "to_test": [
+            "k.admob.com",
             "k5ads.osdn.com",
             "kansas.valueclick.com",
             "katu.adbureau.net",
@@ -3107,7 +3105,9 @@
             "m3.cn.2mdn.net",
             "m3.de.2mdn.net",
             "m3.dk.2mdn.net",
-            "m3.doubleclick.net",
+            "m3.doubleclick.net"
+        ],
+        "to_test": [
             "m3.es.2mdn.net",
             "m3.fi.2mdn.net",
             "m3.fr.2mdn.net",
