@@ -3455,9 +3455,7 @@
             "metrics.skype.com",
             "metrics.sportsauthority.com",
             "metrics.technologyreview.com",
-            "metrics.thefrisky.com"
-        ],
-        "to_test": [
+            "metrics.thefrisky.com",
             "metrics2.pricegrabber.com",
             "metropol.oewabox.at",
             "mi.5.p2l.info",
@@ -3547,6 +3545,7 @@
             "myvideo.count.brat-online.ro",
             "myvksaver.ru",
             "n.admob.com",
+            "n.targetbtracker.com",
             "n3302ad.doubleclick.net",
             "n3349ad.doubleclick.net",
             "n4061ad.doubleclick.net",
@@ -3604,7 +3603,9 @@
             "nivendas.net",
             "nj.5.p2l.info",
             "nlconsulateorlandoorg.siteprotect.net",
-            "nm.5.p2l.info",
+            "nm.5.p2l.info"
+        ],
+        "to_test": [
             "noc-request.hitbox.com",
             "nocboard.hitbox.com",
             "nordette.1.p2l.info",
