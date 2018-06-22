@@ -3455,9 +3455,7 @@
             "metrics.mpora.com",
             "metrics.olivegarden.com",
             "metrics.oprah.com",
-            "metrics.parallels.com"
-        ],
-        "to_test": [
+            "metrics.parallels.com",
             "metrics.peacocks.co.uk",
             "metrics.performancing.com",
             "metrics.premiere.com",
@@ -3499,6 +3497,8 @@
             "mobileanalytics.us-east-2.amazonaws.com",
             "mobileanalytics.us-west-1.amazonaws.com",
             "mobileanalytics.us-west-2.amazonaws.com",
+            "mobilede-dp.nuggad.net",
+            "mobilede.nuggad.net",
             "moc.silk.com",
             "molla.gato1000.cl",
             "monk.sitescoutadserver.com",
@@ -3607,7 +3607,9 @@
             "ngads.smartage.com",
             "ngs.impress.co.jp",
             "nh.5.p2l.info",
-            "nikolamireasa.com",
+            "nikolamireasa.com"
+        ],
+        "to_test": [
             "nitrous.internetfuel.com",
             "nivendas.net",
             "nj.5.p2l.info",
