@@ -3047,9 +3047,7 @@
             "lycoscollect.realmedia.com",
             "m.adbridge.de",
             "m.de.2mdn.net",
-            "m.fr.2mdn.net"
-        ],
-        "to_test": [
+            "m.fr.2mdn.net",
             "m.uk.2mdn.net",
             "m.webtrends.com",
             "m01.webwise.com",
@@ -3452,11 +3450,14 @@
             "metrics.gamestop.com",
             "metrics.ksl.com",
             "metrics.maxim.com",
+            "metrics.mercola.com",
             "metrics.mms.mavenapps.net",
             "metrics.mpora.com",
             "metrics.olivegarden.com",
             "metrics.oprah.com",
-            "metrics.parallels.com",
+            "metrics.parallels.com"
+        ],
+        "to_test": [
             "metrics.peacocks.co.uk",
             "metrics.performancing.com",
             "metrics.premiere.com",
