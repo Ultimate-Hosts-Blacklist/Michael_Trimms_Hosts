@@ -807,9 +807,7 @@
             "ads.sumotorrent.com",
             "ads.svatbata.org",
             "ads.switchboard.com",
-            "ads.t-online.de"
-        ],
-        "to_test": [
+            "ads.t-online.de",
             "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
@@ -1040,7 +1038,9 @@
             "adserver.2618.com",
             "adserver.3digit.de",
             "adserver.a.in.monster.com",
-            "adserver.ad-it.dk",
+            "adserver.ad-it.dk"
+        ],
+        "to_test": [
             "adserver.adklik.com.tr",
             "adserver.adserver.com.pl",
             "adserver.adsimsar.net",
