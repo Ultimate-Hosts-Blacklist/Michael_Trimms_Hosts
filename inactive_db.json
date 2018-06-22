@@ -652,9 +652,7 @@
             "ads.kokteyl.com",
             "ads.lavoix.com",
             "ads.leo.org",
-            "ads.lilengine.com"
-        ],
-        "to_test": [
+            "ads.lilengine.com",
             "ads.linuxjournal.com",
             "ads.list-universe.com",
             "ads.ljworld.com",
@@ -809,7 +807,9 @@
             "ads.sumotorrent.com",
             "ads.svatbata.org",
             "ads.switchboard.com",
-            "ads.t-online.de",
+            "ads.t-online.de"
+        ],
+        "to_test": [
             "ads.tbs.com",
             "ads.techvibes.com",
             "ads.techweb.com",
