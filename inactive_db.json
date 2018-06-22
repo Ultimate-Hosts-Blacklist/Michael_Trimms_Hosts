@@ -1038,9 +1038,7 @@
             "adserver.2618.com",
             "adserver.3digit.de",
             "adserver.a.in.monster.com",
-            "adserver.ad-it.dk"
-        ],
-        "to_test": [
+            "adserver.ad-it.dk",
             "adserver.adklik.com.tr",
             "adserver.adserver.com.pl",
             "adserver.adsimsar.net",
@@ -1180,7 +1178,6 @@
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1213,7 +1210,9 @@
             "adult.foxcounter.com",
             "adv.440net.com",
             "adv.adtotal.pl",
-            "adv.bookclubservices.ca",
+            "adv.bookclubservices.ca"
+        ],
+        "to_test": [
             "adv.federalpost.ru",
             "adv.lampsplus.com",
             "adv.magna.ru",
