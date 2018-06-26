@@ -4605,9 +4605,7 @@
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
             "ssl-nl.persgroep.edgekey.neto",
-            "ssl-nl.persgroep.edgekey.netO"
-        ],
-        "to_test": [
+            "ssl-nl.persgroep.edgekey.netO",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4710,7 +4708,6 @@
             "stop-smoking.1.p2l.info",
             "stopphoulplay.net",
             "storage.bulletproofserving.com",
-            "storage.hitrang.com",
             "stork.escortfinder.cl",
             "straighttangerine.cz.cc",
             "stream11.instream.com",
@@ -4729,7 +4726,9 @@
             "supplements.1.p2l.info",
             "supremeadsonline.com",
             "suresafe1.adsovo.com",
-            "survey.burstmedia.com",
+            "survey.burstmedia.com"
+        ],
+        "to_test": [
             "survey1-au.imrworldwide.com",
             "sverd.net",
             "sview.avenuea.com",
