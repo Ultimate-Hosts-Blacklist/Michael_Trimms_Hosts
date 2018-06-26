@@ -3425,9 +3425,7 @@
             "media98.fastclick.net",
             "media99.fastclick.net",
             "mediafr.247realmedia.com",
-            "mediapst-images.adbureau.net"
-        ],
-        "to_test": [
+            "mediapst-images.adbureau.net",
             "mediapst.adbureau.net",
             "mediatrack.revenue.net",
             "mediauk.247realmedia.com",
@@ -3593,7 +3591,9 @@
             "netadsrv.iworld.com",
             "network-ca.247realmedia.com",
             "network.business.com",
-            "network.realmedia.com",
+            "network.realmedia.com"
+        ],
+        "to_test": [
             "network.realtechnetwork.net",
             "networkads.net",
             "netzmarkt.ivwbox.de",
