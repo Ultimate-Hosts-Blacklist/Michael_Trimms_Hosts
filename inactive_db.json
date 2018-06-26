@@ -1028,9 +1028,7 @@
             "adserv007.adtech.de",
             "adserv008.adtech.de",
             "adserv2.meritdesigns.com",
-            "adservant.guj.de"
-        ],
-        "to_test": [
+            "adservant.guj.de",
             "adserve.canadawidemagazines.com",
             "adserve.mizzenmedia.com",
             "adserve.splicetoday.com",
@@ -1114,7 +1112,6 @@
             "adserver.newmassmedia.net",
             "adserver.news-journalonline.com",
             "adserver.newtimes.com",
-            "adserver.ngz-network.de",
             "adserver.nzoom.com",
             "adserver.omroepflevoland.nl",
             "adserver.omroepzeeland.nl",
@@ -1181,6 +1178,7 @@
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1193,7 +1191,9 @@
             "adsrv.heraldtribune.com",
             "adsrv.news.com.au",
             "adsrv.worldvillage.com",
-            "adsrv1.tapad.com",
+            "adsrv1.tapad.com"
+        ],
+        "to_test": [
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
