@@ -1191,9 +1191,7 @@
             "adsrv.heraldtribune.com",
             "adsrv.news.com.au",
             "adsrv.worldvillage.com",
-            "adsrv1.tapad.com"
-        ],
-        "to_test": [
+            "adsrv1.tapad.com",
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
@@ -1293,7 +1291,9 @@
             "ajakkirj.spring-tns.net",
             "ak.5.p2l.info",
             "ak.maxserving.com",
-            "ak.tfag.de",
+            "ak.tfag.de"
+        ],
+        "to_test": [
             "aktif.haberx.com",
             "al.5.p2l.info",
             "al1.sharethis.com",
