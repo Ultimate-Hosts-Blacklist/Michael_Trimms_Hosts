@@ -1464,9 +1464,8 @@
             "b.admob.com",
             "b.aol.com",
             "b.as-us.falkag.net",
-            "b.collective-media.net"
-        ],
-        "to_test": [
+            "b.collective-media.net",
+            "b.engadget.com",
             "b.getprizenow.top",
             "b.grvcdn.com",
             "b.rad.live.com",
@@ -1494,7 +1493,6 @@
             "banner.free6.com",
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
-            "banner.mymedia.bg",
             "banner.prestigecasino.com",
             "banner.publisher.to",
             "banner.tattomedia.com",
@@ -1523,7 +1521,6 @@
             "banners.kfmb.com",
             "banners.lifeserv.com",
             "banners.looksmart.com",
-            "banners.mymedia.bg",
             "banners.netcraft.com",
             "banners.newsru.com",
             "banners.primaryclick.com",
@@ -1573,7 +1570,9 @@
             "beta-hints.netflame.cc",
             "beta.easy-hit-counter.com",
             "beta.f.adbull.com",
-            "betaffs.com",
+            "betaffs.com"
+        ],
+        "to_test": [
             "betterperformance.goldenopps.info",
             "betting-online.petrovka.info",
             "bettingchamps.eu",
