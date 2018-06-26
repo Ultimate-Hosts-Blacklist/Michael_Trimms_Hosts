@@ -2259,9 +2259,7 @@
             "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
-            "ehg-wizardsofthecoast.hitbox.com.hitbox.com"
-        ],
-        "to_test": [
+            "ehg-wizardsofthecoast.hitbox.com.hitbox.com",
             "ehg.commjun.hitbox.com",
             "ehg.fedex.com",
             "ehg.mindshare.hitbox.com",
@@ -2472,7 +2470,9 @@
             "foodmixeroffer.com",
             "forbescollect.247realmedia.com",
             "foreign.dt00.net",
-            "foreignpolicy.advertserve.com",
+            "foreignpolicy.advertserve.com"
+        ],
+        "to_test": [
             "forum.rotator.hadj7.adjuggler.net",
             "fp.valueclick.com",
             "fr.1sponsor.com",
