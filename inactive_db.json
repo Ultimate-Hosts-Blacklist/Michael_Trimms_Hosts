@@ -3591,9 +3591,7 @@
             "netadsrv.iworld.com",
             "network-ca.247realmedia.com",
             "network.business.com",
-            "network.realmedia.com"
-        ],
-        "to_test": [
+            "network.realmedia.com",
             "network.realtechnetwork.net",
             "networkads.net",
             "netzmarkt.ivwbox.de",
@@ -3787,7 +3785,9 @@
             "ohtuleht.spring-tns.net",
             "oi.webnavegador.com.br",
             "oidiscover.com",
-            "oilwrestlingeurope.com",
+            "oilwrestlingeurope.com"
+        ],
+        "to_test": [
             "oinadserve.com",
             "oix-rubyem.net",
             "oix-rubytest.net",
