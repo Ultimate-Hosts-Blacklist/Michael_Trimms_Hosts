@@ -507,16 +507,13 @@
             "ads.blp.valueclick.net",
             "ads.bootcampmedia.com",
             "ads.box.sk",
-            "ads.brain.pk"
-        ],
-        "to_test": [
+            "ads.brain.pk",
             "ads.britishexpats.com",
             "ads.burstnet.com",
             "ads.buzzcity.net",
             "ads.buzzlamp.com",
             "ads.calgarysun.com",
             "ads.callofdutyblackopsforum.net",
-            "ads.cardea.se",
             "ads.cardplayer.com",
             "ads.carocean.co.uk",
             "ads.casino.com",
@@ -592,7 +589,6 @@
             "ads.gamersmedia.com",
             "ads.gamespy.com",
             "ads.gateway.com",
-            "ads.gather.com",
             "ads.geornmd.net",
             "ads.gettools.com",
             "ads.gigaom.com.php5-12.websitetestlink.com",
@@ -667,7 +663,9 @@
             "ads.macnews.de",
             "ads.macupdate.com",
             "ads.madison.com",
-            "ads.madisonavenue.com",
+            "ads.madisonavenue.com"
+        ],
+        "to_test": [
             "ads.mail.com",
             "ads.mail3x.com",
             "ads.maksimum.net",
