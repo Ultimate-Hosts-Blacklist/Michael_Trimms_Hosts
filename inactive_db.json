@@ -4588,9 +4588,7 @@
             "spiegel.ivwbox.de",
             "spinbox.consumerreview.com",
             "spinbox.maccentral.com",
-            "spinbox.macworld.com"
-        ],
-        "to_test": [
+            "spinbox.macworld.com",
             "spns.seriousads.net",
             "sponsors.behance.com",
             "sponsors.ezgreen.com",
@@ -4615,6 +4613,7 @@
             "srv3.wa.marketingsolutions.yahoo.com",
             "ss.tiscali.com",
             "ssads.osdn.com",
+            "sscdn.banners.advidi.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
             "ssl-nl.persgroep.edgekey.neto",
@@ -4706,7 +4705,9 @@
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "stats.telegraph.co.uk",
-            "stats.tudou.com",
+            "stats.tudou.com"
+        ],
+        "to_test": [
             "stats.video.search.yahoo.com",
             "stats.yourminis.com",
             "stats1.in",
