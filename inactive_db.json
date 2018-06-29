@@ -819,9 +819,7 @@
             "ads.thewebfreaks.com",
             "ads.timeout.com",
             "ads.tiscali.com",
-            "ads.tiscali.fr"
-        ],
-        "to_test": [
+            "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
             "ads.top500.org",
@@ -1057,7 +1055,9 @@
             "adserver.billiger-surfen.de",
             "adserver.billiger-telefonieren.de",
             "adserver.bluereactor.net",
-            "adserver.bluewin.ch",
+            "adserver.bluewin.ch"
+        ],
+        "to_test": [
             "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
