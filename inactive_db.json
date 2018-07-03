@@ -498,9 +498,7 @@
             "ads.baventures.com",
             "ads.beeb.com",
             "ads.beenetworks.net",
-            "ads.beta.itravel2000.com"
-        ],
-        "to_test": [
+            "ads.beta.itravel2000.com",
             "ads.bfast.com",
             "ads.bfm.valueclick.net",
             "ads.bigcitytools.com",
@@ -532,6 +530,7 @@
             "ads.clara.net",
             "ads.clickhouse.com",
             "ads.clickthru.net",
+            "ads.clipconverter.cc",
             "ads.cluster01.oasis.zmh.zope.net",
             "ads.cmediaworld.com",
             "ads.cmg.valueclick.net",
@@ -548,6 +547,7 @@
             "ads.cyberfight.ru",
             "ads.cybertrader.com",
             "ads.danworld.net",
+            "ads.darikweb.com",
             "ads.darkhardware.com",
             "ads.dbforums.com",
             "ads.ddj.com",
@@ -581,6 +581,7 @@
             "ads.fmwinc.com",
             "ads.football24.bg",
             "ads.foxkidseurope.net",
+            "ads.freebannertrade.com",
             "ads.fresh.bg",
             "ads.fresnobee.com",
             "ads.futurenet.com",
@@ -637,7 +638,9 @@
             "ads.intellicast.com",
             "ads.ireport.com",
             "ads.isat-tech.com",
-            "ads.isum.de",
+            "ads.isum.de"
+        ],
+        "to_test": [
             "ads.jacksonville.com",
             "ads.jeneauempire.com",
             "ads.jetphotos.net",
