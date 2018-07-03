@@ -4617,9 +4617,7 @@
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
             "ssl-nl.persgroep.edgekey.netO",
-            "ssl-nl.persgroep.edgekey.neto"
-        ],
-        "to_test": [
+            "ssl-nl.persgroep.edgekey.neto",
             "sslt.tellapart.com",
             "ssprings.rotator.hadj7.adjuggler.net",
             "st.marketgid.com",
@@ -4680,6 +4678,7 @@
             "stats.big-boards.com",
             "stats.bonzaii.no",
             "stats.cts-bv.nl",
+            "stats.darikweb.com",
             "stats.darkbluesea.com",
             "stats.f-secure.com",
             "stats.foxcounter.com",
@@ -4722,12 +4721,15 @@
             "stop-smoking.1.p2l.info",
             "stopphoulplay.net",
             "storage.bulletproofserving.com",
+            "storage.hitrang.com",
             "stork.escortfinder.cl",
             "straighttangerine.cz.cc",
             "stream11.instream.com",
             "streamate.doublepimp.com",
             "streamstats1.blinkx.com",
-            "stts.rbc.ru",
+            "stts.rbc.ru"
+        ],
+        "to_test": [
             "suavalds.com",
             "subad-server.com",
             "subtracts.userplane.com",
