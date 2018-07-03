@@ -795,9 +795,7 @@
             "ads.simtel.net",
             "ads.sixapart.com",
             "ads.sl.interpals.net",
-            "ads.smartclicks.net"
-        ],
-        "to_test": [
+            "ads.smartclicks.net",
             "ads.smartdevicemedia.com",
             "ads.smowtion.com",
             "ads.sohh.com",
@@ -969,6 +967,7 @@
             "ads3.advance.net",
             "ads3.advertwizard.com",
             "ads3.canoe.ca",
+            "ads3.freebannertrade.com",
             "ads3.ihaberadserver.com",
             "ads3.mojiva.com",
             "ads3.udc.advance.net",
@@ -1037,7 +1036,9 @@
             "adserve.mizzenmedia.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
-            "adserver-live.yoc.mobi",
+            "adserver-live.yoc.mobi"
+        ],
+        "to_test": [
             "adserver-static1.iweb.cortica.com",
             "adserver.163.com",
             "adserver.2618.com",
