@@ -1036,9 +1036,7 @@
             "adserve.mizzenmedia.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver-static1.iweb.cortica.com",
             "adserver.163.com",
             "adserver.2618.com",
@@ -1183,7 +1181,6 @@
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
-            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1214,7 +1211,9 @@
             "adtrading.de",
             "adtxt.prbn.ru",
             "adult.foxcounter.com",
-            "adv.440net.com",
+            "adv.440net.com"
+        ],
+        "to_test": [
             "adv.adtotal.pl",
             "adv.bookclubservices.ca",
             "adv.federalpost.ru",
