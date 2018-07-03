@@ -3595,9 +3595,7 @@
             "netadsrv.iworld.com",
             "network-ca.247realmedia.com",
             "network.business.com",
-            "network.realmedia.com"
-        ],
-        "to_test": [
+            "network.realmedia.com",
             "network.realtechnetwork.net",
             "networkads.net",
             "netzmarkt.ivwbox.de",
@@ -3687,7 +3685,6 @@
             "oas.signonsandiego.com",
             "oas.startribune.com",
             "oas.theguardian.com",
-            "oas.villagevoice.com",
             "oasads.whitepages.com",
             "oasc02.247realmedia.com",
             "oasc03.247realmedia.com",
@@ -3761,7 +3758,6 @@
             "oascentral.tripit.com",
             "oascentral.urbanspoon.com",
             "oascentral.videodome.com",
-            "oascentral.villagevoice.com",
             "oascentral.wwe.com",
             "oascentral.ywlloewpages.ca",
             "oascentral.zwire.com",
@@ -3778,7 +3774,9 @@
             "oassis.zmh.zope.com",
             "obs.nnm2.ru",
             "observer.advertserve.com",
-            "oca.telemetry.microsoft.com.nsatc.net",
+            "oca.telemetry.microsoft.com.nsatc.net"
+        ],
+        "to_test": [
             "odds.optimizely.com",
             "odin.goo.mx",
             "oeamtc.oewabox.at",
