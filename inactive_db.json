@@ -1370,9 +1370,7 @@
             "api.opencandy.com",
             "api.revcontent.com",
             "api.sagent.io",
-            "api.yieldmanager.com"
-        ],
-        "to_test": [
+            "api.yieldmanager.com",
             "apis.sharethrough.com",
             "apodir.oewabox.at",
             "apopt.hbmediapro.com",
@@ -1508,7 +1506,9 @@
             "bannerads.anytimenews.com",
             "bannerads.mantecabulletin.com",
             "bannerads.zwire.com",
-            "bannerdriven.ru",
+            "bannerdriven.ru"
+        ],
+        "to_test": [
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.broadwayworld.com",
