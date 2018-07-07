@@ -4614,9 +4614,7 @@
             "srv2.wa.marketingsolutions.yahoo.com",
             "srv3.wa.marketingsolutions.yahoo.com",
             "ss.tiscali.com",
-            "ssads.osdn.com"
-        ],
-        "to_test": [
+            "ssads.osdn.com",
             "sscdn.banners.advidi.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
@@ -4629,6 +4627,7 @@
             "st.n.ads3-adnow.com",
             "st.valueclick.com",
             "st.vq.ku6.cn",
+            "st1.freeonlineusers.com",
             "stackoverflow.hex1.ru",
             "stacksee.lastestapk.com",
             "stage104.hitbox.com",
@@ -4731,7 +4730,9 @@
             "stream11.instream.com",
             "streamate.doublepimp.com",
             "streamstats1.blinkx.com",
-            "stts.rbc.ru",
+            "stts.rbc.ru"
+        ],
+        "to_test": [
             "suavalds.com",
             "subad-server.com",
             "subtracts.userplane.com",
