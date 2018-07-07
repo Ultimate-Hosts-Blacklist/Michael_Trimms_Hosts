@@ -511,9 +511,7 @@
             "ads.bootcampmedia.com",
             "ads.box.sk",
             "ads.brain.pk",
-            "ads.britishexpats.com"
-        ],
-        "to_test": [
+            "ads.britishexpats.com",
             "ads.burstnet.com",
             "ads.buzzcity.net",
             "ads.buzzlamp.com",
@@ -640,7 +638,6 @@
             "ads.insidehighered.com",
             "ads.intellicast.com",
             "ads.ireport.com",
-            "ads.isat-tech.com",
             "ads.isum.de",
             "ads.jacksonville.com",
             "ads.jeneauempire.com",
@@ -652,6 +649,7 @@
             "ads.juneauempire.com",
             "ads.jwtt3.com",
             "ads.kazaa.com",
+            "ads.kickasstorrents.video",
             "ads.kixer.com",
             "ads.kleinman.com",
             "ads.kokteyl.com",
@@ -659,7 +657,9 @@
             "ads.leo.org",
             "ads.lilengine.com",
             "ads.linuxjournal.com",
-            "ads.list-universe.com",
+            "ads.list-universe.com"
+        ],
+        "to_test": [
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
