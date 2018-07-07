@@ -3324,9 +3324,7 @@
             "media.adshadow.net",
             "media.customeracquisitionsite.com",
             "media.elb-kind.de",
-            "media.markethealth.com"
-        ],
-        "to_test": [
+            "media.markethealth.com",
             "media.opencandy.com",
             "media.struq.com",
             "media.viwii.net",
@@ -3475,7 +3473,6 @@
             "metrics.skype.com",
             "metrics.sportsauthority.com",
             "metrics.technologyreview.com",
-            "metrics.thefrisky.com",
             "metrics2.pricegrabber.com",
             "metropol.oewabox.at",
             "mi.5.p2l.info",
@@ -3565,7 +3562,9 @@
             "myphentermine.polybuild.ru",
             "mysmallcock.com",
             "myvideo.count.brat-online.ro",
-            "myvksaver.ru",
+            "myvksaver.ru"
+        ],
+        "to_test": [
             "n.admob.com",
             "n.targetbtracker.com",
             "n3302ad.doubleclick.net",
