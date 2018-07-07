@@ -3730,9 +3730,7 @@
             "oascentral.motherjones.com",
             "oascentral.nerve.com",
             "oascentral.nowtoronto.com",
-            "oascentral.ocweekly.com"
-        ],
-        "to_test": [
+            "oascentral.ocweekly.com",
             "oascentral.princetonreview.com",
             "oascentral.publicradio.org",
             "oascentral.radaronline.com",
@@ -3973,7 +3971,9 @@
             "park.beenetworks.net",
             "partner-ts.groupon.net",
             "partner.alerts.aol.com",
-            "partner.finditquick.com",
+            "partner.finditquick.com"
+        ],
+        "to_test": [
             "partner.topcities.com",
             "partner01.oingo.com",
             "partner02.oingo.com",
