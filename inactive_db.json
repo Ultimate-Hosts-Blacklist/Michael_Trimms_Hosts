@@ -1061,9 +1061,7 @@
             "adserver.billiger-surfen.de",
             "adserver.billiger-telefonieren.de",
             "adserver.bluereactor.net",
-            "adserver.bluewin.ch"
-        ],
-        "to_test": [
+            "adserver.bluewin.ch",
             "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
@@ -1123,6 +1121,7 @@
             "adserver.plhb.com",
             "adserver.pollstar.com",
             "adserver.prodigy.net",
+            "adserver.ratestar.net",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -1182,6 +1181,7 @@
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
             "adspace.zaman.com.tr",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1220,7 +1220,9 @@
             "adv.magna.ru",
             "adv.merlin.co.il",
             "adv.netmedia.bg",
-            "adv.netshelter.net",
+            "adv.netshelter.net"
+        ],
+        "to_test": [
             "adv.surinter.net",
             "adv.svd.se",
             "adv0005.247realmedia.com",
