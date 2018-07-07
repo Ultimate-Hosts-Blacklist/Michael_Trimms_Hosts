@@ -657,9 +657,7 @@
             "ads.leo.org",
             "ads.lilengine.com",
             "ads.linuxjournal.com",
-            "ads.list-universe.com"
-        ],
-        "to_test": [
+            "ads.list-universe.com",
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
@@ -744,7 +742,6 @@
             "ads.pg.valueclick.net",
             "ads.pheedo.com",
             "ads.phillyburbs.com",
-            "ads.phpclasses.org",
             "ads.pickmeup-ltd.com",
             "ads.pilotonline.com",
             "ads.pkr.com",
@@ -821,7 +818,6 @@
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
-            "ads.thefrisky.com",
             "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
@@ -831,7 +827,9 @@
             "ads.tiscali.fr",
             "ads.tnt.tv",
             "ads.top-banners.com",
-            "ads.top500.org",
+            "ads.top500.org"
+        ],
+        "to_test": [
             "ads.trafficpimps.com",
             "ads.treehugger.com",
             "ads.tricityherald.com",
