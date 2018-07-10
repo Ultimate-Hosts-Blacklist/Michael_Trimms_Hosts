@@ -3063,9 +3063,7 @@
             "m.uk.2mdn.net",
             "m.webtrends.com",
             "m01.webwise.com",
-            "m02.webwise.com"
-        ],
-        "to_test": [
+            "m02.webwise.com",
             "m1.ae.2mdn.net",
             "m1.au.2mdn.net",
             "m1.be.2mdn.net",
@@ -3286,8 +3284,6 @@
             "mac-protection.info",
             "macaddictads.snv.futurenet.com",
             "machine.fairfaxbm.co.nz",
-            "mackeeperapp.zeobit.com",
-            "mackeeperapp1.zeobit.com",
             "mail.youcanoptout.com",
             "mail.youcanoptout.net",
             "mail.youcanoptout.org",
@@ -3317,8 +3313,8 @@
             "mb.datingadzone.com",
             "mba-online.petrovka.info",
             "mbox2.offermatica.com",
-            "MCOpolice.com",
             "mcopolice.com",
+            "MCOpolice.com",
             "md.5.p2l.info",
             "mde.ubid.com",
             "mdr.ivwbox.de",
@@ -3474,7 +3470,9 @@
             "metrics.performancing.com",
             "metrics.premiere.com",
             "metrics.skype.com",
-            "metrics.sportsauthority.com",
+            "metrics.sportsauthority.com"
+        ],
+        "to_test": [
             "metrics.technologyreview.com",
             "metrics2.pricegrabber.com",
             "metropol.oewabox.at",
