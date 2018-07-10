@@ -3470,9 +3470,7 @@
             "metrics.performancing.com",
             "metrics.premiere.com",
             "metrics.skype.com",
-            "metrics.sportsauthority.com"
-        ],
-        "to_test": [
+            "metrics.sportsauthority.com",
             "metrics.technologyreview.com",
             "metrics2.pricegrabber.com",
             "metropol.oewabox.at",
@@ -3629,7 +3627,9 @@
             "nordette.3.p2l.info",
             "nordette.4.p2l.info",
             "norton-antivirus-trial.searchservice.info",
-            "notebook-memory.searchservice.info",
+            "notebook-memory.searchservice.info"
+        ],
+        "to_test": [
             "notori.oewabox.at",
             "novarevenue.com",
             "nrads.1host.co.il",
