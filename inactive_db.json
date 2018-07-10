@@ -4658,9 +4658,7 @@
             "static.affiliation-france.com",
             "static.carbonads.com",
             "static.cdn.gtsmobi.com",
-            "static.crowdscience.com"
-        ],
-        "to_test": [
+            "static.crowdscience.com",
             "static.firehunt.com",
             "static.hitfarm.com",
             "static.ku6.com",
@@ -4673,6 +4671,7 @@
             "static.tellapart.com",
             "static.tellaparts.com",
             "static1.influads.com",
+            "statik.topica.com",
             "statique.secureguards.eu",
             "statistics.dynamicsitestats.com",
             "statistics.reedbusiness.nl",
@@ -4768,7 +4767,9 @@
             "szene1.oewabox.at",
             "t.ad2games.com",
             "t.admob.com",
-            "t.cpmadvisors.com",
+            "t.cpmadvisors.com"
+        ],
+        "to_test": [
             "t.medialytics.com",
             "t.tellapart.com",
             "t.trrker.com",
