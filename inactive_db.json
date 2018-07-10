@@ -3627,9 +3627,7 @@
             "nordette.3.p2l.info",
             "nordette.4.p2l.info",
             "norton-antivirus-trial.searchservice.info",
-            "notebook-memory.searchservice.info"
-        ],
-        "to_test": [
+            "notebook-memory.searchservice.info",
             "notori.oewabox.at",
             "novarevenue.com",
             "nrads.1host.co.il",
@@ -3863,7 +3861,9 @@
             "openads.nightlifemagazine.ca",
             "openoverflow.com",
             "openx.359gsm.com",
-            "openx.adtext.ro",
+            "openx.adtext.ro"
+        ],
+        "to_test": [
             "openx.coolconcepts.nl",
             "openx.depoilab.com",
             "openx.shinyads.com",
