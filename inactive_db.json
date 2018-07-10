@@ -805,9 +805,7 @@
             "ads.songs.pk",
             "ads.specificclick.com",
             "ads.specificpop.com",
-            "ads.stationplay.com"
-        ],
-        "to_test": [
+            "ads.stationplay.com",
             "ads.streamlivesex.com",
             "ads.strumarelax.com",
             "ads.stupid.com",
@@ -946,6 +944,7 @@
             "ads2.advance.net",
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
+            "ads2.clickad.com",
             "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
@@ -1045,7 +1044,9 @@
             "adserver.2618.com",
             "adserver.3digit.de",
             "adserver.a.in.monster.com",
-            "adserver.ad-it.dk",
+            "adserver.ad-it.dk"
+        ],
+        "to_test": [
             "adserver.adklik.com.tr",
             "adserver.adserver.com.pl",
             "adserver.adsimsar.net",
