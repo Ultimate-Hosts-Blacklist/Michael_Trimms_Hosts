@@ -805,9 +805,7 @@
             "ads.somethingawful.com",
             "ads.songs.pk",
             "ads.specificclick.com",
-            "ads.specificpop.com"
-        ],
-        "to_test": [
+            "ads.specificpop.com",
             "ads.stationplay.com",
             "ads.streamlivesex.com",
             "ads.strumarelax.com",
@@ -887,6 +885,7 @@
             "ads.xtramsn.co.nz",
             "ads.yashi.com",
             "ads.youporn.com",
+            "ads.yvmads.com",
             "ads.zap2it.com",
             "ads.zynga.com",
             "ads0.okcupid.com",
@@ -1045,7 +1044,9 @@
             "adserver-static1.iweb.cortica.com",
             "adserver.163.com",
             "adserver.2618.com",
-            "adserver.3digit.de",
+            "adserver.3digit.de"
+        ],
+        "to_test": [
             "adserver.a.in.monster.com",
             "adserver.ad-it.dk",
             "adserver.adklik.com.tr",
