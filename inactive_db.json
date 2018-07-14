@@ -1044,9 +1044,7 @@
             "adserver-static1.iweb.cortica.com",
             "adserver.163.com",
             "adserver.2618.com",
-            "adserver.3digit.de"
-        ],
-        "to_test": [
+            "adserver.3digit.de",
             "adserver.a.in.monster.com",
             "adserver.ad-it.dk",
             "adserver.adklik.com.tr",
@@ -1127,6 +1125,7 @@
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
+            "adserver.powerlinks.com",
             "adserver.prodigy.net",
             "adserver.ratestar.net",
             "adserver.revver.com",
@@ -1187,6 +1186,7 @@
             "adsm.soush.com",
             "adsmws.cloudapp.net",
             "adsnew.userfriendly.org",
+            "adspiro.pl",
             "adspr.haber7.net",
             "adsr3pg.com.br",
             "adsrc.bankrate.com",
@@ -1207,7 +1207,9 @@
             "adsy.lsipack.com",
             "adsyndication.yelldirect.com",
             "adsystem.adbull.com",
-            "adtag.asiaone.com",
+            "adtag.asiaone.com"
+        ],
+        "to_test": [
             "adtcp.ru",
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
