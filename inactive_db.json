@@ -4557,9 +4557,7 @@
             "sitefinder.verisign.com",
             "sitemerkezi.net",
             "sitestat3.sport1.de",
-            "sixapart.adbureau.net"
-        ],
-        "to_test": [
+            "sixapart.adbureau.net",
             "sjguild.com",
             "sk.5.p2l.info",
             "ska.energia.cz",
@@ -4585,8 +4583,8 @@
             "smm.sitescout.com",
             "sn.baventures.com",
             "snowplow-collector.sugarops.com",
-            "so.2mdn.net",
             "sO.2mdn.net",
+            "so.2mdn.net",
             "sobartop.baidu.com",
             "social.bidsystem.com",
             "soclone.com",
@@ -4624,7 +4622,9 @@
             "sports-offer.com",
             "sports-offer.net",
             "sports-premiumblvd.com",
-            "sports.smartlivegaming.com",
+            "sports.smartlivegaming.com"
+        ],
+        "to_test": [
             "sprinks-clicks.about.com",
             "spyware-scan.100gal.net",
             "spyware.usafreespace.com",
