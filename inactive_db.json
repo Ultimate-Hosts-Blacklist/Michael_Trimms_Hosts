@@ -3349,9 +3349,7 @@
             "media18.fastclick.net",
             "media19.fastclick.net",
             "media2.adshuffle.com",
-            "media2.fastclick.net"
-        ],
-        "to_test": [
+            "media2.fastclick.net",
             "media20.fastclick.net",
             "media21.fastclick.net",
             "media22.fastclick.net",
@@ -3579,10 +3577,11 @@
             "n4061ad.doubleclick.net",
             "na.hitbox.com",
             "naiadsystems.com.invalid",
-            "nanocluster.reklamz.com",
             "narwhal.hitbox.com",
             "nasacort.1.p2l.info",
-            "nasonex.1.p2l.info",
+            "nasonex.1.p2l.info"
+        ],
+        "to_test": [
             "nau.hexagram.com",
             "nav.startnow.com",
             "nb.5.p2l.info",
