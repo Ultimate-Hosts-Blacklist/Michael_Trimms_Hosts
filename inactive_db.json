@@ -4593,9 +4593,7 @@
             "sonata.1.p2l.info",
             "soongu.info",
             "soros.departamentosejecutivos.cl",
-            "sostats.mozilla.com"
-        ],
-        "to_test": [
+            "sostats.mozilla.com",
             "sovereign.sitetracker.com",
             "soxorok.ddospower.ro",
             "spanel.gem.pl",
@@ -4633,7 +4631,6 @@
             "srv3.wa.marketingsolutions.yahoo.com",
             "ss.tiscali.com",
             "ssads.osdn.com",
-            "sscdn.banners.advidi.com",
             "ssl-hints.netflame.cc",
             "ssl-msn.oewabox.at",
             "ssl-nl.persgroep.edgekey.netO",
@@ -4671,7 +4668,6 @@
             "stat3.888.ku6.com",
             "stat3.cybermonitor.com",
             "static-cdn.labs.burstnet.com",
-            "static.admaximize.com",
             "static.adsonar.com",
             "static.adtaily.pl",
             "static.affiliation-france.com",
@@ -4700,12 +4696,15 @@
             "stats.big-boards.com",
             "stats.bonzaii.no",
             "stats.cts-bv.nl",
+            "stats.darikweb.com",
             "stats.darkbluesea.com",
             "stats.f-secure.com",
             "stats.foxcounter.com",
             "stats.free-rein.net",
             "stats.idsoft.com",
-            "stats.ilsemedia.nl",
+            "stats.ilsemedia.nl"
+        ],
+        "to_test": [
             "stats.indexstats.com",
             "stats.indextools.com",
             "stats.jippii.com",
