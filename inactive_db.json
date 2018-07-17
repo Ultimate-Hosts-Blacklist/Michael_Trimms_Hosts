@@ -3363,9 +3363,7 @@
             "media37.fastclick.net",
             "media38.fastclick.net",
             "media39.fastclick.net",
-            "media4.fastclick.net"
-        ],
-        "to_test": [
+            "media4.fastclick.net",
             "media40.fastclick.net",
             "media41.fastclick.net",
             "media42.fastclick.net",
@@ -3575,7 +3573,9 @@
             "nasacort.1.p2l.info",
             "nasonex.1.p2l.info",
             "nau.hexagram.com",
-            "nav.startnow.com",
+            "nav.startnow.com"
+        ],
+        "to_test": [
             "nb.5.p2l.info",
             "nb.netbreak.com.au",
             "nbc.adbureau.net",
