@@ -3741,9 +3741,7 @@
             "oascentral.registguard.com",
             "oascentral.riverfronttimes.com",
             "oascentral.sacurrent.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
+            "oascentral.salemweb.net",
             "oascentral.sciam.com",
             "oascentral.scientificamerican.com",
             "oascentral.seattleweekly.com",
@@ -3972,7 +3970,9 @@
             "park.beenetworks.net",
             "partner-ts.groupon.net",
             "partner.alerts.aol.com",
-            "partner.finditquick.com",
+            "partner.finditquick.com"
+        ],
+        "to_test": [
             "partner.topcities.com",
             "partner01.oingo.com",
             "partner02.oingo.com",
