@@ -494,9 +494,7 @@
             "ads.banner.t-online.de",
             "ads.barnonedrinks.com",
             "ads.batpmturner.com",
-            "ads.battle.net"
-        ],
-        "to_test": [
+            "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
             "ads.beenetworks.net",
@@ -543,12 +541,12 @@
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
             "ads.coopson.com",
-            "ads.cpsgsoftware.com",
             "ads.crapville.com",
             "ads.currantbun.com",
             "ads.cyberfight.ru",
             "ads.cybertrader.com",
             "ads.danworld.net",
+            "ads.darikweb.com",
             "ads.darkhardware.com",
             "ads.dbforums.com",
             "ads.ddj.com",
@@ -636,7 +634,9 @@
             "ads.inetdirectories.com",
             "ads.infospace.com",
             "ads.insidehighered.com",
-            "ads.intellicast.com",
+            "ads.intellicast.com"
+        ],
+        "to_test": [
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
