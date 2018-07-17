@@ -634,9 +634,7 @@
             "ads.inetdirectories.com",
             "ads.infospace.com",
             "ads.insidehighered.com",
-            "ads.intellicast.com"
-        ],
-        "to_test": [
+            "ads.intellicast.com",
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
@@ -670,7 +668,6 @@
             "ads.macupdate.com",
             "ads.madison.com",
             "ads.madisonavenue.com",
-            "ads.mail.bg",
             "ads.mail.com",
             "ads.mail3x.com",
             "ads.maksimum.net",
@@ -795,7 +792,9 @@
             "ads.sify.com",
             "ads.simtel.com",
             "ads.simtel.net",
-            "ads.sixapart.com",
+            "ads.sixapart.com"
+        ],
+        "to_test": [
             "ads.sl.interpals.net",
             "ads.smartclicks.net",
             "ads.smartdevicemedia.com",
