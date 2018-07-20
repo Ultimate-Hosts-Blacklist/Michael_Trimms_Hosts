@@ -4368,9 +4368,7 @@
             "rr3.xxxcounter.com",
             "rr4.xxxcounter.com",
             "rr5.xxxcounter.com",
-            "rr7.xxxcounter.com"
-        ],
-        "to_test": [
+            "rr7.xxxcounter.com",
             "rt.legolas-media.com",
             "rta.criteo.com",
             "rtc.romdiscover.com",
@@ -4381,8 +4379,8 @@
             "rubylan.net",
             "rubytag.net",
             "RUSpolice.com",
-            "RUSpolice.net",
             "ruspolice.net",
+            "RUSpolice.net",
             "russ-shalavy.ru",
             "s.ad121m.com",
             "s.adklik.com.tr",
@@ -4460,7 +4458,9 @@
             "sdc.jumptheshark.com",
             "sdc.plannedparenthood.org",
             "sdc.tvguide.com",
-            "sdogiu.bestamazontips.com",
+            "sdogiu.bestamazontips.com"
+        ],
+        "to_test": [
             "search.iwon.com",
             "search.startnow.com",
             "searchpill.boom.ru",
