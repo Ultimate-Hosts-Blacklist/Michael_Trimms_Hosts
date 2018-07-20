@@ -4679,9 +4679,7 @@
             "stat.ringier.cz",
             "stat.tudou.com",
             "stat.youku.com",
-            "stat0.888.ku6.com"
-        ],
-        "to_test": [
+            "stat0.888.ku6.com",
             "stat1.888.ku6.com",
             "stat2.888.ku6.com",
             "stat3.888.ku6.com",
@@ -4801,7 +4799,9 @@
             "szene1.oewabox.at",
             "t.ad2games.com",
             "t.admob.com",
-            "t.cpmadvisors.com",
+            "t.cpmadvisors.com"
+        ],
+        "to_test": [
             "t.medialytics.com",
             "t.tellapart.com",
             "t.trrker.com",
