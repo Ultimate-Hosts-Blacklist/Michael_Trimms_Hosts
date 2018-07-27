@@ -2240,9 +2240,7 @@
             "metrics.dailymotion.com",
             "metrics.fandome.com",
             "metrics.frontlineshop.com",
-            "metrics.gamestop.com"
-        ],
-        "to_test": [
+            "metrics.gamestop.com",
             "metrics.ksl.com",
             "metrics.maxim.com",
             "metrics.mercola.com",
@@ -2295,7 +2293,6 @@
             "mobilede.nuggad.net",
             "moc.silk.com",
             "molla.gato1000.cl",
-            "monarchslo.com",
             "monk.sitescoutadserver.com",
             "monstersandcritics.advertserve.com",
             "motorl.oewabox.at",
@@ -2399,7 +2396,9 @@
             "nf.5.p2l.info",
             "ngads.smartage.com",
             "ngs.impress.co.jp",
-            "nh.5.p2l.info",
+            "nh.5.p2l.info"
+        ],
+        "to_test": [
             "nikolamireasa.com",
             "nitrous.internetfuel.com",
             "nivendas.net",
