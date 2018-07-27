@@ -3442,9 +3442,7 @@
             "stat-counter.tass-online.ru",
             "stat-tracker.net",
             "stat.active24stats.nl",
-            "stat.alibaba.com"
-        ],
-        "to_test": [
+            "stat.alibaba.com",
             "stat.designntrend.com",
             "stat.ringier.cz",
             "stat.tudou.com",
@@ -3465,7 +3463,6 @@
             "static.hitfarm.com",
             "static.ku6.com",
             "static.l3.cdn.adsucks.com",
-            "static.linkz.net",
             "static.onlinevenditatio.space",
             "static.oroll.com",
             "static.pochta.ru",
@@ -3567,7 +3564,9 @@
             "system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net",
             "systemscheckusa.com",
             "szene1.oewabox.at",
-            "t.ad2games.com",
+            "t.ad2games.com"
+        ],
+        "to_test": [
             "t.admob.com",
             "t.cpmadvisors.com",
             "t.medialytics.com",
