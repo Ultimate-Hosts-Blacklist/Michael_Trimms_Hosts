@@ -1038,9 +1038,7 @@
             "adserv001.adtech.de",
             "adserv002.adtech.de",
             "adserv003.adtech.de",
-            "adserv004.adtech.de"
-        ],
-        "to_test": [
+            "adserv004.adtech.de",
             "adserv005.adtech.de",
             "adserv006.adtech.de",
             "adserv007.adtech.de",
@@ -1222,7 +1220,9 @@
             "adtag.asiaone.com",
             "adtcp.ru",
             "adtech.panthercustomer.com",
-            "adtech.sabitreklam.com",
+            "adtech.sabitreklam.com"
+        ],
+        "to_test": [
             "adtology3.com",
             "adtracker.inmobi.com",
             "adtracker.meinungsstudie.de",
