@@ -3606,9 +3606,7 @@
             "neptune3.appads.com",
             "nestorconsulting.net",
             "netads.sohu.com",
-            "netadsrv.iworld.com"
-        ],
-        "to_test": [
+            "netadsrv.iworld.com",
             "network-ca.247realmedia.com",
             "network.business.com",
             "network.realmedia.com",
@@ -3792,7 +3790,9 @@
             "oassis.zmh.zope.com",
             "obs.nnm2.ru",
             "observer.advertserve.com",
-            "oca.telemetry.microsoft.com.nsatc.net",
+            "oca.telemetry.microsoft.com.nsatc.net"
+        ],
+        "to_test": [
             "odds.optimizely.com",
             "odin.goo.mx",
             "oeamtc.oewabox.at",
