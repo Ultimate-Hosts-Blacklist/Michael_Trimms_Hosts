@@ -644,12 +644,11 @@
             "ads.incmd10.com",
             "ads.indya.com",
             "ads.inedomedia.com",
-            "ads.inetdirectories.com"
-        ],
-        "to_test": [
+            "ads.inetdirectories.com",
             "ads.infospace.com",
             "ads.insidehighered.com",
             "ads.intellicast.com",
+            "ads.iol.co.il",
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
@@ -734,7 +733,6 @@
             "ads.ngenuity.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
-            "ads.nudecards.com",
             "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
@@ -802,7 +800,9 @@
             "ads.sextvx.com",
             "ads.shoppingads.com",
             "ads.shoutfile.com",
-            "ads.shovtvnet.com",
+            "ads.shovtvnet.com"
+        ],
+        "to_test": [
             "ads.sift.co.uk",
             "ads.sify.com",
             "ads.simtel.com",
