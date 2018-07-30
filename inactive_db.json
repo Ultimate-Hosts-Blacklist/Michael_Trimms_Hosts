@@ -507,9 +507,7 @@
             "ads.banner.t-online.de",
             "ads.barnonedrinks.com",
             "ads.batpmturner.com",
-            "ads.battle.net"
-        ],
-        "to_test": [
+            "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
             "ads.beenetworks.net",
@@ -525,7 +523,6 @@
             "ads.blp.valueclick.net",
             "ads.bootcampmedia.com",
             "ads.box.sk",
-            "ads.brain.pk",
             "ads.britishexpats.com",
             "ads.burstnet.com",
             "ads.buzzcity.net",
@@ -647,7 +644,9 @@
             "ads.incmd10.com",
             "ads.indya.com",
             "ads.inedomedia.com",
-            "ads.inetdirectories.com",
+            "ads.inetdirectories.com"
+        ],
+        "to_test": [
             "ads.infospace.com",
             "ads.insidehighered.com",
             "ads.intellicast.com",
