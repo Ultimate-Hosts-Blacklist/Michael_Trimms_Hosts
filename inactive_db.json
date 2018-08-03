@@ -1203,9 +1203,7 @@
             "adsrc.bankrate.com",
             "adsremote.scripps.com",
             "adsremote.scrippsnetwork.com",
-            "adsresult.net"
-        ],
-        "to_test": [
+            "adsresult.net",
             "adsrv.bankrate.com",
             "adsrv.eacdn.com",
             "adsrv.emporis.com",
@@ -1285,8 +1283,8 @@
             "affiliates.ige.com",
             "afp.qiyi.com",
             "ag1.hitbox.com",
-            "aguileranude.1stok.com",
             "aguileranude.1stOK.com",
+            "aguileranude.1stok.com",
             "ahbn1.hitbox.com",
             "ahbn2.hitbox.com",
             "ahbn3.hitbox.com",
@@ -1311,7 +1309,9 @@
             "aj.daniweb.com",
             "ajakkirj.spring-tns.net",
             "ak.5.p2l.info",
-            "ak.maxserving.com",
+            "ak.maxserving.com"
+        ],
+        "to_test": [
             "ak.tfag.de",
             "aktif.haberx.com",
             "al.5.p2l.info",
