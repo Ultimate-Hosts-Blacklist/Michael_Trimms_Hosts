@@ -2286,9 +2286,7 @@
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
             "ehg-oreilley.hitbox.com",
-            "ehg-presentigsolutions.hitbox.com"
-        ],
-        "to_test": [
+            "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
             "ehg-wizardsofthecoast.hitbox.com.hitbox.com",
@@ -2471,7 +2469,9 @@
             "files.adbrite.com",
             "files.zz-download-zz5.com",
             "files2.zz-download-zz7.com",
-            "fin.adbureau.net",
+            "fin.adbureau.net"
+        ],
+        "to_test": [
             "finance-offer.com",
             "finanzmeldungen.com",
             "fioricet.1.p2l.info",
