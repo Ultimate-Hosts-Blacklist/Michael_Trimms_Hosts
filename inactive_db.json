@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Michael_Trimms_Hosts/domains.list": {
-        "1532953010": [
+        "1533298728": [
             "06272002-dbase.hitcountz.net",
             "09killspyware.com",
             "0qizz.super-promo.hoxo.info",
@@ -9,7 +9,6 @@
             "1.httpads.com",
             "100.mbn.com.ua",
             "1000ps.oewabox.at",
-            "10fbb07a4b0.se",
             "10pg.scl5fyd.info",
             "11398.onceedge.ru",
             "1168.ic-live.com",
@@ -95,7 +94,6 @@
             "a.submityourflicks.com",
             "a.tadd.react2media.com",
             "a.tfag.de",
-            "a.thoughtleadr.com",
             "a.total-media.net",
             "a.triggit.com",
             "a.tvlim.com",
@@ -136,7 +134,9 @@
             "ac.eu.enecto.com",
             "ac2.valuead.com",
             "accountlock-demo.iovation.com",
-            "accounts.pkr.com.invalid",
+            "accounts.pkr.com.invalid"
+        ],
+        "to_test": [
             "accutrk.com",
             "acim.moqhixoz.cn",
             "aciphex.about-tabs.com",
@@ -6266,9 +6266,7 @@
             "zyprexa.about-tabs.com",
             "zyrtec.1.p2l.info",
             "zyrtec.3.p2l.info",
-            "zyrtec.4.p2l.info"
-        ],
-        "to_test": [
+            "zyrtec.4.p2l.info",
             "006.freecounters.co.uk"
         ]
     }
