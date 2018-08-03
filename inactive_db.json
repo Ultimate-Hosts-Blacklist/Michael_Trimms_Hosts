@@ -4753,10 +4753,7 @@
             "stats.surfaid.ihost.com",
             "stats.telegraph.co.uk",
             "stats.tudou.com",
-            "stats.video.search.yahoo.com"
-        ],
-        "to_test": [
-            "protection.ALpolice.com",
+            "stats.video.search.yahoo.com",
             "stats.yourminis.com",
             "stats1.in",
             "stats2.dooyoo.com",
@@ -4813,6 +4810,7 @@
             "szene1.oewabox.at",
             "t.ad2games.com",
             "t.admob.com",
+            "t.adonly.com",
             "t.cpmadvisors.com",
             "t.medialytics.com",
             "t.tellapart.com",
@@ -4905,7 +4903,10 @@
             "textads.opera.com",
             "tgd.timesonline.co.uk",
             "thanfocus.com",
-            "the-smart-stop.com",
+            "the-smart-stop.com"
+        ],
+        "to_test": [
+            "protection.ALpolice.com",
             "TheBizMeet.com",
             "thebizmeet.com",
             "thedatesafe.com",
