@@ -801,9 +801,7 @@
             "ads.shoutfile.com",
             "ads.shovtvnet.com",
             "ads.sift.co.uk",
-            "ads.sify.com"
-        ],
-        "to_test": [
+            "ads.sify.com",
             "ads.simtel.com",
             "ads.simtel.net",
             "ads.sixapart.com",
@@ -834,6 +832,7 @@
             "ads.theawl.com",
             "ads.thebugs.ws",
             "ads.theglobeandmail.com",
+            "ads.thehorse.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
@@ -1025,7 +1024,9 @@
             "adsentnetwork.com",
             "adserer.ihigh.com",
             "adserv.aip.org",
-            "adserv.bulletinmarketing.com",
+            "adserv.bulletinmarketing.com"
+        ],
+        "to_test": [
             "adserv.entriq.net",
             "adserv.evo-x.de",
             "adserv.free6.com",
