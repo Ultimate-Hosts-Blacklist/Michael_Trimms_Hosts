@@ -3050,9 +3050,7 @@
             "log.statistici.ro",
             "log1.countomat.com",
             "log2.quintelligence.com",
-            "log4.quintelligence.com"
-        ],
-        "to_test": [
+            "log4.quintelligence.com",
             "logc25.xiti.com",
             "logc252.xiti.com",
             "logs.comics.com",
@@ -3081,6 +3079,7 @@
             "lycoscollect.247realmedia.com",
             "lycoscollect.realmedia.com",
             "m.adbridge.de",
+            "m.adsymptotic.com",
             "m.de.2mdn.net",
             "m.fr.2mdn.net",
             "m.uk.2mdn.net",
@@ -3336,8 +3335,8 @@
             "mb.5.p2l.info",
             "mba-online.petrovka.info",
             "mbox2.offermatica.com",
-            "mcopolice.com",
             "MCOpolice.com",
+            "mcopolice.com",
             "md.5.p2l.info",
             "mde.ubid.com",
             "mdr.ivwbox.de",
@@ -3455,7 +3454,9 @@
             "media99.fastclick.net",
             "mediafr.247realmedia.com",
             "mediapst-images.adbureau.net",
-            "mediapst.adbureau.net",
+            "mediapst.adbureau.net"
+        ],
+        "to_test": [
             "mediatrack.revenue.net",
             "mediauk.247realmedia.com",
             "mediaupdate41.com",
