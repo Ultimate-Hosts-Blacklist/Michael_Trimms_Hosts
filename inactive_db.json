@@ -4421,9 +4421,7 @@
             "s.xbox.com",
             "s1.buysellads.com",
             "s1.delfilt.adocean.pl",
-            "s1.thecounter.com"
-        ],
-        "to_test": [
+            "s1.thecounter.com",
             "s2.buysellads.com",
             "s2.trafficmaxx.de",
             "s2.youtube.com",
@@ -4514,7 +4512,9 @@
             "select001.adtech.de",
             "select002.adtech.de",
             "select003.adtech.de",
-            "select004.adtech.de",
+            "select004.adtech.de"
+        ],
+        "to_test": [
             "serv.ad-rotator.com",
             "serv2.ad-rotator.com",
             "servads.aip.org",
