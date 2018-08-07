@@ -4512,9 +4512,7 @@
             "select001.adtech.de",
             "select002.adtech.de",
             "select003.adtech.de",
-            "select004.adtech.de"
-        ],
-        "to_test": [
+            "select004.adtech.de",
             "serv.ad-rotator.com",
             "serv2.ad-rotator.com",
             "servads.aip.org",
@@ -4602,7 +4600,9 @@
             "sky.estat.com",
             "sleep-aids.1.p2l.info",
             "slf5cyd.info",
-            "slider.plugrush.com",
+            "slider.plugrush.com"
+        ],
+        "to_test": [
             "sls.update.microsoft.com.akadns.net",
             "sma.punto.net",
             "smart.besonders.ru",
