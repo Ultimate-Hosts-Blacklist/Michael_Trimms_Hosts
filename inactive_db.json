@@ -4293,9 +4293,7 @@
             "raw.oggifinogi.com",
             "rb.newsru.com",
             "rbb.ivwbox.de",
-            "rbqip.pochta.ru"
-        ],
-        "to_test": [
+            "rbqip.pochta.ru",
             "rccl.bridgetrack.com",
             "rd.advertising.com",
             "rd.alphabirdnetwork.com",
@@ -4398,8 +4396,8 @@
             "rubylan.net",
             "rubytag.net",
             "RUSpolice.com",
-            "ruspolice.net",
             "RUSpolice.net",
+            "ruspolice.net",
             "russ-shalavy.ru",
             "s.ad121m.com",
             "s.adklik.com.tr",
@@ -4423,7 +4421,9 @@
             "s.xbox.com",
             "s1.buysellads.com",
             "s1.delfilt.adocean.pl",
-            "s1.thecounter.com",
+            "s1.thecounter.com"
+        ],
+        "to_test": [
             "s2.buysellads.com",
             "s2.trafficmaxx.de",
             "s2.youtube.com",
