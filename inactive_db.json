@@ -508,10 +508,7 @@
             "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
-            "ads.beenetworks.net"
-        ],
-        "to_test": [
-            "protection.ALpolice.com",
+            "ads.beenetworks.net",
             "ads.beta.itravel2000.com",
             "ads.betternetworker.com",
             "ads.bfast.com",
@@ -550,7 +547,6 @@
             "ads.cmg.valueclick.net",
             "ads.cnn.com",
             "ads.cnngo.com",
-            "ads.collegclub.com",
             "ads.collegehumor.com",
             "ads.comediagroup.hu",
             "ads.comicbookresources.com",
@@ -649,7 +645,10 @@
             "ads.infospace.com",
             "ads.insidehighered.com",
             "ads.intellicast.com",
-            "ads.iol.co.il",
+            "ads.iol.co.il"
+        ],
+        "to_test": [
+            "protection.ALpolice.com",
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
