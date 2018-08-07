@@ -4709,9 +4709,7 @@
             "static.cdn.gtsmobi.com",
             "static.crowdscience.com",
             "static.firehunt.com",
-            "static.hitfarm.com"
-        ],
-        "to_test": [
+            "static.hitfarm.com",
             "static.ku6.com",
             "static.l3.cdn.adsucks.com",
             "static.linkz.net",
@@ -4827,7 +4825,9 @@
             "t4.liverail.com",
             "ta.at.ic5mp.net",
             "ta.at.user-mode-linux.net",
-            "tacoda.at.atwola.com",
+            "tacoda.at.atwola.com"
+        ],
+        "to_test": [
             "tag-stats.huffingtonpost.com",
             "tag.admeld.com",
             "tag1.adaptiveads.com",
