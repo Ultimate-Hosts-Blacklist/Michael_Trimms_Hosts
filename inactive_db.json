@@ -807,10 +807,7 @@
             "ads.simtel.net",
             "ads.sixapart.com",
             "ads.sl.interpals.net",
-            "ads.smartclicks.net"
-        ],
-        "to_test": [
-            "protection.ALpolice.com",
+            "ads.smartclicks.net",
             "ads.smartdevicemedia.com",
             "ads.smowtion.com",
             "ads.socialmedia.com",
@@ -960,7 +957,6 @@
             "ads2.advertwizard.com",
             "ads2.canoe.ca",
             "ads2.clickad.com",
-            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
@@ -1051,7 +1047,10 @@
             "adservant.guj.de",
             "adserve.advertising.com",
             "adserve.canadawidemagazines.com",
-            "adserve.mizzenmedia.com",
+            "adserve.mizzenmedia.com"
+        ],
+        "to_test": [
+            "protection.ALpolice.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
             "adserver-live.yoc.mobi",
