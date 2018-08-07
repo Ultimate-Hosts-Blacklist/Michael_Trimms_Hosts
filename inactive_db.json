@@ -645,10 +645,7 @@
             "ads.infospace.com",
             "ads.insidehighered.com",
             "ads.intellicast.com",
-            "ads.iol.co.il"
-        ],
-        "to_test": [
-            "protection.ALpolice.com",
+            "ads.iol.co.il",
             "ads.ireport.com",
             "ads.isum.de",
             "ads.jacksonville.com",
@@ -711,6 +708,7 @@
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
+            "ads.musiccity.com",
             "ads.n-ws.org",
             "ads.nandomedia.com",
             "ads.nationalreview.com",
@@ -731,6 +729,7 @@
             "ads.newtention.net",
             "ads.newtimes.com",
             "ads.ngenuity.com",
+            "ads.nowrunning.com",
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.nwso.net",
@@ -750,6 +749,7 @@
             "ads.pcper.com",
             "ads.pdxguide.com",
             "ads.peninsulaclarion.com",
+            "ads.penny-arcade.com",
             "ads.pennyweb.com",
             "ads.pg.valueclick.net",
             "ads.pheedo.com",
@@ -807,7 +807,10 @@
             "ads.simtel.net",
             "ads.sixapart.com",
             "ads.sl.interpals.net",
-            "ads.smartclicks.net",
+            "ads.smartclicks.net"
+        ],
+        "to_test": [
+            "protection.ALpolice.com",
             "ads.smartdevicemedia.com",
             "ads.smowtion.com",
             "ads.socialmedia.com",
