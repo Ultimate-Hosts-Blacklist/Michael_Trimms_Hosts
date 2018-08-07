@@ -313,10 +313,7 @@
             "adcodes.aim4media.com",
             "adcontent.videoegg.com",
             "adcontrol.tudou.com",
-            "adcontroller.unicast.com"
-        ],
-        "to_test": [
-            "protection.ALpolice.com",
+            "adcontroller.unicast.com",
             "adcount.ohmynews.com",
             "adcounter.globeandmail.com",
             "adcreative.tribuneinteractive.com",
@@ -457,7 +454,6 @@
             "ads-rouge.haber7.com",
             "ads-verify.com",
             "ads-web.mail.com",
-            "ads.3e-news.net",
             "ads.7days.ae",
             "ads.9mp.ro",
             "ads.abs-cbn.com",
@@ -512,7 +508,10 @@
             "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
-            "ads.beenetworks.net",
+            "ads.beenetworks.net"
+        ],
+        "to_test": [
+            "protection.ALpolice.com",
             "ads.beta.itravel2000.com",
             "ads.betternetworker.com",
             "ads.bfast.com",
