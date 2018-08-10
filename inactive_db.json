@@ -191,9 +191,7 @@
             "ad.espn.starwave.com",
             "ad.eurosport.com",
             "ad.f1cd.ru",
-            "ad.favod.net"
-        ],
-        "to_test": [
+            "ad.favod.net",
             "ad.fnnews.com",
             "ad.ghfusion.com",
             "ad.gra.pl",
@@ -282,7 +280,9 @@
             "ad1.netshelter.net",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
-            "ad101com.adbureau.net",
+            "ad101com.adbureau.net"
+        ],
+        "to_test": [
             "ad2.adecn.com",
             "ad2.adinfuse.com",
             "ad2.bbmedia.cz",
