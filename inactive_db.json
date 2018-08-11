@@ -340,9 +340,7 @@
             "ads.gomonews.com",
             "ads.granadamedia.com",
             "ads.greenerworldmedia.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.gunaxin.com",
             "ads.gusanito.com",
             "ads.haber3.com",
@@ -387,7 +385,6 @@
             "ads.juneauempire.com",
             "ads.jwtt3.com",
             "ads.kazaa.com",
-            "ads.kickasstorrents.video",
             "ads.kixer.com",
             "ads.kleinman.com",
             "ads.kokteyl.com",
@@ -431,13 +428,11 @@
             "ads.mobygames.com",
             "ads.moceanads.com",
             "ads.modbee.com",
-            "ads.monogram.sk",
             "ads.monster.com",
             "ads.morningstar.com",
             "ads.msn2go.com",
             "ads.msvp.net",
             "ads.mt.valueclick.net",
-            "ads.musiccity.com",
             "ads.n-ws.org",
             "ads.nandomedia.com",
             "ads.nationalreview.com",
@@ -512,7 +507,9 @@
             "ads.realtechnetwork.net",
             "ads.reason.com",
             "ads.redorbit.com",
-            "ads.reklamlar.net",
+            "ads.reklamlar.net"
+        ],
+        "to_test": [
             "ads.revenews.com",
             "ads.revenue.net",
             "ads.reviewcentre.com",
