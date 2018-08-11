@@ -856,9 +856,7 @@
             "adserver.newtimes.com",
             "adserver.nzoom.com",
             "adserver.omroepflevoland.nl",
-            "adserver.omroepzeeland.nl"
-        ],
-        "to_test": [
+            "adserver.omroepzeeland.nl",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
@@ -974,6 +972,7 @@
             "advert.istanbul.net",
             "advert.uzmantv.com",
             "advertisement.bg",
+            "advertisers.federatedmedia.net",
             "advertising.guildlaunch.net",
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
@@ -988,7 +987,9 @@
             "adwords.google.lloymlincs.com",
             "adworx.at",
             "adx.adosx.com",
-            "adx.adrenalinesk.sk",
+            "adx.adrenalinesk.sk"
+        ],
+        "to_test": [
             "adx.bixee.com",
             "adx.darikweb.com",
             "adx.gainesvillesun.com",
