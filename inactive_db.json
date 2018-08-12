@@ -1105,9 +1105,7 @@
             "aos.gw.youmi.net",
             "apac.rel.msn.com",
             "api.access-mc.com",
-            "api.admob.com"
-        ],
-        "to_test": [
+            "api.admob.com",
             "api.bizographics.com",
             "api.contentclick.co.uk",
             "api.hexagram.com",
@@ -1197,7 +1195,6 @@
             "atm.youku.com",
             "ats.tumri.net",
             "atti.velti.com",
-            "attribution.webmarketing123.com",
             "atvplus.oewabox.at",
             "au.track.decideinteractive.com",
             "au052.insightexpress.com",
@@ -1260,7 +1257,9 @@
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.broadwayworld.com",
-            "banners.citybuild.bg",
+            "banners.citybuild.bg"
+        ],
+        "to_test": [
             "banners.crisscross.com",
             "banners.dnastudio.com",
             "banners.easysolutions.be",
