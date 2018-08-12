@@ -1257,9 +1257,7 @@
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.broadwayworld.com",
-            "banners.citybuild.bg"
-        ],
-        "to_test": [
+            "banners.citybuild.bg",
             "banners.crisscross.com",
             "banners.dnastudio.com",
             "banners.easysolutions.be",
@@ -1308,7 +1306,9 @@
             "beacon.mediahuis.be",
             "beacon.saymedia.com",
             "beacons.helium.com",
-            "beacons.hottraffic.nl",
+            "beacons.hottraffic.nl"
+        ],
+        "to_test": [
             "beloysoff.ru",
             "berkleynude.ca.tt",
             "beseenad.looksmart.com",
