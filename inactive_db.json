@@ -3174,9 +3174,7 @@
             "stats.adbrite.com",
             "stats.articlesbase.com",
             "stats.big-boards.com",
-            "stats.bonzaii.no"
-        ],
-        "to_test": [
+            "stats.bonzaii.no",
             "stats.complex.com",
             "stats.cts-bv.nl",
             "stats.darikweb.com",
@@ -3270,6 +3268,7 @@
             "t.medialytics.com",
             "t.tellapart.com",
             "t.trrker.com",
+            "t1.tentaculos.net",
             "t4.liverail.com",
             "ta.at.ic5mp.net",
             "ta.at.user-mode-linux.net",
@@ -3295,7 +3294,9 @@
             "tattooshaha.info",
             "taxi-petr.by",
             "tcm.affiliation-int.com",
-            "tcy.smartadserver.com",
+            "tcy.smartadserver.com"
+        ],
+        "to_test": [
             "tdkads.ads.dk",
             "te.about.com",
             "te.advance.net",
