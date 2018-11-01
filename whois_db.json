@@ -1450,6 +1450,11 @@
             "expiration_date": "13-jun-2019",
             "state": "future"
         },
+        "ads.dk": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
         "ads01.com": {
             "epoch": "1543104000",
             "expiration_date": "25-nov-2018",
@@ -1538,6 +1543,21 @@
         "adscpm.com": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "adsdaq.com": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "adsdk.com": {
+            "epoch": "1560297600",
+            "expiration_date": "12-jun-2019",
+            "state": "future"
+        },
+        "adsearch.pl": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
             "state": "future"
         },
         "adserv.net": {
