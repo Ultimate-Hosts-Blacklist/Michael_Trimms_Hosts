@@ -7805,6 +7805,11 @@
             "expiration_date": "29-sep-2019",
             "state": "future"
         },
+        "itop.cz": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
         "itrackerpro.com": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
@@ -7976,13 +7981,13 @@
             "state": "future"
         },
         "justrelevant.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "justwebads.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "jwpltx.com": {
@@ -8016,8 +8021,8 @@
             "state": "future"
         },
         "kalantzis.net": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "kanoodle.com": {
