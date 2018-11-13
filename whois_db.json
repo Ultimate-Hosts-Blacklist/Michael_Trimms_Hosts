@@ -6878,7 +6878,7 @@
         "googfle.com": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "google-analytics.com": {
             "epoch": "1563408000",
@@ -6934,6 +6934,11 @@
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
             "state": "future"
+        },
+        "grafstat.ro": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
         },
         "greasypalm.com": {
             "epoch": "1543363200",
@@ -7326,8 +7331,8 @@
             "state": "future"
         },
         "homewares.org": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "honarkhabar.com": {
