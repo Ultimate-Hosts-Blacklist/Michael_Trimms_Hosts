@@ -8433,7 +8433,7 @@
         "kaizentraffic.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "kalantzis.net": {
             "epoch": "1572739200",
@@ -8611,8 +8611,8 @@
             "state": "future"
         },
         "laptoprewardsgroup.com": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
             "state": "future"
         },
         "larivieracasino.com": {
@@ -8628,6 +8628,11 @@
         "lbn.ru": {
             "epoch": "1556755200",
             "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "lcbcad.co.uk": {
+            "epoch": "1560470400",
+            "expiration_date": "14-jun-2019",
             "state": "future"
         },
         "le1er.net": {
