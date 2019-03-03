@@ -2105,6 +2105,11 @@
             "expiration_date": "10-oct-2019",
             "state": "future"
         },
+        "adscampaign.com": {
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
+        },
         "adscampaign.net": {
             "epoch": "1582502400",
             "expiration_date": "24-feb-2020",
@@ -2140,6 +2145,21 @@
             "expiration_date": "03-jul-2019",
             "state": "future"
         },
+        "adsedo.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "adsensecustomsearchads.com": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
+        "adseo.net": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
         "adserv.net": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -2158,6 +2178,11 @@
         "adserver.com": {
             "epoch": "1578441600",
             "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "adserver.net": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
             "state": "future"
         },
         "adserver.pl": {
