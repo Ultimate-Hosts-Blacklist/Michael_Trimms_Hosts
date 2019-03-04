@@ -11656,8 +11656,8 @@
             "state": "future"
         },
         "indiads.com": {
-            "epoch": "1551571200",
-            "expiration_date": "03-mar-2019",
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "indieclick.com": {
@@ -11675,6 +11675,11 @@
             "expiration_date": "26-apr-2020",
             "state": "future"
         },
+        "ineedhits.com": {
+            "epoch": "1616976000",
+            "expiration_date": "29-mar-2021",
+            "state": "future"
+        },
         "inetlog.ru": {
             "epoch": "1566000000",
             "expiration_date": "17-aug-2019",
@@ -11688,6 +11693,11 @@
         "infinityads.com": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
+            "state": "future"
+        },
+        "infinitybet.com": {
+            "epoch": "1602806400",
+            "expiration_date": "16-oct-2020",
             "state": "future"
         },
         "infolinks.com": {
@@ -12078,6 +12088,11 @@
         "itunesdownloadstore.com": {
             "epoch": "1567987200",
             "expiration_date": "09-sep-2019",
+            "state": "future"
+        },
+        "iws.ro": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
             "state": "future"
         },
         "iwstats.com": {
