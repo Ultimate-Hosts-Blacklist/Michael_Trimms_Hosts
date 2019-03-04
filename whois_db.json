@@ -1413,7 +1413,7 @@
         "adfirmative.com": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adflight.com": {
             "epoch": "1583020800",
@@ -1925,6 +1925,11 @@
             "expiration_date": "09-may-2020",
             "state": "future"
         },
+        "adpowerzone.com": {
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
         "adprofile.net": {
             "epoch": "1560729600",
             "expiration_date": "17-jun-2019",
@@ -1940,6 +1945,11 @@
             "expiration_date": "17-nov-2019",
             "state": "future"
         },
+        "adquest3d.com": {
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
         "adrazzi.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
@@ -1953,6 +1963,11 @@
         "adreadytractions.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "adregistry.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
             "state": "future"
         },
         "adremedy.com": {
