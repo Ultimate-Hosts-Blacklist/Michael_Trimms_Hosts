@@ -14341,8 +14341,8 @@
             "state": "future"
         },
         "musiccounter.ru": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "musicmembersarea.com": {
@@ -14773,11 +14773,11 @@
         "nedstatbasic.net": {
             "epoch": "1551657600",
             "expiration_date": "04-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "nedstatpro.net": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "needadvertising.com": {
@@ -14976,8 +14976,8 @@
             "state": "future"
         },
         "ngastatic.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "ngbn.net": {
@@ -15208,6 +15208,11 @@
         "o-oe.com": {
             "epoch": "1573430400",
             "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
+        "oainternet.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
             "state": "future"
         },
         "obada-konstruktiwa.org": {
