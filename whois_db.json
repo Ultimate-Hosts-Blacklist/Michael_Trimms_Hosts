@@ -6420,6 +6420,21 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "clicktale.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "clicktale.net": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "clickterra.net": {
+            "epoch": "1555200000",
+            "expiration_date": "14-apr-2019",
+            "state": "future"
+        },
         "clickthru.net": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
@@ -6433,6 +6448,11 @@
         "clickthrutraffic.com": {
             "epoch": "1579305600",
             "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "clicktilluwin.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
             "state": "future"
         },
         "clicktorrent.info": {
@@ -6468,6 +6488,11 @@
         "clickz.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "clickzs.com": {
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "clickzxc.com": {
@@ -6526,8 +6551,8 @@
             "state": "future"
         },
         "clkrev.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "closeoutproductsreview.com": {
@@ -6713,7 +6738,7 @@
         "comprabanner.it": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "computer-offer.com": {
             "epoch": "1575676800",
