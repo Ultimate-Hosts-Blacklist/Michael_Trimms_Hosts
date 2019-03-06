@@ -1213,7 +1213,7 @@
         "adbunker.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adbutler.com": {
             "epoch": "1678924800",
@@ -1273,6 +1273,11 @@
         "adcloud.net": {
             "epoch": "1579737600",
             "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
+        "adcode.ws": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "adcomplete.com": {
@@ -1411,9 +1416,9 @@
             "state": "future"
         },
         "adfirmative.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
-            "state": "past"
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "adflight.com": {
             "epoch": "1583020800",
@@ -1995,6 +2000,11 @@
             "expiration_date": "13-oct-2020",
             "state": "future"
         },
+        "adrotate.net": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
+            "state": "future"
+        },
         "adrotate.se": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
@@ -2009,6 +2019,11 @@
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
             "state": "past"
+        },
+        "adroz.com": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
         },
         "adrunnr.com": {
             "epoch": "1614643200",
