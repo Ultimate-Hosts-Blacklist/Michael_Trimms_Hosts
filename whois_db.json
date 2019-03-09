@@ -10511,8 +10511,8 @@
             "state": "future"
         },
         "getloan.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "getmailcounter.com": {
@@ -10683,7 +10683,7 @@
         "goat.cx": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "goatse.ca": {
             "epoch": "1559779200",
@@ -10748,6 +10748,11 @@
         "goldadpremium.com": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "goldadvert.cz": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "goldbetsports.com": {
