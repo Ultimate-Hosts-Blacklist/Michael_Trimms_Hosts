@@ -10005,6 +10005,11 @@
             "expiration_date": "20-aug-2018",
             "state": "past"
         },
+        "freestat.ws": {
+            "epoch": "1742342400",
+            "expiration_date": "19-mar-2025",
+            "state": "future"
+        },
         "freestats.com": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
@@ -10013,6 +10018,11 @@
         "freestats.tv": {
             "epoch": "1563926400",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "freestats.ws": {
+            "epoch": "1742342400",
+            "expiration_date": "19-mar-2025",
             "state": "future"
         },
         "freeticketcash.com": {
@@ -10273,7 +10283,7 @@
         "gadgetsytecnologia.com": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "galaxien.com": {
             "epoch": "1578614400",
@@ -10496,13 +10506,13 @@
             "state": "future"
         },
         "getacool100.com": {
-            "epoch": "1552953600",
-            "expiration_date": "19-mar-2019",
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "getacool500.com": {
-            "epoch": "1552953600",
-            "expiration_date": "19-mar-2019",
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "getagiftonline.com": {
