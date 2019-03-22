@@ -10063,7 +10063,7 @@
         "friend-card.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "friend-greetings.com": {
             "epoch": "1590537600",
@@ -10281,9 +10281,9 @@
             "state": "future"
         },
         "gadgetsytecnologia.com": {
-            "epoch": "1553040000",
-            "expiration_date": "20-mar-2019",
-            "state": "past"
+            "epoch": "1584662400",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
         },
         "galaxien.com": {
             "epoch": "1578614400",
