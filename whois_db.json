@@ -2580,6 +2580,11 @@
             "expiration_date": "22-may-2019",
             "state": "future"
         },
+        "adtology3.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
         "adtoma.com": {
             "epoch": "1558224000",
             "expiration_date": "19-may-2019",
@@ -2883,7 +2888,7 @@
         "advertsponsor.com": {
             "epoch": "1553385600",
             "expiration_date": "24-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "advertstream.com": {
             "epoch": "1574726400",
