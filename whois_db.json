@@ -2955,6 +2955,11 @@
             "expiration_date": "02-jul-2019",
             "state": "future"
         },
+        "advserver.xyz": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
         "advzilla.com": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
@@ -3311,9 +3316,9 @@
             "state": "future"
         },
         "alisat.biz": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
         },
         "all2lnk.com": {
             "epoch": "1573948800",
