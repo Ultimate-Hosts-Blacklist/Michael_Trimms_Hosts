@@ -19343,7 +19343,7 @@
         "sitemeter.com": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sitepalace.com": {
             "epoch": "1570665600",
@@ -20073,6 +20073,11 @@
         "stabx.net": {
             "epoch": "1559001600",
             "expiration_date": "28-may-2019",
+            "state": "future"
+        },
+        "stackoverflow.xyz": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
             "state": "future"
         },
         "stailapoza.ro": {
