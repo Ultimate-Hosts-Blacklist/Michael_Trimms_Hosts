@@ -7428,7 +7428,7 @@
         "csgobig.com": {
             "epoch": "1555027200",
             "expiration_date": "12-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "csgobigbets.com": {
             "epoch": "1585353600",
@@ -7631,8 +7631,8 @@
             "state": "future"
         },
         "csgorich.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "csgoshuffle.com": {
@@ -8106,9 +8106,9 @@
             "state": "future"
         },
         "dimenal.com.br": {
-            "epoch": "1554508800",
-            "expiration_date": "06-apr-2019",
-            "state": "past"
+            "epoch": "1617667200",
+            "expiration_date": "06-apr-2021",
+            "state": "future"
         },
         "dimsnetwork.com": {
             "epoch": "1575763200",
