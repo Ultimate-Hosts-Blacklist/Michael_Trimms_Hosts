@@ -5318,7 +5318,7 @@
         "bnhtml.com": {
             "epoch": "1555200000",
             "expiration_date": "14-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "bnmq.com": {
             "epoch": "1564790400",
@@ -6021,9 +6021,9 @@
             "state": "future"
         },
         "casinotreasure.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
-            "state": "past"
+            "epoch": "1586649600",
+            "expiration_date": "12-apr-2020",
+            "state": "future"
         },
         "casinotropez.com": {
             "epoch": "1651536000",
@@ -6071,8 +6071,8 @@
             "state": "future"
         },
         "cc-dt.com": {
-            "epoch": "1555200000",
-            "expiration_date": "14-apr-2019",
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
             "state": "future"
         },
         "cc898.com": {
@@ -6081,8 +6081,8 @@
             "state": "future"
         },
         "ccbill.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "ccbilleu.com": {
