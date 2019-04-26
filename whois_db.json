@@ -22043,7 +22043,7 @@
         "treeloot.com": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "trekblue.com": {
             "epoch": "1571961600",
@@ -22128,6 +22128,11 @@
         "trkr1.com": {
             "epoch": "1581552000",
             "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
+        "tropiccritics.com": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "trovi.com": {
@@ -22573,7 +22578,7 @@
         "v-links.net": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "v61.com": {
             "epoch": "1621123200",
