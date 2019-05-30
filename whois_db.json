@@ -8150,8 +8150,8 @@
         "state": "future"
     },
     "directivepub.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "directleads.com": {
@@ -10792,6 +10792,11 @@
     "goclick.com": {
         "epoch": "1612656000",
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "gogetgorgeous.com": {
+        "epoch": 1622160000,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "goggle.com": {
