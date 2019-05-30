@@ -2285,8 +2285,8 @@
         "state": "future"
     },
     "adsgangsta.com": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "adsharenetwork.com": {
@@ -10490,9 +10490,9 @@
         "state": "future"
     },
     "gennaroespositomilano.it": {
-        "epoch": "1558828800",
+        "epoch": 1558828800,
         "expiration_date": "26-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "gentingcasino.com": {
         "epoch": "1687996800",
@@ -16767,6 +16767,11 @@
     "phlpolice.com": {
         "epoch": "1576800000",
         "expiration_date": "20-dec-2019",
+        "state": "future"
+    },
+    "phoenixads.co.in": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
         "state": "future"
     },
     "phonejapan.com": {
