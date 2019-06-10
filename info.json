@@ -1,17 +1,17 @@
 {
     "current_stats": {
-        "builds": 16,
+        "builds": 17,
         "counter": {
-            "down": 4378,
-            "invalid": 31,
-            "tested": 17657,
-            "up": 13248
+            "down": 4690,
+            "invalid": 32,
+            "tested": 18835,
+            "up": 14113
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Mon Jun 10 22:07:26 2019",
-    "last_autosave_epoch": 1560204446.200094,
+    "last_autosave_datetime": "Mon Jun 10 22:44:00 2019",
+    "last_autosave_epoch": 1560206640.753379,
     "name": "Michael_Trimms_Hosts",
     "raw_link": "https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt",
     "start_datetime": "Mon Jun 10 15:03:43 2019",
