@@ -1134,6 +1134,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "adservicestats.com": {
+        "epoch": 1556409600,
+        "expiration_date": "28-apr-2019",
+        "state": "past"
+    },
     "adservone.com": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
@@ -4232,6 +4237,11 @@
     "etraffic.com": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "euniverseads.com": {
+        "epoch": 1581984000,
+        "expiration_date": "18-feb-2020",
         "state": "future"
     },
     "eurekster.com": {
@@ -9152,6 +9162,11 @@
     "skattabrain.com": {
         "epoch": 1567900800,
         "expiration_date": "08-sep-2019",
+        "state": "future"
+    },
+    "skedina.com": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "skiholidays4beginners.com": {
