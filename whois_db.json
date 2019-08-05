@@ -224,6 +224,11 @@
         "expiration_date": "28-may-2019",
         "state": "past"
     },
+    "askto.net": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "atpanel.com": {
         "epoch": 1607385600,
         "expiration_date": "08-dec-2020",
@@ -687,6 +692,11 @@
     "globaltakeoff.net": {
         "epoch": 1685318400,
         "expiration_date": "29-may-2023",
+        "state": "future"
+    },
+    "goodbizez.com": {
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "googlesyndication.com": {
