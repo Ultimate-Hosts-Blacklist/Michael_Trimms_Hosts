@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 71,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Mon Aug  5 14:27:43 2019",
+    "end_epoch": 1565015263.2103,
+    "last_autosave_datetime": "Mon Aug  5 14:12:09 2019",
+    "last_autosave_epoch": 1565014329.524594,
+    "name": "Michael_Trimms_Hosts",
+    "previous_stats": {
+        "builds": 72,
+        "clean.list": 24292,
         "counter": {
             "down": 8287,
             "invalid": 58,
             "tested": 32637,
             "up": 24292
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Tue Jul 30 22:33:18 2019",
-    "end_epoch": 1564525998.073183,
-    "last_autosave_datetime": "Mon Aug  5 14:12:09 2019",
-    "last_autosave_epoch": 1565014329.524594,
-    "name": "Michael_Trimms_Hosts",
-    "previous_stats": {
-        "builds": 22,
-        "clean.list": 24289,
-        "counter": {
-            "down": 8255,
-            "invalid": 53,
-            "tested": 32597,
-            "up": 24289
         },
-        "domains.list": 32597,
-        "volatile.list": 24323,
-        "whitelisted.list": 24281
+        "domains.list": 32637,
+        "volatile.list": 24325,
+        "whitelisted.list": 24284
     },
     "raw_link": "https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt",
     "start_datetime": "Thu Aug  1 15:34:14 2019",
