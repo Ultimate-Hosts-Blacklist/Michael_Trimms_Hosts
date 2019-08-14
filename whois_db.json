@@ -39,6 +39,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "a-counter.kiev.ua": {
+        "epoch": 1564617600,
+        "expiration_date": "01-aug-2019",
+        "state": "past"
+    },
     "a-msedge.net": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -999,6 +1004,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "online-metrix.net": {
+        "epoch": 1634342400,
+        "expiration_date": "16-oct-2021",
+        "state": "future"
+    },
     "onlineuserscounter.com": {
         "epoch": 1560556800,
         "expiration_date": "15-jun-2019",
@@ -1497,6 +1507,11 @@
     "xg4ken.com": {
         "epoch": 1713916800,
         "expiration_date": "24-apr-2024",
+        "state": "future"
+    },
+    "xmlheads.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "xwell.ru": {
