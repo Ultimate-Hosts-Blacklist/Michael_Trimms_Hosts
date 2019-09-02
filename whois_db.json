@@ -254,6 +254,11 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "adprojekt.pl": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "adrotate.se": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
@@ -1279,6 +1284,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "expressdelivery.biz": {
+        "epoch": 1581465600,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "eyeblaster.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -1644,10 +1654,20 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "ibmvideo.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "idcounter.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
         "state": "future"
+    },
+    "idot.cz": {
+        "epoch": 1562976000,
+        "expiration_date": "13-jul-2019",
+        "state": "past"
     },
     "idregie.com": {
         "epoch": 1585526400,
@@ -2327,6 +2347,11 @@
     "passion-4.net": {
         "epoch": 1581033600,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "pathforpoints.com": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "pay-ads.com": {
@@ -3027,6 +3052,11 @@
     "top-site-list.com": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "top100.ro": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "top100lists.ca": {
