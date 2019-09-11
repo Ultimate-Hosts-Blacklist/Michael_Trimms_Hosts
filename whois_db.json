@@ -4574,6 +4574,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "dcanscapital.co.uk": {
+        "epoch": 1559174400,
+        "expiration_date": "30-may-2019",
+        "state": "past"
+    },
     "dctracking.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -5913,6 +5918,11 @@
         "epoch": 1590537600,
         "expiration_date": "27-may-2020",
         "state": "future"
+    },
+    "friendgreetings.com": {
+        "epoch": 1563580800,
+        "expiration_date": "20-jul-2019",
+        "state": "past"
     },
     "friendgreetings.net": {
         "epoch": 1596672000,
