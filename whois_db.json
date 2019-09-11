@@ -2709,6 +2709,11 @@
         "expiration_date": "12-aug-2024",
         "state": "future"
     },
+    "betngo.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "betondunhill.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
@@ -7624,6 +7629,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "kliksaya.com": {
+        "epoch": 1617926400,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "kmindex.ru": {
         "epoch": 1593648000,
         "expiration_date": "02-jul-2020",
@@ -8385,9 +8395,9 @@
         "state": "future"
     },
     "mercuras.com": {
-        "epoch": 1561593600,
-        "expiration_date": "27-jun-2019",
-        "state": "past"
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
     },
     "merryholidays.org": {
         "epoch": 1575417600,
