@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 4,
+        "builds": 5,
         "counter": {
-            "down": 2001,
-            "invalid": 11,
-            "tested": 7567,
-            "up": 5555
+            "down": 2454,
+            "invalid": 13,
+            "tested": 9419,
+            "up": 6952
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Sep 16 17:14:20 2019",
     "end_epoch": 1568654060.081013,
-    "last_autosave_datetime": "Tue Sep 17 13:22:07 2019",
-    "last_autosave_epoch": 1568726527.489437,
+    "last_autosave_datetime": "Tue Sep 17 14:09:01 2019",
+    "last_autosave_epoch": 1568729341.413629,
     "name": "Michael_Trimms_Hosts",
     "previous_stats": {
         "builds": 32,
