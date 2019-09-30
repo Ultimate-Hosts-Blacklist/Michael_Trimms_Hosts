@@ -7689,6 +7689,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "vug.in": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "vungle.com": {
         "epoch": 1666742400,
         "expiration_date": "26-oct-2022",
@@ -8202,6 +8207,11 @@
     "zipitfast.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "zugo.com": {
+        "epoch": 1805846400,
+        "expiration_date": "24-mar-2027",
         "state": "future"
     }
 }
