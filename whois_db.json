@@ -589,6 +589,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "admonitor.com": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "adnet.biz": {
         "epoch": 1585180800,
         "expiration_date": "26-mar-2020",
@@ -5274,6 +5279,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "question2answer.com": {
+        "epoch": 1660435200,
+        "expiration_date": "14-aug-2022",
+        "state": "future"
+    },
     "quickcash-system.com": {
         "epoch": 1600473600,
         "expiration_date": "19-sep-2020",
@@ -6577,6 +6587,11 @@
     "trafficmagnet.net": {
         "epoch": 1600387200,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "trafficpace.com": {
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "trafficspaces.net": {
