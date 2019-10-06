@@ -1734,6 +1734,11 @@
         "expiration_date": "16-dec-2019",
         "state": "future"
     },
+    "casalmedia.com": {
+        "epoch": 1588896000,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "cash4downloads.com": {
         "epoch": 1589241600,
         "expiration_date": "12-may-2020",
@@ -2372,6 +2377,11 @@
     "dntx.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "do-not-tracker.org": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "dodostats.com": {
