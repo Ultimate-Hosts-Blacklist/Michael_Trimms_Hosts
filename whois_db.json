@@ -3584,6 +3584,11 @@
         "expiration_date": "29-mar-2024",
         "state": "future"
     },
+    "httpwwwadserver.com": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
     "hubtraffic.com": {
         "epoch": 1633564800,
         "expiration_date": "07-oct-2021",
@@ -7352,6 +7357,11 @@
     "webwise.com": {
         "epoch": 1609372800,
         "expiration_date": "31-dec-2020",
+        "state": "future"
+    },
+    "webwise.net": {
+        "epoch": 1609286400,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "webwise.org": {
