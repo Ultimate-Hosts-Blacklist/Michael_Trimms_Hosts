@@ -5434,6 +5434,11 @@
         "expiration_date": "02-feb-2020",
         "state": "future"
     },
+    "prscripts.com": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
     "prsitecheck.com": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
@@ -7697,6 +7702,11 @@
     "zangocash.com": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "zantracker.com": {
+        "epoch": 1589155200,
+        "expiration_date": "11-may-2020",
         "state": "future"
     },
     "zapunited.com": {
