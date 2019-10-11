@@ -784,6 +784,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "adserver.com": {
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
+        "state": "future"
+    },
     "adservicestats.com": {
         "epoch": 1595030400,
         "expiration_date": "18-jul-2020",
@@ -1724,6 +1729,11 @@
         "expiration_date": "18-nov-2021",
         "state": "future"
     },
+    "bitmedianetwork.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "bizrate.com": {
         "epoch": 1619308800,
         "expiration_date": "25-apr-2021",
@@ -2107,6 +2117,11 @@
     "chemgas.com": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "chiaperottipaolo.it": {
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "chitika.net": {
@@ -5974,6 +5989,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "projectwonderful.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "prolapseman.com": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
@@ -8434,6 +8454,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "yieldlab.net": {
+        "epoch": 1594771200,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "yieldmanager.com": {
         "epoch": 1596844800,
         "expiration_date": "08-aug-2020",
@@ -8554,6 +8579,12 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "zugo.com": {
+        "epoch": 1805846400,
+        "expiration_date": "24-mar-2027",
+        "state": "future"
+    }
+}},
     "zugo.com": {
         "epoch": 1805846400,
         "expiration_date": "24-mar-2027",
