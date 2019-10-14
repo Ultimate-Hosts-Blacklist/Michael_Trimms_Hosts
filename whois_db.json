@@ -1,4 +1,9 @@
 {
+    "1bet2bet.com": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "1x1rank.com": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -7,6 +12,11 @@
     "2girls1finger.com": {
         "epoch": 1636675200,
         "expiration_date": "12-nov-2021",
+        "state": "future"
+    },
+    "360yield.com": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "4affiliate.net": {
@@ -319,9 +329,19 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "clicktripz.com": {
+        "epoch": 1675814400,
+        "expiration_date": "08-feb-2023",
+        "state": "future"
+    },
     "clustrmaps.com": {
         "epoch": 1686960000,
         "expiration_date": "17-jun-2023",
+        "state": "future"
+    },
+    "cnomy.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "connect5364.com": {
@@ -759,6 +779,11 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "ptp4ever.net": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
     "qbop.com": {
         "epoch": 1579737600,
         "expiration_date": "23-jan-2020",
@@ -772,6 +797,11 @@
     "reefclubcasino.com": {
         "epoch": 1715731200,
         "expiration_date": "15-may-2024",
+        "state": "future"
+    },
+    "richmails.com": {
+        "epoch": 1585785600,
+        "expiration_date": "02-apr-2020",
         "state": "future"
     },
     "robotreplay.com": {
@@ -957,6 +987,11 @@
     "tommyfrench.com": {
         "epoch": 1662076800,
         "expiration_date": "02-sep-2022",
+        "state": "future"
+    },
+    "tomwaterhouse.com": {
+        "epoch": 1823299200,
+        "expiration_date": "12-oct-2027",
         "state": "future"
     },
     "topwin.cc": {
