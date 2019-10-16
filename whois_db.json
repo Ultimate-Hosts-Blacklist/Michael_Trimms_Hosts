@@ -1319,6 +1319,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "kadman.net": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "kcta.or.kr": {
         "epoch": 1602720000,
         "expiration_date": "15-oct-2020",
@@ -1557,6 +1562,11 @@
     "nctracking.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "nedstat.co.uk": {
+        "epoch": 1577404800,
+        "expiration_date": "27-dec-2019",
         "state": "future"
     },
     "net-pratique.fr": {
@@ -2072,6 +2082,11 @@
     "statcounter.com": {
         "epoch": 1578182400,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "statistik-gallup.dk": {
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "stats.net": {
