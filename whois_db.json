@@ -3309,6 +3309,11 @@
         "expiration_date": "20-mar-2022",
         "state": "future"
     },
+    "applicationstat.com": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "applift.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
@@ -8192,6 +8197,11 @@
     "ethpolice.com": {
         "epoch": 1576713600,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "etraffic.com": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "eu-adcenter.net": {
