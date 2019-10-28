@@ -6139,6 +6139,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "cloudtracked.com": {
+        "epoch": 1565395200,
+        "expiration_date": "10-aug-2019",
+        "state": "past"
+    },
     "clownsong.com": {
         "epoch": 1588291200,
         "expiration_date": "01-may-2020",
@@ -16647,6 +16652,11 @@
     "rtcode.com": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "rtrgt2.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "ru-traffic.com": {
