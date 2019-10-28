@@ -7334,6 +7334,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "digiaquascr.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "digibet.com": {
         "epoch": 1585958400,
         "expiration_date": "04-apr-2020",
@@ -9967,7 +9972,7 @@
     "gtop.ro": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gtop100.com": {
         "epoch": 1650672000,
@@ -19557,6 +19562,11 @@
     "torjackan.info": {
         "epoch": 1627257600,
         "expiration_date": "26-jul-2021",
+        "state": "future"
+    },
+    "tossoffads.com": {
+        "epoch": 1584230400,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "totaladperformance.com": {
