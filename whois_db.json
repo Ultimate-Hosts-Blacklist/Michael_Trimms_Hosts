@@ -2194,6 +2194,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "adsoftware.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "adsoldier.com": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
@@ -11032,6 +11037,11 @@
     "interapostas.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "intergi.com": {
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "intermediaceli.com": {
@@ -19895,9 +19905,9 @@
         "state": "future"
     },
     "trafsearchonline.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "traktum.com": {
         "epoch": 1831766400,
