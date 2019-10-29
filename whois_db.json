@@ -2329,6 +2329,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "adszooks.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "adtactics.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -18075,8 +18080,8 @@
         "state": "future"
     },
     "sportsbooks.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "sportsbookusa.com": {
