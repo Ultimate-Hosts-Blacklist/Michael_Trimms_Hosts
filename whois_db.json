@@ -314,6 +314,11 @@
         "expiration_date": "08-sep-2020",
         "state": "future"
     },
+    "advancetec.co.uk": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "past"
+    },
     "advconversion.com": {
         "epoch": 1594512000,
         "expiration_date": "12-jul-2020",
@@ -1479,6 +1484,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "mytotalsearch.com": {
+        "epoch": 1634256000,
+        "expiration_date": "15-oct-2021",
+        "state": "future"
+    },
     "mywebsearch.com": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
@@ -2252,6 +2262,11 @@
     "webwise.net": {
         "epoch": 1609286400,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "weownthetraffic.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "wettpunkt.com": {
