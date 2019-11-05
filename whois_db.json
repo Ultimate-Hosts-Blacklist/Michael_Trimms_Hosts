@@ -484,6 +484,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "bestshockers.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "betfred.com": {
         "epoch": 1582156800,
         "expiration_date": "20-feb-2020",
@@ -743,6 +748,11 @@
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
         "state": "future"
+    },
+    "csgo-try.com": {
+        "epoch": 1567382400,
+        "expiration_date": "02-sep-2019",
+        "state": "past"
     },
     "csgorage.com": {
         "epoch": 1582502400,
@@ -1764,6 +1774,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "promotion-campaigns.com": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
+        "state": "past"
+    },
     "propellerpops.com": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
@@ -1929,6 +1944,11 @@
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
+    "skedina.com": {
+        "epoch": 1578268800,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
     "smaato.net": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
@@ -2087,6 +2107,11 @@
     "thesurfshield.com": {
         "epoch": 1622937600,
         "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
+    "theuseful.net": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "thrnt.com": {
