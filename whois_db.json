@@ -249,6 +249,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "adrzr.com": {
+        "epoch": 1574553600,
+        "expiration_date": "24-nov-2019",
+        "state": "future"
+    },
     "ads.cc": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -2004,6 +2009,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "rtbpop.com": {
+        "epoch": 1575590400,
+        "expiration_date": "06-dec-2019",
+        "state": "future"
+    },
     "ru4.com": {
         "epoch": 1573603200,
         "expiration_date": "13-nov-2019",
@@ -2413,6 +2423,11 @@
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
         "state": "future"
+    },
+    "tubedspots.com": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "past"
     },
     "tvnews.or.kr": {
         "epoch": 1594512000,
