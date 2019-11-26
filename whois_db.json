@@ -559,6 +559,11 @@
         "expiration_date": "24-feb-2029",
         "state": "future"
     },
+    "creditwagering.com": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
     "csgo-gambler.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
@@ -893,6 +898,11 @@
         "epoch": 1663545600.0,
         "expiration_date": "19-sep-2022",
         "state": "future"
+    },
+    "gsmtop.net": {
+        "epoch": 1569888000.0,
+        "expiration_date": "01-oct-2019",
+        "state": "past"
     },
     "gtop.ro": {
         "epoch": 1572220800.0,
@@ -1354,6 +1364,11 @@
         "expiration_date": "30-sep-2019",
         "state": "past"
     },
+    "primaryads.com": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "productresearchpanel.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -1682,6 +1697,11 @@
     "trackersimulator.org": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "tracksy.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "trafficcashgold.com": {
