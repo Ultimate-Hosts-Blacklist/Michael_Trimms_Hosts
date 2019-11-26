@@ -439,6 +439,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "blueadvertise.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
     "bonzi.com": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -492,6 +497,11 @@
     "christianbusinessadvertising.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "clickhype.com": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "clicksor.com": {
@@ -1219,6 +1229,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "moodoocrv.com.cn": {
+        "epoch": 1570752000.0,
+        "expiration_date": "11-oct-2019",
+        "state": "past"
+    },
     "mtldesigns.ca": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -1243,6 +1258,11 @@
         "epoch": 1569024000.0,
         "expiration_date": "21-sep-2019",
         "state": "past"
+    },
+    "nedstat.co.uk": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
     },
     "nedstat.com": {
         "epoch": 1589846400.0,
@@ -1882,6 +1902,11 @@
     "yourgascards.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "zdbb.net": {
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
         "state": "future"
     },
     "zenkreka.com": {
