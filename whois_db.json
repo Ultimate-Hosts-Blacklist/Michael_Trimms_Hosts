@@ -24,6 +24,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "4dexports.com": {
+        "epoch": 1570406400.0,
+        "expiration_date": "07-oct-2019",
+        "state": "past"
+    },
     "518ad.com": {
         "epoch": 1741132800.0,
         "expiration_date": "05-mar-2025",
@@ -464,6 +469,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "clkmon.com": {
+        "epoch": 1575849600.0,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
     "codeotel.com": {
         "epoch": 1572480000.0,
         "expiration_date": "31-oct-2019",
@@ -678,6 +688,11 @@
         "epoch": 1569715200.0,
         "expiration_date": "29-sep-2019",
         "state": "past"
+    },
+    "fimc.net": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
     },
     "findit-quick.com": {
         "epoch": 1584057600.0,
@@ -984,6 +999,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "irs01.net": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "ism2trk.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -1147,6 +1167,11 @@
     "nedstat.net": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "nedstatpro.net": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "net-radar.com": {
