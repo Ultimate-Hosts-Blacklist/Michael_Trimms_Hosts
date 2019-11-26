@@ -114,6 +114,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "adnetxchange.com": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
     "adnexus.net": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -1342,6 +1347,11 @@
     "slopeaota.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "smaato.net": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "snapads.com": {
