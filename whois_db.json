@@ -69,6 +69,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "actrck.com": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "state": "future"
+    },
     "ad-balancer.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
@@ -424,6 +429,11 @@
         "expiration_date": "18-nov-2021",
         "state": "future"
     },
+    "blogtoplist.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "bonzi.com": {
         "epoch": 1631491200.0,
         "expiration_date": "13-sep-2021",
@@ -507,6 +517,11 @@
     "computer-offer.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "computertechanalysis.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
         "state": "future"
     },
     "confirmed-profits.com": {
@@ -1334,9 +1349,19 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "premiumvideoupdates.com": {
+        "epoch": 1569801600.0,
+        "expiration_date": "30-sep-2019",
+        "state": "past"
+    },
     "productresearchpanel.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "protizer.ru": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "pt21na.com": {
@@ -1737,6 +1762,11 @@
     "wonderlandads.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "worldstar.co.ug": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "wp-club.net": {
