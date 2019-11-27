@@ -1569,6 +1569,11 @@
         "expiration_date": "31-jan-2020",
         "state": "future"
     },
+    "romsigmed.ro": {
+        "epoch": 1569283200.0,
+        "expiration_date": "24-sep-2019",
+        "state": "past"
+    },
     "rotabanner.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -2002,6 +2007,11 @@
     "xwell.ru": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "xxxmyself.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "yabuka.com": {
