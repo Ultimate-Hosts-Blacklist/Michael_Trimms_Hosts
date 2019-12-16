@@ -875,9 +875,9 @@
         "state": "future"
     },
     "gtop.ro": {
-        "epoch": 1572220800.0,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "gxplugin.com": {
         "epoch": 1590710400.0,
@@ -1457,6 +1457,11 @@
     "safaribet.com.gh": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "samvo.com": {
+        "epoch": 1668124800.0,
+        "expiration_date": "11-nov-2022",
         "state": "future"
     },
     "savings-time.com": {
