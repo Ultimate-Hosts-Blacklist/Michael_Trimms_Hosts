@@ -134,6 +134,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "adexprt.com": {
+        "epoch": 1571097600.0,
+        "expiration_date": "15-oct-2019",
+        "state": "past"
+    },
     "adjuggler.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -147,6 +152,11 @@
     "adnexus.net": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "adprojekt.pl": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "adquest3d.com": {
@@ -174,6 +184,11 @@
         "expiration_date": "02-nov-2021",
         "state": "future"
     },
+    "adsonar.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "adsstat.com": {
         "epoch": 1572393600.0,
         "expiration_date": "30-oct-2019",
@@ -182,6 +197,11 @@
     "adsvidsdouble.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "adszooks.com": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "adtaily.pl": {
@@ -495,9 +515,9 @@
         "state": "future"
     },
     "crackspider.us": {
-        "epoch": 1569801600.0,
-        "expiration_date": "30-sep-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "crawlability.com": {
         "epoch": 1583020800.0,
@@ -694,7 +714,17 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "formessengers.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "freefuelcard.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "freefuelcoupon.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
@@ -707,6 +737,11 @@
     "freelaptopreward.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "freenation.com": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "funwebproducts.com": {
@@ -779,6 +814,16 @@
         "expiration_date": "28-oct-2019",
         "state": "past"
     },
+    "gxplugin.com": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "haoyunlaid.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
+    },
     "hitboxbenchmarker.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -847,6 +892,11 @@
     "insightfirst.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "ipl.hk": {
+        "epoch": 1717372800.0,
+        "expiration_date": "03-jun-2024",
         "state": "future"
     },
     "irisheyesbet.com": {
@@ -992,6 +1042,11 @@
     "merchantapp.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "mftracking.com": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "mixtraffic.com": {
@@ -1364,6 +1419,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "super88.club": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "surplus-suppliers.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
@@ -1554,6 +1614,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "xicaxique.com.br": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "xmlheads.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -1567,6 +1632,11 @@
     "yabuka.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
+    "yesads.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "yesadvertising.com": {
