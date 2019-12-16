@@ -469,6 +469,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "click10.com": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "clickbrokers.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
@@ -793,6 +798,11 @@
         "epoch": 1570665600.0,
         "expiration_date": "10-oct-2019",
         "state": "past"
+    },
+    "gar-tech.com": {
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "state": "future"
     },
     "geobet.com": {
         "epoch": 1579737600.0,
@@ -1392,6 +1402,11 @@
     "resolvingserver.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
+    "rewardblvd.com": {
+        "epoch": 1580428800.0,
+        "expiration_date": "31-jan-2020",
         "state": "future"
     },
     "romsigmed.ro": {
