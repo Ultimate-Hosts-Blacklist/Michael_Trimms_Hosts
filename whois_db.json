@@ -1439,6 +1439,11 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "pc-virus-d0l92j2.pw": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "peer39.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -1652,6 +1657,11 @@
     "searchadv.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
+        "state": "future"
+    },
+    "searchfeast.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "searchforit.com": {
@@ -2073,6 +2083,11 @@
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
         "state": "future"
+    },
+    "ziccardia.com": {
+        "epoch": 1571788800.0,
+        "expiration_date": "23-oct-2019",
+        "state": "past"
     },
     "zipitfast.com": {
         "epoch": 1580601600.0,
