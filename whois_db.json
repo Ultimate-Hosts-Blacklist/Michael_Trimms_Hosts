@@ -319,6 +319,11 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "bannert.ru": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "bargainracks.co.uk": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -377,6 +382,11 @@
     "blogtoplist.com": {
         "epoch": 1625097600.0,
         "expiration_date": "01-jul-2021",
+        "state": "future"
+    },
+    "bulletads.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "buyhitscheap.com": {
@@ -674,6 +684,11 @@
         "expiration_date": "10-oct-2019",
         "state": "past"
     },
+    "geobet.com": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
     "getacool100.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
@@ -692,6 +707,11 @@
     "globaltakeoff.net": {
         "epoch": 1685318400.0,
         "expiration_date": "29-may-2023",
+        "state": "future"
+    },
+    "goldbetsports.com": {
+        "epoch": 1582502400.0,
+        "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "goodbookbook.com": {
@@ -1179,6 +1199,11 @@
         "expiration_date": "23-feb-2022",
         "state": "future"
     },
+    "quotidiennokoue.com": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "redsheriff.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
@@ -1257,7 +1282,7 @@
     "silurian.cn": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sitestat.com": {
         "epoch": 1594684800.0,
@@ -1413,6 +1438,11 @@
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
         "state": "future"
+    },
+    "top55.ro": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
     },
     "top99.ro": {
         "epoch": 1570406400.0,
