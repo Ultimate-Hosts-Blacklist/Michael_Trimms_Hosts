@@ -234,6 +234,11 @@
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "adservtech.com": {
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "state": "future"
+    },
     "adsonar.com": {
         "epoch": 1623196800.0,
         "expiration_date": "09-jun-2021",
@@ -547,6 +552,11 @@
     "collectiveads.net": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "compactads.com": {
+        "epoch": 1577750400.0,
+        "expiration_date": "31-dec-2019",
         "state": "future"
     },
     "computer-offer.com": {
