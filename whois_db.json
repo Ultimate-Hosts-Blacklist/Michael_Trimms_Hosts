@@ -894,6 +894,16 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "nedstat.co.uk": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "newjunk4u.com": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "news6health.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
@@ -1283,6 +1293,11 @@
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
         "state": "past"
+    },
+    "top100lists.ca": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "top99.ro": {
         "epoch": 1601942400.0,
