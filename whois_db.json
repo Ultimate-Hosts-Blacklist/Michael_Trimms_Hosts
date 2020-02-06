@@ -99,6 +99,11 @@
         "expiration_date": "22-sep-2021",
         "state": "future"
     },
+    "ad-balancer.net": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "ad-delivery.net": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -1462,6 +1467,11 @@
     "qbike.com.br": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "quigo.com": {
+        "epoch": 1645574400.0,
+        "expiration_date": "23-feb-2022",
         "state": "future"
     },
     "quotidiennokoue.com": {
