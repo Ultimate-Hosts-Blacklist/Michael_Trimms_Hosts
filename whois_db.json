@@ -60,9 +60,9 @@
         "state": "future"
     },
     "7vws1j1j.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
-        "state": "past"
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
     },
     "94uyvwwh.com": {
         "epoch": 1612483200.0,
@@ -107,6 +107,11 @@
     "ad-balancer.net": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "ad-clix.com": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "ad-delivery.net": {
