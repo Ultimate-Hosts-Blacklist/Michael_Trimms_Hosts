@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 255,
+        "builds": 256,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.",
     "end_datetime": "2020-03-03T14:58:54.745490",
     "end_epoch": 1582964275.914585,
+    "issue_link": "https://github.com/michaeltrimm/hosts-blocking/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T14:58:54.745507",
     "last_autosave_epoch": 1583243050.616167,
+    "link": "https://github.com/michaeltrimm/hosts-blocking/",
     "name": "Michael_Trimms_Hosts",
     "previous_stats": {
         "builds": 95,
@@ -35,9 +38,6 @@
         "whitelisted.list": 24176
     },
     "raw_link": "https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt",
-    "link": "https://github.com/michaeltrimm/hosts-blocking/",
-    "issue_link": "https://github.com/michaeltrimm/hosts-blocking/issues/new/choose",
-    "description": "Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.",
     "start_datetime": "2020-03-03T14:58:54.749689",
     "start_epoch": 1583084814.224289
 }
