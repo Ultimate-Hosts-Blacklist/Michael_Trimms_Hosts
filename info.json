@@ -35,6 +35,9 @@
         "whitelisted.list": 24176
     },
     "raw_link": "https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt",
+    "link": "https://github.com/michaeltrimm/hosts-blocking/",
+    "issue_link": "https://github.com/michaeltrimm/hosts-blocking/issues/new/choose",
+    "description": "Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.",
     "start_datetime": "2020-03-03T14:58:54.749689",
     "start_epoch": 1583084814.224289
 }
