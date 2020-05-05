@@ -1817,7 +1817,7 @@
     "adreadytractions.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adremedy.com": {
         "epoch": 1602028800.0,
@@ -3369,6 +3369,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "askbot.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
+    },
     "asklots.com": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
@@ -3802,6 +3807,11 @@
     "bcservice.it": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "bde3d.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "bdgadv.ru": {
@@ -6335,8 +6345,8 @@
         "state": "future"
     },
     "cortesidesign.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "cosmetice-farduri.ro": {
@@ -12877,6 +12887,11 @@
     "mp3musichq.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "mpmotrk.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "mpression.net": {
