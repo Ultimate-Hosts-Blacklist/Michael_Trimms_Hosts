@@ -1640,8 +1640,8 @@
         "state": "future"
     },
     "admarket.cz": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "admarketplace.net": {
@@ -14569,6 +14569,11 @@
         "expiration_date": "16-oct-2021",
         "state": "future"
     },
+    "onlinecash.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
     "onlinecashmethod.com": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
@@ -15489,6 +15494,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "pollmonkey.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "pop-under.ru": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
@@ -15547,6 +15557,11 @@
     "popunder.net": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "popunder.ru": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "popupad.net": {
@@ -19642,6 +19657,11 @@
     "topstats.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "toptracker.ru": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "topwin.cc": {
