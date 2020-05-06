@@ -9499,6 +9499,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "getrockerbox.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "getsearchlist.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -10622,6 +10627,11 @@
     "idirect.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "idot.cz": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "idregie.com": {
@@ -13247,7 +13257,7 @@
     "mueller-holz-bau.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "multioptik.com": {
         "epoch": 1589241600.0,
@@ -19397,6 +19407,11 @@
     "trackingstatalytics.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "tracklead.net": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "trackmysales.com": {
