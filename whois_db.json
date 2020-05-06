@@ -34,6 +34,11 @@
         "expiration_date": "19-mar-2021",
         "state": "future"
     },
+    "100-100.ru": {
+        "epoch": 1599523200.0,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "100webads.com": {
         "epoch": 1662163200.0,
         "expiration_date": "03-sep-2022",
@@ -5284,6 +5289,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "cadaver.org": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "cafecoc.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
@@ -10390,9 +10400,9 @@
         "state": "future"
     },
     "hotchatdate.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "hoteldelamer-tregastel.com": {
         "epoch": 1592265600.0,
@@ -12052,6 +12062,11 @@
     "liveadexchanger.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
+    "livebetting.com": {
+        "epoch": 1650067200.0,
+        "expiration_date": "16-apr-2022",
         "state": "future"
     },
     "livecount.fr": {
@@ -15134,6 +15149,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "playbet.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
     "playertraffic.com": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -17744,6 +17764,11 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "spekband.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "spiderbait.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -20092,6 +20117,11 @@
     "usadserver.com": {
         "epoch": 1640908800.0,
         "expiration_date": "31-dec-2021",
+        "state": "future"
+    },
+    "usaenterprise.com": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "usapromotravel.com": {
