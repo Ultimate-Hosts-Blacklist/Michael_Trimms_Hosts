@@ -11404,6 +11404,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "itcompany.com": {
+        "epoch": 1665532800.0,
+        "expiration_date": "12-oct-2022",
+        "state": "future"
+    },
     "itfarm.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -12867,6 +12872,11 @@
     "mdotm.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "measuremap.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "meatspin.biz": {
@@ -21327,7 +21337,7 @@
     "whipcrack.org": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "whispa.com": {
         "epoch": 1672704000.0,
@@ -22082,6 +22092,11 @@
     "z7752.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "zangocash.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "zanox.com": {
