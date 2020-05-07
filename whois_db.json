@@ -8305,8 +8305,8 @@
         "state": "future"
     },
     "ertya.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "esball.net": {
@@ -8652,6 +8652,11 @@
     "falconbet.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "falkag.net": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "family-offer.com": {
@@ -18729,6 +18734,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "superstats.com": {
+        "epoch": 1664928000.0,
+        "expiration_date": "05-oct-2022",
+        "state": "future"
+    },
     "supertop.ru": {
         "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
@@ -21587,7 +21597,7 @@
     "wormgush.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wowanalytics.co.uk": {
         "epoch": 1606003200.0,
@@ -21597,6 +21607,11 @@
     "wp-club.net": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
+    "wp-stats.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "wp9.ru": {
