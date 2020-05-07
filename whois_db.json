@@ -4974,6 +4974,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "blogpatrol.com": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "state": "future"
+    },
     "blogrankers.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
@@ -5647,6 +5652,11 @@
     "cashpartner.com": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "cashpoint.com": {
+        "epoch": 1807660800.0,
+        "expiration_date": "14-apr-2027",
         "state": "future"
     },
     "cashthat.com": {
@@ -16575,8 +16585,8 @@
         "state": "future"
     },
     "realtracker.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "rebeccacella.com": {
@@ -21244,6 +21254,11 @@
         "expiration_date": "17-oct-2021",
         "state": "future"
     },
+    "warlog.info": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "warlog.ru": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -21422,6 +21437,11 @@
     "webstats4u.com": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "webtistic.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "webtrackerplus.com": {
