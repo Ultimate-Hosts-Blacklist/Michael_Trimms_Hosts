@@ -2549,6 +2549,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "adtrak.net": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
     "adtriplex.com": {
         "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
@@ -6347,6 +6352,11 @@
     "cmdbet.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "cnomy.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "cnstats.com": {
@@ -17340,8 +17350,8 @@
         "state": "future"
     },
     "searchforit.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "searchfwding.com": {
@@ -19597,6 +19607,11 @@
     "tizers.net": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "tk-gregoric.si": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "tkqlhce.com": {
