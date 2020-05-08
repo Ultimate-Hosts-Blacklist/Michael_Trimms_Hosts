@@ -4469,6 +4469,11 @@
         "expiration_date": "19-apr-2021",
         "state": "future"
     },
+    "betline.com": {
+        "epoch": 1681516800.0,
+        "expiration_date": "15-apr-2023",
+        "state": "future"
+    },
     "betliner.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
@@ -5522,7 +5527,7 @@
     "cannabislyric.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cannabispicture.com": {
         "epoch": 1600214400.0,
@@ -15389,6 +15394,11 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "peachy18.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "peakclick.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -16824,6 +16834,11 @@
         "expiration_date": "15-nov-2022",
         "state": "future"
     },
+    "republer.com": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
     "res-x.com": {
         "epoch": 1629676800.0,
         "expiration_date": "23-aug-2021",
@@ -18022,6 +18037,11 @@
     "sj88.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "skassets.com": {
+        "epoch": 1643760000.0,
+        "expiration_date": "02-feb-2022",
         "state": "future"
     },
     "skattabrain.com": {
@@ -20554,6 +20574,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "tubedspots.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "tubehits.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -21042,6 +21067,11 @@
     "videoclick.ru": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "videocop.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "videoegg.com": {
