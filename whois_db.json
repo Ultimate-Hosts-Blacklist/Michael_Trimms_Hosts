@@ -5154,6 +5154,11 @@
         "expiration_date": "29-jan-2023",
         "state": "future"
     },
+    "bookofkisl.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "boom.ro": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -18414,6 +18419,11 @@
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
+    "sos-medecins-stmalo.fr": {
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "state": "future"
+    },
     "soundcomputers.net": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
@@ -20957,7 +20967,7 @@
     "usapolice.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "usapromotravel.com": {
         "epoch": 1595462400.0,
@@ -22137,6 +22147,11 @@
     "xed.pl": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "xertive.com": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "xfuckbook.com": {
