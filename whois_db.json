@@ -2139,6 +2139,11 @@
         "expiration_date": "12-aug-2021",
         "state": "future"
     },
+    "adsdk.com": {
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
     "adsearch.pl": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
@@ -9122,6 +9127,11 @@
     "flowtec.com.br": {
         "epoch": 1634947200.0,
         "expiration_date": "23-oct-2021",
+        "state": "future"
+    },
+    "flttracksecure.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "flu23.com": {
