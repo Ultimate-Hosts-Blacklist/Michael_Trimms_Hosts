@@ -7324,6 +7324,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "ctnsnet.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "ctrck.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -14819,6 +14824,11 @@
         "expiration_date": "11-jan-2023",
         "state": "future"
     },
+    "odinbet.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "offerent.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -19762,7 +19772,7 @@
     "themecounter.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "themexp.org": {
         "epoch": 1603929600.0,
@@ -22175,9 +22185,9 @@
         "state": "future"
     },
     "wormgush.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "wowanalytics.co.uk": {
         "epoch": 1606003200.0,
