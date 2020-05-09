@@ -12629,6 +12629,11 @@
         "expiration_date": "06-mar-2023",
         "state": "future"
     },
+    "liveinternet.ru": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "liveperson.com": {
         "epoch": 1629676800.0,
         "expiration_date": "23-aug-2021",
@@ -18555,8 +18560,8 @@
         "state": "future"
     },
     "specificmedia.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "specificpop.com": {
@@ -20432,6 +20437,11 @@
     "traff1.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "traffic-exchange.com": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "traffic-offers.com": {
