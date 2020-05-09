@@ -2739,6 +2739,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "adverticum.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "adverticum.net": {
         "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
@@ -5167,6 +5172,11 @@
     "boom.ro": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "boomads.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "boonsolutions.com": {
@@ -20682,6 +20692,11 @@
     "tsgonline.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
+    "tsmtrk.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "ttwitter.com": {
