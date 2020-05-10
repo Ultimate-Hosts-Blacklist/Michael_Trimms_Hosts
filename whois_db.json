@@ -6149,6 +6149,11 @@
         "expiration_date": "15-jul-2020",
         "state": "future"
     },
+    "click2paid.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "click4click.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -7372,7 +7377,7 @@
     "customersupporthelp.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "customsboysint.com": {
         "epoch": 1594944000.0,
@@ -12825,8 +12830,8 @@
         "state": "future"
     },
     "lpcloudsvr302.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "lpmxp2014.com": {
