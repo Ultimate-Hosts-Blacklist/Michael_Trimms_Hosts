@@ -1950,9 +1950,9 @@
         "state": "future"
     },
     "adreadytractions.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "adregistry.com": {
         "epoch": 1600128000.0,
@@ -12334,9 +12334,19 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "kvors.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "kylie-walters.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "ladbrokes.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "ladyclicks.ru": {
