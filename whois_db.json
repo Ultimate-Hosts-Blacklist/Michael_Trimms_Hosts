@@ -5489,6 +5489,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "buy404s.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "buycheapadvertising.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -19207,7 +19212,7 @@
     "statsession.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "statsforever.com": {
         "epoch": 1590192000.0,
@@ -22997,7 +23002,7 @@
     "zantracker.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "zapunited.com": {
         "epoch": 1611187200.0,
