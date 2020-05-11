@@ -12535,8 +12535,8 @@
         "state": "future"
     },
     "lightspeedcash.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "lijit.com": {
@@ -21372,6 +21372,11 @@
     "valueclick.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "valueclick.net": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "valueclickmedia.com": {
