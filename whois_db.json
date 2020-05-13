@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "ad4game.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "ad4partners.com": {
@@ -9475,9 +9475,9 @@
         "state": "future"
     },
     "freedailydownload.com": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "freedownloadzone.com": {
         "epoch": 1616803200.0,
@@ -17037,6 +17037,11 @@
     "readserver.net": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "readytobet.com": {
+        "epoch": 1793750400.0,
+        "expiration_date": "04-nov-2026",
         "state": "future"
     },
     "realbannerads.com": {
