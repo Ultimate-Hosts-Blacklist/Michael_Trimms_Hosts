@@ -4004,6 +4004,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "bannerflux.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "bannergratis.it": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -9432,6 +9437,11 @@
     "fpcclicks.com": {
         "epoch": 1624492800.0,
         "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
+    "fpcpopunder.com": {
+        "epoch": 1683072000.0,
+        "expiration_date": "03-may-2023",
         "state": "future"
     },
     "fpctraffic.com": {
