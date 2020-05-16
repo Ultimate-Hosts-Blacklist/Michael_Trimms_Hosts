@@ -12967,7 +12967,7 @@
     "lolhello.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lolshock.com": {
         "epoch": 1619654400.0,
@@ -15572,6 +15572,11 @@
     "oxybe.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
+    "ozertesa.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "pacificpoker.com": {
