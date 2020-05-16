@@ -5282,7 +5282,7 @@
     "bowlgirl.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "boylesports.com": {
         "epoch": 1650844800.0,
@@ -7060,9 +7060,9 @@
         "state": "future"
     },
     "creafi-online-media.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "creativecdn.com": {
         "epoch": 1898121600.0,
