@@ -12724,6 +12724,11 @@
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
+    "linkconnector.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "linkcounter.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
@@ -20155,9 +20160,9 @@
         "state": "future"
     },
     "themecounter.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "themexp.org": {
         "epoch": 1603929600.0,
@@ -21020,8 +21025,8 @@
         "state": "future"
     },
     "traffiq.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "traffk.info": {
