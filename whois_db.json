@@ -225,9 +225,9 @@
         "state": "past"
     },
     "1priest1nun.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "1se.org": {
         "epoch": 1606262400.0,
@@ -17652,6 +17652,11 @@
     "roorbong.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "rootbuzz.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "roshanavar.com": {
