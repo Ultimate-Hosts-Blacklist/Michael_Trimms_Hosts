@@ -12649,6 +12649,11 @@
         "expiration_date": "14-dec-2020",
         "state": "future"
     },
+    "leonbets.net": {
+        "epoch": 1738454400.0,
+        "expiration_date": "02-feb-2025",
+        "state": "future"
+    },
     "les-ptits-dodos.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
@@ -18775,9 +18780,9 @@
         "state": "future"
     },
     "smaato.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "smarkets.com": {
         "epoch": 1821225600.0,
