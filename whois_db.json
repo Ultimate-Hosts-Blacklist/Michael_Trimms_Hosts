@@ -6820,8 +6820,8 @@
         "state": "future"
     },
     "coolsavings.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "coolwebstats.com": {
@@ -18537,7 +18537,7 @@
     "siccash.com": {
         "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sieltre.it": {
         "epoch": 1616544000.0,
@@ -23287,6 +23287,11 @@
     "zantracker.com": {
         "epoch": 1620691200.0,
         "expiration_date": "11-may-2021",
+        "state": "future"
+    },
+    "zapadserver1.com": {
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "zapunited.com": {
