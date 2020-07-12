@@ -4542,7 +4542,7 @@
     "betjamaica.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "betjambo.com": {
         "epoch": 1625011200.0,
@@ -6270,8 +6270,8 @@
         "state": "future"
     },
     "clickbank.net": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "clickbooth.com": {
