@@ -14349,6 +14349,11 @@
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
+    "my-cash-bot.co": {
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
+    },
     "my-stats.com": {
         "epoch": 1637884800.0,
         "expiration_date": "26-nov-2021",
@@ -16150,9 +16155,9 @@
         "state": "future"
     },
     "phica.net": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
-        "state": "past"
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
     },
     "phitenmy.com": {
         "epoch": 1603152000.0,
