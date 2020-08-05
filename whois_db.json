@@ -5722,7 +5722,7 @@
     "cardbet.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cardgamespidersolitaire.com": {
         "epoch": 1609286400.0,
@@ -12122,7 +12122,7 @@
     "jetpackdigital.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "jetseeker.com": {
         "epoch": 1606348800.0,
@@ -19010,9 +19010,9 @@
         "state": "future"
     },
     "softclick.com.br": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "softonic-analytics.net": {
         "epoch": 1613260800.0,
@@ -22295,8 +22295,8 @@
         "state": "future"
     },
     "webbizwild.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "webbookmakers.com": {
