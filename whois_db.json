@@ -5394,6 +5394,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "broadcastpc.tv": {
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
+    },
     "broadspring.com": {
         "epoch": 1646179200.0,
         "expiration_date": "02-mar-2022",
@@ -10962,7 +10967,7 @@
     "hitexchange.net": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitfarm.com": {
         "epoch": 1625961600.0,
