@@ -1385,9 +1385,9 @@
         "state": "future"
     },
     "adexpose.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "adexprt.com": {
         "epoch": 1609372800.0,
@@ -9662,6 +9662,11 @@
     "freelaptopreward.com": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "freelaptopwebsites.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "freelogs.com": {
