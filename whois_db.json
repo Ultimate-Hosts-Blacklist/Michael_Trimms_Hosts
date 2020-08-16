@@ -4747,7 +4747,7 @@
     "bets4all.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "betsafe.com": {
         "epoch": 1837209600.0,
@@ -15212,7 +15212,7 @@
     "obeus.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "objectopoly.info": {
         "epoch": 1610323200.0,
