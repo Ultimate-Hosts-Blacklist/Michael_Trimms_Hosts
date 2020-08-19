@@ -3847,7 +3847,7 @@
     "avppet.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "avres.net": {
         "epoch": 1603497600.0,
@@ -5395,8 +5395,8 @@
         "state": "future"
     },
     "british-banners.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
         "state": "future"
     },
     "brittlefilet.com": {
