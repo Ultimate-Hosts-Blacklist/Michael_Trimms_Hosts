@@ -405,8 +405,8 @@
         "state": "future"
     },
     "2site.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "30-day-change.com": {
@@ -15117,7 +15117,7 @@
     "nowstat.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "noxwin.com": {
         "epoch": 1629676800.0,
@@ -15182,7 +15182,7 @@
     "nuseek.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "nutabuse.com": {
         "epoch": 1621123200.0,
