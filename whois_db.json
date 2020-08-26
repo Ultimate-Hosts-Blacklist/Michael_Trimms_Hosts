@@ -337,7 +337,7 @@
     "29bca6cb72a665c8.se": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "2amsports.com": {
         "epoch": 1620000000.0,
@@ -6870,8 +6870,8 @@
         "state": "future"
     },
     "coral.co.uk": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "corbettsports.com": {
@@ -12805,9 +12805,9 @@
         "state": "future"
     },
     "likeportal.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "likespike.com": {
         "epoch": 1629244800.0,
