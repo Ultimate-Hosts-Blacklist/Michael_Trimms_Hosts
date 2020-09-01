@@ -7577,7 +7577,7 @@
     "cybilling.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "state": "past"
     },
     "cydoor.com": {
         "epoch": 1599696000.0,
@@ -17830,8 +17830,8 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "rsiuk.co.uk": {
