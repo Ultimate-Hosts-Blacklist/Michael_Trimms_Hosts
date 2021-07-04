@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.",
-    "end_datetime": "2021-03-15T22:27:25.710168",
-    "end_epoch": 1615843645.710168,
+    "end_datetime": "2021-07-04T21:53:03.296879",
+    "end_epoch": 1625435583.296879,
     "issue_link": "https://github.com/michaeltrimm/hosts-blocking/issues/new/choose",
     "link": "https://github.com/michaeltrimm/hosts-blocking/",
     "name": "Michael_Trimms_Hosts",
