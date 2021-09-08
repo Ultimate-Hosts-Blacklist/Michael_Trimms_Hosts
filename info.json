@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "description": "Shell script to manage hosts file by blocking known malware, spyware, virus, shocksites, etc.",
     "end_datetime": "2021-09-07T11:46:38.308828",
@@ -7,14 +7,14 @@
     "issue_link": "https://github.com/michaeltrimm/hosts-blocking/issues/new/choose",
     "link": "https://github.com/michaeltrimm/hosts-blocking/",
     "name": "Michael_Trimms_Hosts",
-    "previous_end_datetime": "2021-09-06T05:08:25.740850",
-    "previous_end_epoch": 1630904905.74085,
-    "previous_start_datetime": "2021-09-05T08:37:39.974177",
-    "previous_start_epoch": 1630831059.974177,
+    "previous_end_datetime": "2021-09-07T11:46:38.308828",
+    "previous_end_epoch": 1631015198.308828,
+    "previous_start_datetime": "2021-09-06T07:26:57.859220",
+    "previous_start_epoch": 1630913217.85922,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-09-06T07:26:57.859220",
-    "start_epoch": 1630913217.85922
+    "start_datetime": "2021-09-08T07:46:21.096353",
+    "start_epoch": 1631087181.096353
 }
